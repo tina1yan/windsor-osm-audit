@@ -1,0 +1,22 @@
+{
+  "status": "REVIEW_TOOL_READY_NO_PREAPPROVED_CHANGES",
+  "preapproved_modification_count": 0,
+  "review_queue_nodes": 40,
+  "recorded_attribute_groups": 5,
+  "josm_context_snapshots": 9,
+  "export_formats": [
+    "osm",
+    "osc"
+  ],
+  "export_scope": "Individually approved existing crossing-node tag changes only; current API comparison required at export",
+  "max_export_batch": 10,
+  "source_snapshot": "2026-10-28T03:33:35.675Z",
+  "actual_osm_uploads": 0,
+  "outstanding": [
+    "Feature-specific physical verification",
+    "Suitable source permission",
+    "Applicable community process",
+    "Current geometry and connected-way review in JOSM"
+  ],
+  "note": "This kit is ready for review and preparation; no verified correction batch is claimed."
+}

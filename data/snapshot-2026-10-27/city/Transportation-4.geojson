@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03101671072339,
+          42.316902299763534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "name": "WATER WORLD COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "400 Wyandotte St E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03131897909248,
+          42.316651248302435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "name": "WATER WORLD COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "400 Wyandotte St E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0702495290518,
+          42.287843983682684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "name": "MIC MAC POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "1051 Prince Rd",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00603749893584,
+          42.285133544317524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "name": "REMINGTON POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "2710 Lillian Ave",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07657207024523,
+          42.3001150975962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "name": "MACKENZIE HALL",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "3277 Sandwich St",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05377424710314,
+          42.307789353656055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "name": "ADIE KNOX HERMAN RECREATION COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "1551 Wyandotte St W",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01512233739489,
+          42.26442015188557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "name": "CENTRAL POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "3301 Woodland Ave",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99823655732142,
+          42.31879362650064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "name": "GINO & LIZ MARCUS COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "1168 Drouillard Road",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05363829364212,
+          42.30741847808822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "name": "ADIE KNOX HERMAN RECREATION COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "ARENA",
+        "address": "1551 Wyandotte St W",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0061008326218,
+          42.28515745473169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "name": "REMINGTON POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "2710 Lillian Ave",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0750028235703,
+          42.26441253777052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "name": "OJIBWAY NATURE CENTRE",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "5200 Matchette Rd",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91554827552625,
+          42.3033012211177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "name": "FOREST GLADE COMMUNITY CARE CENTRE",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "3215 Forest Glade Dr",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97744518910513,
+          42.31331061947698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "name": "CONSTABLE JOHN ATKINSON MEMORIAL COMMUNITY CENTRE",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "4270 Alice St",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0702100288533,
+          42.28781372120278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "name": "MIC MAC POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "1051 Prince Rd",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01514126309297,
+          42.26445031887096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "name": "CENTRAL POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "3301 Woodland Ave",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05363474872868,
+          42.3079054707108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "name": "ADIE KNOX HERMAN RECREATION COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "1551 Wyandotte St W",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91500796746574,
+          42.30386419945161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "name": "FOREST GLADE ARENA",
+        "type": "BIKE RACK",
+        "facility_id": "ARENA",
+        "address": "3205 Forest Glade Dr",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03448536189511,
+          42.317370775431066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "name": "CITY HALL SQUARE",
+        "type": "BIKE RACK",
+        "facility_id": "MUNICIPAL BUILDING",
+        "address": "350 City Hall Sq E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": 1707256226000,
+        "last_edited_date": 1707256400000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06312168802769,
+          42.31269231771298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "name": "ATKINSON POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "2005 Riverside Dr W",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91872261908878,
+          42.33815397400386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "name": "SANDPOINT BEACH",
+        "type": "BIKE RACK",
+        "facility_id": "BEACH",
+        "address": "0 Riverside Dr E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03525492147556,
+          42.317110492018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "name": "CITY HALL SQUARE",
+        "type": "BIKE RACK",
+        "facility_id": "MUNICIPAL BUILDING",
+        "address": "350 City Hall Sq E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": 1707256341000,
+        "last_edited_date": 1707256341000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0336383109404,
+          42.253863273182326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "name": "OAKWOOD COMMUNITY CENTRE",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "2520 Cabana Rd W",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97974810179284,
+          42.329153464868035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "name": "CONVENTRY REAUME GARDENS",
+        "type": "BIKE RACK",
+        "facility_id": "MISCELANEOUS AREA",
+        "address": "4714 Riverside Dr E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0161104230423,
+          42.309843973538406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "name": "LANSPEARY POOL",
+        "type": "BIKE RACK",
+        "facility_id": "POOL",
+        "address": "1250 Langlois Ave",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03894122101765,
+          42.31601778860609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "name": "PELISSER PARKING LOT",
+        "type": "BIKE RACK",
+        "facility_id": "PARKING LOT",
+        "address": "406 PELISSIER ST",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": 1707256593000,
+        "last_edited_date": 1707256593000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03110526325885,
+          42.31674438842399
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "name": "WATER WORLD COMPLEX",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "400 Wyandotte St E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97768606185426,
+          42.3133904561902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "name": "CONSTABLE JOHN ATKINSON MEMORIAL COMMUNITY CENTRE",
+        "type": "BIKE RACK",
+        "facility_id": "COMMUNITY CENTRE",
+        "address": "4270 Alice St",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91883925487694,
+          42.33816095693662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "name": "SANDPOINT BEACH",
+        "type": "BIKE RACK",
+        "facility_id": "BEACH",
+        "address": "0 Riverside Dr E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.026101677493,
+          42.3233154689716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "name": "BERT WEEKS FOUNTAIN",
+        "type": "BIKE RACK",
+        "facility_id": "MISCELANEOUS AREA",
+        "address": "340 Riverside Dr E",
+        "url": "http://www.citywindsor.ca/residents/Recreation/CycleWindsor/Pages/Cycle-Windsor.aspx",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,2325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03467499982101,
+          42.2564850002267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 2555,
+        "street": "PULFORD",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "Carpri Pizzeria Community Centre",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94517449956115,
+          42.27613200004934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 3200,
+        "street": "CABANA",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 9",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "Windsor Airport",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95515100019983,
+          42.284249999922494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 4545,
+        "street": "RHODES",
+        "suffix": "DR",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Enwin Utilities",
+        "provider": "Charge Point",
+        "location": "Enwin Utilities",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99721700060554,
+          42.30036899992009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "gisid": null,
+        "num_charger": 4,
+        "num_port": 8,
+        "charger_level": "Level 2 ",
+        "addr_num": 1995,
+        "street": "LENS",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": "Windsor Regional Hospital",
+        "provider": "Charge Point",
+        "location": "Windsor Regional Hospital - Metropolitan Campus 1",
+        "note": "* = same location as another row; counts as 1 station for ward count",
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99721700060554,
+          42.30036899992009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "gisid": null,
+        "num_charger": 5,
+        "num_port": 10,
+        "charger_level": "Level 2",
+        "addr_num": 1995,
+        "street": "LENS",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": "Windsor Regional Hospital",
+        "provider": "Charge Point",
+        "location": "Windsor Regional Hospital - Metropolitan Campus 2",
+        "note": "* = same location as another row; counts as 1 station for ward count",
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00914200023267,
+          42.3105930001745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 1319,
+        "street": "LINCOLN",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor Lot 4-1",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02186196753473,
+          42.312689285655246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 1031,
+        "street": "ELSMERE",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor Lot 35",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0387024995658,
+          42.315732000344894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 406,
+        "street": "PELISSIER",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor Garage 2",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03596200006666,
+          42.31664999962112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 445,
+        "street": "CITY HALL",
+        "suffix": "SQ",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor Lot 10 - City Hall Square",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04457050023503,
+          42.31724399961031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 401,
+        "street": "PITT",
+        "suffix": "ST",
+        "direction": "W",
+        "ward": "WARD 3",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor Aquatic Centre",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07315449942767,
+          42.285195000096486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 1125,
+        "street": "PRINCE",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windor Mic Mac Complex",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07468450023623,
+          42.30136800030305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 363,
+        "street": "MILL",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor WPL - John Muir",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92753449977262,
+          42.31933199961682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2 ",
+        "addr_num": 8787,
+        "street": "MCHUGH",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 6",
+        "company": "City of Windsor",
+        "provider": "Charge Point",
+        "location": "City of Windsor WFCU Centre",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00716049509947,
+          42.27430655802704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 3",
+        "addr_num": 3155,
+        "street": "HOWARD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Roundhouse Centre",
+        "provider": "Ivy",
+        "location": "The Roundhouse Centre",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0071620002185,
+          42.27430499980521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "gisid": null,
+        "num_charger": 3,
+        "num_port": 6,
+        "charger_level": null,
+        "addr_num": 3175,
+        "street": "HOWARD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Devonshire Mall",
+        "provider": "Charge Point",
+        "location": "Devonshire Mall",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01779099967914,
+          42.282702000267264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 2595,
+        "street": "OUELLETTE",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": null,
+        "provider": "Sun Country",
+        "location": "Tepperman's Furniture Mattress Applicance & Electronics Store",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01156299999792,
+          42.29796600043413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 2175,
+        "street": "PARENT",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": null,
+        "provider": "EV Link",
+        "location": "Coboto Club",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00754450059442,
+          42.3251999998839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 298,
+        "street": "WALKER",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 5",
+        "company": null,
+        "provider": "Flo",
+        "location": "Via Rail Canada Inc.",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92519900006292,
+          42.3131489995779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 9425,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 7",
+        "company": "BMW",
+        "provider": "Charge Point",
+        "location": "Overseas Motors BMW",
+        "note": "May have additional station and port that are not shown ",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93002757355663,
+          42.31395470782395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 8155,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 8",
+        "company": null,
+        "provider": "Sun Country ",
+        "location": "Sun County Highway Charging Station",
+        "note": "wasn't able to find anything indicating that this exist ",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96473150031011,
+          42.25964399961864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "gisid": null,
+        "num_charger": 4,
+        "num_port": 8,
+        "charger_level": "Level 3 ",
+        "addr_num": 4150,
+        "street": "WALKER",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": "Tesla",
+        "location": "Tesla Supercharger",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96473150031011,
+          42.25964399961864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "gisid": null,
+        "num_charger": 3,
+        "num_port": 6,
+        "charger_level": "Level 3",
+        "addr_num": 4150,
+        "street": "WALKER",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Canadian Tire",
+        "provider": "Flo",
+        "location": "Canadian Tire",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04796799981403,
+          42.27317999961328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 2330,
+        "street": "HURON CHURCH",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": null,
+        "provider": "Sun Country ",
+        "location": "Comfort Inn & Suites",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06912699939939,
+          42.306029999997705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 400,
+        "street": "HURON CHURCH",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "University of Windsor",
+        "provider": "Flo",
+        "location": "Assumption University",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06583611768205,
+          42.30758640110889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 392,
+        "street": "SUNSET",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "University of Windsor",
+        "provider": "Flo",
+        "location": "University of Windsor Faculty of Education - Parking Lot",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0635695002398,
+          42.30406800018632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "gisid": null,
+        "num_charger": 4,
+        "num_port": 8,
+        "charger_level": "Level 2",
+        "addr_num": 2455,
+        "street": "WYANDOTTE",
+        "suffix": "ST",
+        "direction": "W",
+        "ward": "WARD 2",
+        "company": "University of Windsor",
+        "provider": "Flo",
+        "location": "University of Windsor - Main Parking Garage",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06166599960467,
+          42.30402300037815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 2285,
+        "street": "WYNDOTTE",
+        "suffix": "ST",
+        "direction": "W",
+        "ward": "WARD 2",
+        "company": "University of Windsor",
+        "provider": "Flo",
+        "location": "University of Windsor - Centre for Engineering Innovation",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.061981000475,
+          42.29805600023297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 2555,
+        "street": "COLLEGE",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "University of Windsor",
+        "provider": "Flo",
+        "location": "Toldo Lancer Centre Parking Lot",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98264150047123,
+          42.26172299986637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2 ",
+        "addr_num": 1150,
+        "street": "PROVINCIAL",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Ford Dealer ",
+        "provider": null,
+        "location": "Performance Ford ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98732149954407,
+          42.262965000421026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 1001,
+        "street": "PROVINCIAL",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Chrysler Dealer",
+        "provider": null,
+        "location": "Provincial Chrysler Dodge",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99979100055315,
+          42.27047999984569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "gisid": null,
+        "num_charger": null,
+        "num_port": 3,
+        "charger_level": "Level 2 ",
+        "addr_num": 500,
+        "street": "DIVISION",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Chevrolet ",
+        "provider": "Flo",
+        "location": "Premier Chevrolet Cadillac",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01546000049741,
+          42.27319799992878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 2985,
+        "street": "DOUGALL",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": "Remo Valente Real Estate",
+        "provider": "Flo",
+        "location": "Remo Valente Real Estate",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0125170004805,
+          42.292665000119044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 2462,
+        "street": "HOWARD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": null,
+        "provider": null,
+        "location": "Windsor Professional Centre",
+        "note": "Currently offline",
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03197949998983,
+          42.30844199990893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "gisid": null,
+        "num_charger": null,
+        "num_port": 20,
+        "charger_level": "Level 2 ",
+        "addr_num": 1030,
+        "street": "OUELLETE",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": "Windsor Regional Hospital",
+        "provider": "Charge Point",
+        "location": "Windsor Regional Hospital - Ouellette Campus",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01909149959538,
+          42.314373000045265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 1020,
+        "street": "ERIE",
+        "suffix": "ST",
+        "direction": "E",
+        "ward": "WARD 4",
+        "company": "City of Windsor",
+        "provider": null,
+        "location": "Municipal Lot 36 - Via Italia",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00211749986165,
+          42.312140999713925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 2109,
+        "street": "OTTAWA",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": null,
+        "provider": "Flo",
+        "location": "Market Square Complex",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00137049977461,
+          42.30557999980518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2",
+        "addr_num": 1680,
+        "street": "KILDARE",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 4",
+        "company": null,
+        "provider": null,
+        "location": "Green Sun Rising Inc.",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99404900039072,
+          42.30308699972415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 2300,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 5",
+        "company": null,
+        "provider": null,
+        "location": "Motor City Chrysler",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9817234998735,
+          42.28205399957602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 3143,
+        "street": "WALKER",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": "Sun Country",
+        "location": "Soar Hobby & More",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94163749954764,
+          42.29092799994439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 5950,
+        "street": "NORTH SERVICE",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 8",
+        "company": null,
+        "provider": "Sun Country ",
+        "location": "Windsor Scooter Pro",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93968450015913,
+          42.29260199955666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "gisid": null,
+        "num_charger": 3,
+        "num_port": 6,
+        "charger_level": "Level 2 ",
+        "addr_num": 3260,
+        "street": "JEFFERSON",
+        "suffix": "BLVD",
+        "direction": null,
+        "ward": "WARD 8",
+        "company": null,
+        "provider": "EV Duty",
+        "location": "Naylor's Kitchen, Bath and Flooring Centre ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94024249964022,
+          42.313454999962936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 3",
+        "addr_num": 7180,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 8",
+        "company": "Honda Dealer",
+        "provider": "Flo",
+        "location": "Windsor Honda",
+        "note": "Honda Dealer placed twice due to having 2 different level EV stations available ",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94024249964022,
+          42.313454999962936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 2",
+        "addr_num": 7180,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 8",
+        "company": "Honda Dealer",
+        "provider": "Flo",
+        "location": "Windsor Honda",
+        "note": "Honda Dealer placed twice due to having 2 different level EV stations available ",
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91374398941478,
+          42.31452504135168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2 ",
+        "addr_num": 10358,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Chrysler Dealer",
+        "provider": null,
+        "location": "Windsor Chrysler",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91559150024271,
+          42.3147960003989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "gisid": null,
+        "num_charger": 3,
+        "num_port": 3,
+        "charger_level": "Level 3",
+        "addr_num": 10150,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Chevrolet ",
+        "provider": null,
+        "location": "Gus Revenberg Chevrolet Buick GMC Ltd",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91683349994288,
+          42.31484100008274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 3",
+        "addr_num": 10080,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Kia",
+        "provider": null,
+        "location": "Gus Revenberg Kia",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92111750041028,
+          42.31514699971356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 9700,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Volkswagen",
+        "provider": "Charge Point",
+        "location": "Volkswagen of Windsor",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92434849946797,
+          42.31520999988697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 9420,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": null,
+        "provider": "Sun Country",
+        "location": "Windsor - Formula One Collision Inc",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92519900006292,
+          42.3131489995779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2 ",
+        "addr_num": 9375,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Toyota ",
+        "provider": null,
+        "location": "Eastway Toyota of Windsor ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9492589356483,
+          42.249885737776154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 4819,
+        "street": "8TH CONCESSON",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": null,
+        "location": "South West Detention Centre",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08494899987434,
+          42.2600310001483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": "Level 3 ",
+        "addr_num": 5501,
+        "street": "OJIBWAY",
+        "suffix": "PKWY",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": "Shell",
+        "provider": null,
+        "location": "Shell Recharge Charging Station",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99723950042633,
+          42.269912999735624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": "Level 2 ",
+        "addr_num": 650,
+        "street": "DIVISION",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": "Charge Point",
+        "location": "YNCU ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98450000030563,
+          42.26148899960117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": "Level 2",
+        "addr_num": 1155,
+        "street": "PROVINCIAL",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": "Mazda Dealer",
+        "provider": "Charge Point",
+        "location": "Mazda EV Shop",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03382000036292,
+          42.320223000184846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "gisid": null,
+        "num_charger": 5,
+        "num_port": 10,
+        "charger_level": null,
+        "addr_num": 377,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "E",
+        "ward": "WARD 3",
+        "company": "Caesars Windsor",
+        "provider": null,
+        "location": "Caesars Windsor RV Lot",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03382000036292,
+          42.320223000184846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "gisid": null,
+        "num_charger": null,
+        "num_port": 0,
+        "charger_level": null,
+        "addr_num": 377,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "E",
+        "ward": "WARD 3",
+        "company": "Caesars Windsor",
+        "provider": null,
+        "location": "Caesars Windsor Parking Garage",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01202199969647,
+          42.299324999811255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": null,
+        "addr_num": 860,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 4",
+        "company": null,
+        "provider": "Flo",
+        "location": "Parent Avenue Pharmacy ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": 1758128707000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92519900006292,
+          42.3131489995779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "gisid": null,
+        "num_charger": 2,
+        "num_port": 4,
+        "charger_level": null,
+        "addr_num": 9225,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 7",
+        "company": "Mercedes Benz Dealer",
+        "provider": null,
+        "location": "Overseas Mercedes Benz",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94851800019752,
+          42.310151999934014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": null,
+        "addr_num": 6333,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 8",
+        "company": "Ford Dealer",
+        "provider": null,
+        "location": "Rose City Ford",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96627050061095,
+          42.277923000320925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "gisid": null,
+        "num_charger": null,
+        "num_port": 0,
+        "charger_level": null,
+        "addr_num": 3475,
+        "street": "WHEELTON",
+        "suffix": "DR",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": "Sun Country",
+        "location": "Invest Windsor Essex/Automobility Centre ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05067700046392,
+          42.27676199989867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 2,
+        "charger_level": null,
+        "addr_num": 2144,
+        "street": "HURON CHURCH",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": null,
+        "provider": null,
+        "location": "Fred's Farm Fresh ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05389450033238,
+          42.28181100032743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": null,
+        "addr_num": 1840,
+        "street": "HURON CHURCH",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": null,
+        "provider": null,
+        "location": "Hampton Inn Windsor",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01534750058403,
+          42.273801000048444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": null,
+        "addr_num": 2955,
+        "street": "DOUGALL",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": null,
+        "provider": null,
+        "location": "Comfort Inn & Suites ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01991500056387,
+          42.24815999972554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": null,
+        "addr_num": 2000,
+        "street": "TALBOT",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": "St. Clair College",
+        "provider": null,
+        "location": "St. Clair College ",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04089849966186,
+          42.31906199989172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": 1,
+        "charger_level": null,
+        "addr_num": 1,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "W",
+        "ward": "WARD 3",
+        "company": null,
+        "provider": null,
+        "location": "The Keg Windsor Parking Garage",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02550075237086,
+          42.306136883107705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "gisid": "EVC-2-3",
+        "num_charger": 2,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 1269,
+        "street": "MERCER",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Traffic Operations",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97125457581127,
+          42.28824858386555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "gisid": "EVC-21-28",
+        "num_charger": 8,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 3540,
+        "street": "NORTH SERVICE",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 5",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Environmental Temple Yard",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01751034007158,
+          42.29134296700543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "gisid": "EVC-18-20",
+        "num_charger": 3,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 125,
+        "street": "TECUMSEH",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 3",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Parks Operations Yard",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03384424091496,
+          42.311861970179734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "gisid": "EVC-16",
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 815,
+        "street": "GOYEAU",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Fire Station #1",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08545819655767,
+          42.28382277078578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "gisid": "EVC-17",
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 4155,
+        "street": "OJIBWAY",
+        "suffix": "PKWY",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Lou Romano Plant",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03990420089623,
+          42.29614475307275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "gisid": "EVC-5-12",
+        "num_charger": 8,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 1531,
+        "street": "CRAWFORD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Crawford Yard Island",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04032052956453,
+          42.29704956960425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "gisid": "EVC-13-15",
+        "num_charger": 3,
+        "num_port": null,
+        "charger_level": "Level 2",
+        "addr_num": 1531,
+        "street": "CRAWFORD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 10",
+        "company": "City of Windsor - Parks",
+        "provider": null,
+        "location": "Crawford Yard Building 4",
+        "note": null,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09751370803617,
+          42.25819498387585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 599,
+        "street": "SPRUCEWOOD",
+        "suffix": "AVE",
+        "direction": null,
+        "ward": "WARD 1",
+        "company": null,
+        "provider": null,
+        "location": "Switch",
+        "note": "Privately Owned",
+        "created_date": 1758063083000,
+        "last_edited_date": 1758063247000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08236389810206,
+          42.28608692227835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 4007,
+        "street": "SANDWICH",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 2",
+        "company": null,
+        "provider": null,
+        "location": "Windsor Garrison Army Cadets",
+        "note": "Privately Owned",
+        "created_date": 1758063157000,
+        "last_edited_date": 1758063252000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04814622323094,
+          42.31820485866953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 620,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "W",
+        "ward": "WARD 3",
+        "company": null,
+        "provider": null,
+        "location": "Legacy Park",
+        "note": "Privately Owned",
+        "created_date": 1758063273000,
+        "last_edited_date": 1758064222000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04125034657093,
+          42.3198245013985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 70,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "W",
+        "ward": "WARD 3",
+        "company": null,
+        "provider": null,
+        "location": "Lot 5",
+        "note": "Privately Owned",
+        "created_date": 1758063522000,
+        "last_edited_date": 1758064222000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03306605761043,
+          42.321412493627825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 340,
+        "street": "RIVERSIDE",
+        "suffix": "DR",
+        "direction": "E",
+        "ward": "WARD 3",
+        "company": null,
+        "provider": null,
+        "location": "Lot 34",
+        "note": "Privately Owned",
+        "created_date": 1758063763000,
+        "last_edited_date": 1758127589000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03699328080704,
+          42.31924003739769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 150,
+        "street": "GOYEAU",
+        "suffix": "ST",
+        "direction": null,
+        "ward": "WARD 3",
+        "company": null,
+        "provider": null,
+        "location": "Windsor Police Headquarters",
+        "note": "Privately Owned",
+        "created_date": 1758063909000,
+        "last_edited_date": 1758130054000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94753905949489,
+          42.304854748902336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 2696,
+        "street": "JEFFERSON",
+        "suffix": "BLVD",
+        "direction": null,
+        "ward": "WARD 8",
+        "company": null,
+        "provider": null,
+        "location": "Windsor Police Collison Centre",
+        "note": "Privately Owned",
+        "created_date": 1758064005000,
+        "last_edited_date": 1758130054000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96232539094738,
+          42.24938655274357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 4730,
+        "street": "WALKER",
+        "suffix": "RD",
+        "direction": null,
+        "ward": "WARD 9",
+        "company": null,
+        "provider": null,
+        "location": "Mobil 401",
+        "note": "Privately Owned",
+        "created_date": 1758064082000,
+        "last_edited_date": 1758130055000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00253850205004,
+          42.28200310939586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "gisid": null,
+        "num_charger": 1,
+        "num_port": null,
+        "charger_level": null,
+        "addr_num": 755,
+        "street": "GRAND MARAIS",
+        "suffix": "RD",
+        "direction": "E",
+        "ward": "WARD 10",
+        "company": null,
+        "provider": null,
+        "location": "Midtown Condo",
+        "note": "Privately Owned",
+        "created_date": 1758064141000,
+        "last_edited_date": 1758130056000
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "scope": "City of Windsor, Ontario administrative boundary",
+  "layers": [
+    {
+      "group": "Boundaries",
+      "id": 0,
+      "label": "City boundary",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Boundaries/MapServer/0",
+      "file": "Boundaries-0.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 8,
+      "label": "Crossing guards",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/8",
+      "file": "Transportation-8.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 22,
+      "label": "Sidewalks",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/22",
+      "file": "Transportation-22.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 23,
+      "label": "Road centrelines",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/23",
+      "file": "Transportation-23.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 4,
+      "label": "Bicycle parking",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/4",
+      "file": "Transportation-4.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 11,
+      "label": "EV chargers",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+      "file": "Transportation-11.geojson"
+    },
+    {
+      "group": "Transportation",
+      "id": 3,
+      "label": "Bicycle lanes",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/3",
+      "file": "Transportation-3.geojson"
+    },
+    {
+      "group": "CommunityRecreation",
+      "id": 12,
+      "label": "Park washrooms",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/CommunityRecreation/MapServer/12",
+      "file": "CommunityRecreation-12.geojson"
+    },
+    {
+      "group": "PlanningDevelopment",
+      "id": 0,
+      "label": "Active transportation projects",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/0",
+      "file": "PlanningDevelopment-0.geojson"
+    },
+    {
+      "group": "PlanningDevelopment",
+      "id": 5,
+      "label": "Road projects",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/5",
+      "file": "PlanningDevelopment-5.geojson"
+    },
+    {
+      "group": "PlanningDevelopment",
+      "id": 6,
+      "label": "Sidewalk projects",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/6",
+      "file": "PlanningDevelopment-6.geojson"
+    },
+    {
+      "group": "PlanningDevelopment",
+      "id": 10,
+      "label": "Heritage sites",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/10",
+      "file": "PlanningDevelopment-10.geojson"
+    }
+  ],
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "osm_bbox": [
+    42.232,
+    -83.113,
+    42.354,
+    -82.888
+  ],
+  "max_snapshot_age_hours": 48,
+  "pxo_source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+  "pxo_source_last_checked": "2026-10-28",
+  "pxo_pairs": [
+    [
+      "JEFFERSON BLVD",
+      "EDGAR ST"
+    ],
+    [
+      "LITTLE RIVER BLVD",
+      "CORA GREENWOOD DR"
+    ],
+    [
+      "PILLETTE RD",
+      "MILLOY ST"
+    ],
+    [
+      "JEFFERSON BLVD",
+      "CORONATION AVE"
+    ],
+    [
+      "WYANDOTTE ST E",
+      "MARENTETTE AVE"
+    ],
+    [
+      "FREEDOM WAY",
+      "PARK ST E"
+    ],
+    [
+      "LAUZON PKY",
+      "FOREST GLADE DR"
+    ],
+    [
+      "MATCHETT RD",
+      "TITCOMBE RD"
+    ],
+    [
+      "RHODES DR",
+      "ELECTRICITY DR"
+    ],
+    [
+      "RICHMOND ST",
+      "CHILVER RD"
+    ],
+    [
+      "BANWELL RD",
+      "MULBERRY DR"
+    ]
+  ],
+  "pxo_note": "Manually maintained location list; includes two photographed examples. Check the official page on each refresh. Unlocated facility descriptions remain manual review.",
+  "poi_thresholds_m": [
+    35,
+    150
+  ],
+  "road_candidate_m": 12,
+  "road_sample_m": 15
+}

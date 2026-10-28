@@ -1,0 +1,14 @@
+flowchart TD
+ A[City GIS: 12 layers + checked PXO list] --> C[Check counts, IDs, timestamps and city boundary]
+ B[OSM snapshot: objects, versions, tags and geometry] --> C
+ C --> D[Local comparison: tags, topology, distance and speed]
+ D --> E[windsor-review.geojson + CSV + summary.json]
+ E --> F[Survey, permitted imagery and dated operator evidence]
+ F --> G{Exact feature and proposed change verified?}
+ G -->|No or uncertain| H[Keep pending; collect more evidence]
+ H --> F
+ G -->|Yes, suitable sources and process| I[Current OSM check; prepare .osm/.osc + export audit]
+ I --> J[JOSM: current context, topology, Validator, upload]
+ J --> K[Record confirmed changeset URL]
+ K --> L[Next run: compare candidate queue with previous run]
+ L --> D

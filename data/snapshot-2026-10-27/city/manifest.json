@@ -1,0 +1,86 @@
+[
+  {
+    "name": "CrossingGuard",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/8",
+    "file": "Transportation-8.geojson",
+    "count": 58,
+    "retrieved": "2026-10-28T03:20:24.106Z"
+  },
+  {
+    "name": "CityBoundary",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Boundaries/MapServer/0",
+    "file": "Boundaries-0.geojson",
+    "count": 1,
+    "retrieved": "2026-10-28T03:20:24.110Z"
+  },
+  {
+    "name": "Sidewalk",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/22",
+    "file": "Transportation-22.geojson",
+    "count": 6771,
+    "retrieved": "2026-10-28T03:20:25.845Z"
+  },
+  {
+    "name": "BikeParking",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/4",
+    "file": "Transportation-4.geojson",
+    "count": 29,
+    "retrieved": "2026-10-28T03:20:25.957Z"
+  },
+  {
+    "name": "ElectricVehicleCharger",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+    "file": "Transportation-11.geojson",
+    "count": 80,
+    "retrieved": "2026-10-28T03:20:25.962Z"
+  },
+  {
+    "name": "StreetCentreline",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/23",
+    "file": "Transportation-23.geojson",
+    "count": 6307,
+    "retrieved": "2026-10-28T03:20:27.374Z"
+  },
+  {
+    "name": "ParkWashroom",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/CommunityRecreation/MapServer/12",
+    "file": "CommunityRecreation-12.geojson",
+    "count": 42,
+    "retrieved": "2026-10-28T03:20:27.473Z"
+  },
+  {
+    "name": "BikeLane",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/3",
+    "file": "Transportation-3.geojson",
+    "count": 1319,
+    "retrieved": "2026-10-28T03:20:27.663Z"
+  },
+  {
+    "name": "ActiveTransportProject",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/0",
+    "file": "PlanningDevelopment-0.geojson",
+    "count": 1447,
+    "retrieved": "2026-10-28T03:20:27.876Z"
+  },
+  {
+    "name": "HeritageSite",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/10",
+    "file": "PlanningDevelopment-10.geojson",
+    "count": 1058,
+    "retrieved": "2026-10-28T03:20:28.085Z"
+  },
+  {
+    "name": "SidewalkProject",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/6",
+    "file": "PlanningDevelopment-6.geojson",
+    "count": 567,
+    "retrieved": "2026-10-28T03:20:28.091Z"
+  },
+  {
+    "name": "RoadProject",
+    "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/5",
+    "file": "PlanningDevelopment-5.geojson",
+    "count": 833,
+    "retrieved": "2026-10-28T03:20:28.110Z"
+  }
+]

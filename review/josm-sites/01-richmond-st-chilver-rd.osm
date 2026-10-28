@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Windsor OSM review snapshot">
+<node id="251591210" version="9" lat="42.3166597" lon="-83.0120285" timestamp="2025-06-13T13:45:33Z"></node>
+<node id="253288906" version="4" lat="42.3159376" lon="-83.0033434" timestamp="2020-03-22T18:04:55Z"></node>
+<node id="253288907" version="4" lat="42.3157353" lon="-83.0038836" timestamp="2020-03-22T18:04:55Z"></node>
+<node id="256885146" version="13" lat="42.3189388" lon="-83.0119156" timestamp="2025-06-16T16:32:21Z"><tag k="direction" v="both"/><tag k="highway" v="stop"/><tag k="stop" v="all"/></node>
+<node id="256992041" version="11" lat="42.3212902" lon="-83.015655" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="256992048" version="8" lat="42.3112361" lon="-83.0085438" timestamp="2025-06-17T15:55:58Z"></node>
+<node id="256992075" version="10" lat="42.3152757" lon="-83.0111293" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="257077344" version="6" lat="42.3113426" lon="-83.0152747" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="257079658" version="9" lat="42.3150842" lon="-83.0116656" timestamp="2025-06-13T17:51:28Z"><tag k="direction" v="both"/><tag k="highway" v="stop"/><tag k="stop" v="all"/></node>
+<node id="257080085" version="12" lat="42.3120325" lon="-83.0063116" timestamp="2025-06-17T15:31:05Z"><tag k="highway" v="traffic_signals"/><tag k="traffic_signals" v="traffic_lights"/><tag k="traffic_signals:direction" v="both"/></node>
+<node id="257080086" version="13" lat="42.3144249" lon="-83.0078415" timestamp="2025-06-17T12:25:51Z"><tag k="direction" v="both"/><tag k="highway" v="stop"/><tag k="stop" v="all"/></node>
+<node id="257080092" version="10" lat="42.3161644" lon="-83.0086502" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="257080222" version="9" lat="42.3223521" lon="-83.0141226" timestamp="2025-06-11T15:01:01Z"></node>
+<node id="257080223" version="9" lat="42.3205003" lon="-83.0129133" timestamp="2025-06-16T16:32:21Z"></node>
+<node id="257080228" version="9" lat="42.3157322" lon="-83.0098565" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="257080230" version="7" lat="42.3116888" lon="-83.007276" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="257080444" version="13" lat="42.3154266" lon="-83.0107095" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="257080446" version="12" lat="42.3201938" lon="-83.0137709" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="257080447" version="9" lat="42.3220396" lon="-83.0149563" timestamp="2025-06-11T15:50:23Z"></node>
+<node id="257083098" version="5" lat="42.3182621" lon="-83.0063837" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="257083099" version="6" lat="42.31724" lon="-83.0057068" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="257083100" version="6" lat="42.3165053" lon="-83.0078015" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="257083101" version="5" lat="42.3175565" lon="-83.0084841" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="257083906" version="6" lat="42.3115399" lon="-83.0076937" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="257083936" version="5" lat="42.3131608" lon="-83.0087259" timestamp="2018-10-22T15:13:48Z"></node>
+<node id="257083937" version="9" lat="42.3155812" lon="-83.010278" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="257083939" version="7" lat="42.3187875" lon="-83.0123413" timestamp="2025-06-12T16:39:32Z"></node>
+<node id="257083952" version="7" lat="42.3217761" lon="-83.0142428" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="257083953" version="8" lat="42.3219153" lon="-83.013838" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="257084149" version="5" lat="42.3118377" lon="-83.0068581" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="257084151" version="7" lat="42.3158762" lon="-83.0094389" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="257084164" version="10" lat="42.3124428" lon="-83.006574" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="257084219" version="6" lat="42.3165842" lon="-83.0059116" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="257084322" version="8" lat="42.3206676" lon="-83.0070518" timestamp="2025-06-12T16:39:32Z"></node>
+<node id="257160016" version="2" lat="42.3158035" lon="-83.0098175" timestamp="2012-11-15T21:51:10Z"></node>
+<node id="257160017" version="3" lat="42.3164893" lon="-83.0079374" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="257160018" version="4" lat="42.3195664" lon="-83.0099357" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="257160019" version="3" lat="42.3188985" lon="-83.0118059" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="353285431" version="8" lat="42.3136319" lon="-83.0100684" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="353285440" version="10" lat="42.3137801" lon="-83.0096523" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="353285451" version="8" lat="42.3139332" lon="-83.0092224" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="353285452" version="8" lat="42.314077" lon="-83.0088185" timestamp="2025-06-17T12:25:51Z"><tag k="direction" v="both"/><tag k="highway" v="stop"/><tag k="stop" v="all"/></node>
+<node id="353285453" version="9" lat="42.3142306" lon="-83.0083871" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="353285483" version="9" lat="42.3147177" lon="-83.0127124" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="353295537" version="11" lat="42.3186352" lon="-83.01277" timestamp="2025-06-16T17:09:08Z"><tag k="direction" v="both"/><tag k="highway" v="stop"/><tag k="stop" v="all"/></node>
+<node id="998663799" version="4" lat="42.3167561" lon="-83.0087526" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663803" version="4" lat="42.3168047" lon="-83.0087065" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663808" version="4" lat="42.3168325" lon="-83.0086371" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663813" version="3" lat="42.3168338" lon="-83.0085087" timestamp="2013-06-03T05:15:44Z"></node>
+<node id="998663821" version="3" lat="42.3168149" lon="-83.0084349" timestamp="2013-06-03T05:15:44Z"></node>
+<node id="998663826" version="3" lat="42.3167852" lon="-83.0084175" timestamp="2013-06-03T05:15:44Z"></node>
+<node id="998663833" version="3" lat="42.3167604" lon="-83.0084255" timestamp="2013-06-03T05:15:44Z"></node>
+<node id="998663836" version="4" lat="42.3167357" lon="-83.0084303" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663840" version="4" lat="42.316715" lon="-83.0084548" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663860" version="4" lat="42.3166672" lon="-83.0085141" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="998663886" version="4" lat="42.316665" lon="-83.0086764" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="1608086669" version="7" lat="42.3128862" lon="-83.0068575" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="1608086676" version="5" lat="42.3164641" lon="-83.0078134" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="2015781369" version="5" lat="42.31723" lon="-83.0108294" timestamp="2023-07-23T23:35:52Z"></node>
+<node id="2601306878" version="4" lat="42.3213497" lon="-83.013468" timestamp="2025-06-16T16:32:21Z"></node>
+<node id="2819623205" version="2" lat="42.3135047" lon="-83.0063359" timestamp="2018-11-07T18:57:45Z"></node>
+<node id="2819623206" version="2" lat="42.3137576" lon="-83.0056166" timestamp="2018-11-07T18:57:45Z"></node>
+<node id="2819623207" version="2" lat="42.3129673" lon="-83.0051087" timestamp="2018-11-07T18:57:45Z"></node>
+<node id="2819623208" version="2" lat="42.3127145" lon="-83.005828" timestamp="2018-11-07T18:57:45Z"></node>
+<node id="2898130460" version="4" lat="42.3162141" lon="-83.0090087" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="3803510469" version="5" lat="42.3115431" lon="-83.0087255" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="4386919502" version="4" lat="42.3195481" lon="-83.0063271" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="4386919818" version="3" lat="42.3202003" lon="-83.0067493" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="4834260790" version="4" lat="42.3133396" lon="-83.007146" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="4834260797" version="4" lat="42.3139865" lon="-83.0075638" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="5912417046" version="2" lat="42.3224514" lon="-83.0130567" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="5912417047" version="2" lat="42.3222921" lon="-83.0135062" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="6005244894" version="2" lat="42.3159416" lon="-83.0085456" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6005244895" version="2" lat="42.3158541" lon="-83.0085296" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6005244898" version="2" lat="42.3155884" lon="-83.0085644" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6005244899" version="2" lat="42.3155245" lon="-83.0085447" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6005565387" version="4" lat="42.32162" lon="-83.0146868" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="6006254028" version="1" lat="42.3168154" lon="-83.0108583" timestamp="2018-10-23T01:48:49Z"></node>
+<node id="6006254029" version="1" lat="42.3167427" lon="-83.0108134" timestamp="2018-10-23T01:48:49Z"></node>
+<node id="6006254030" version="1" lat="42.31678" lon="-83.0107029" timestamp="2018-10-23T01:48:49Z"></node>
+<node id="6006254031" version="1" lat="42.3168198" lon="-83.0107275" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254032" version="1" lat="42.3168172" lon="-83.0107354" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254033" version="1" lat="42.3168501" lon="-83.0107557" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254034" version="1" lat="42.3167133" lon="-83.0108217" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254035" version="1" lat="42.3166237" lon="-83.0107681" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254036" version="1" lat="42.3166732" lon="-83.0106164" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254037" version="1" lat="42.3167629" lon="-83.0106699" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254038" version="1" lat="42.3166158" lon="-83.0107303" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254039" version="1" lat="42.3165462" lon="-83.0106861" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254040" version="1" lat="42.3165857" lon="-83.0105725" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254041" version="1" lat="42.3166235" lon="-83.0105965" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254042" version="1" lat="42.3166204" lon="-83.0106054" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254043" version="1" lat="42.3166522" lon="-83.0106257" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254044" version="1" lat="42.3164958" lon="-83.0106962" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254045" version="1" lat="42.3165428" lon="-83.0105606" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254046" version="1" lat="42.3165122" lon="-83.0105413" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254047" version="1" lat="42.3165161" lon="-83.0105299" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254048" version="1" lat="42.3164811" lon="-83.0105078" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254049" version="1" lat="42.3164459" lon="-83.0106097" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254050" version="1" lat="42.316432" lon="-83.0106009" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254051" version="1" lat="42.3164164" lon="-83.0106459" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254052" version="1" lat="42.3164221" lon="-83.0106074" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254053" version="1" lat="42.3164636" lon="-83.0104986" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254054" version="1" lat="42.3163893" lon="-83.0104468" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254055" version="1" lat="42.3163464" lon="-83.0105592" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254056" version="1" lat="42.3163563" lon="-83.0105661" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254057" version="1" lat="42.3163493" lon="-83.0105842" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254058" version="1" lat="42.3163932" lon="-83.0106148" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254059" version="1" lat="42.3164015" lon="-83.0105931" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254060" version="1" lat="42.3162359" lon="-83.0104906" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254061" version="1" lat="42.3162723" lon="-83.0103886" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254062" version="1" lat="42.316342" lon="-83.0104341" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254063" version="1" lat="42.3163056" lon="-83.0105361" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254064" version="1" lat="42.3162229" lon="-83.0104832" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254065" version="1" lat="42.31614" lon="-83.0104304" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254066" version="1" lat="42.3161769" lon="-83.0103243" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254067" version="1" lat="42.3162588" lon="-83.0103802" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254068" version="1" lat="42.3161844" lon="-83.0103291" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254069" version="1" lat="42.3161919" lon="-83.0103078" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254070" version="1" lat="42.3162468" lon="-83.0103726" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254071" version="1" lat="42.3162553" lon="-83.0103482" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254072" version="1" lat="42.3160832" lon="-83.0105291" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254073" version="1" lat="42.3160063" lon="-83.0104805" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254074" version="1" lat="42.316042" lon="-83.0103775" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254075" version="1" lat="42.316048" lon="-83.0103813" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254076" version="1" lat="42.3160872" lon="-83.0102678" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254077" version="1" lat="42.3160911" lon="-83.0102702" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254078" version="1" lat="42.3160977" lon="-83.0102509" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254079" version="1" lat="42.3161549" lon="-83.0102871" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254080" version="1" lat="42.3161484" lon="-83.0103059" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254081" version="1" lat="42.3161582" lon="-83.0103121" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254082" version="1" lat="42.316007" lon="-83.0103841" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254083" version="1" lat="42.3159302" lon="-83.0103393" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254084" version="1" lat="42.3159609" lon="-83.0102429" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254185" version="1" lat="42.3159676" lon="-83.0102468" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254186" version="1" lat="42.3159909" lon="-83.0101738" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254187" version="1" lat="42.3160536" lon="-83.0102103" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254188" version="1" lat="42.3160417" lon="-83.0102477" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254189" version="1" lat="42.3160491" lon="-83.010252" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254190" version="2" lat="42.3159226" lon="-83.0102924" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254191" version="2" lat="42.3158736" lon="-83.0102607" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254192" version="2" lat="42.3158635" lon="-83.0102891" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254193" version="2" lat="42.3158267" lon="-83.0102653" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254194" version="2" lat="42.3158705" lon="-83.0101416" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254195" version="2" lat="42.3159563" lon="-83.0101972" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254196" version="2" lat="42.3157832" lon="-83.010303" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254197" version="2" lat="42.3157205" lon="-83.0102625" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254198" version="2" lat="42.3157325" lon="-83.0102286" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254199" version="2" lat="42.315713" lon="-83.0102161" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254200" version="2" lat="42.3157722" lon="-83.0100484" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254201" version="2" lat="42.3158699" lon="-83.0101115" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254202" version="2" lat="42.3158539" lon="-83.0101567" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254203" version="2" lat="42.3158582" lon="-83.0101594" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254204" version="2" lat="42.3158146" lon="-83.010283" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254205" version="2" lat="42.3157948" lon="-83.0102702" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6006254206" version="1" lat="42.3155246" lon="-83.0100541" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254207" version="1" lat="42.3155045" lon="-83.0100412" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254208" version="1" lat="42.3154871" lon="-83.0100908" timestamp="2018-10-23T01:48:50Z"></node>
+<node id="6006254209" version="1" lat="42.3154287" lon="-83.0100532" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254210" version="1" lat="42.3154852" lon="-83.0098923" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254211" version="1" lat="42.3155637" lon="-83.0099427" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254212" version="1" lat="42.3154038" lon="-83.0100439" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254213" version="1" lat="42.315327" lon="-83.009994" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254214" version="1" lat="42.3153881" lon="-83.0098221" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254215" version="1" lat="42.3154649" lon="-83.009872" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254216" version="1" lat="42.3152479" lon="-83.0098486" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254217" version="1" lat="42.3152803" lon="-83.0097557" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254218" version="1" lat="42.3153143" lon="-83.0097773" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254219" version="1" lat="42.3153236" lon="-83.0097506" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254220" version="1" lat="42.3153656" lon="-83.0097773" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254221" version="1" lat="42.3153237" lon="-83.0098971" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254222" version="1" lat="42.3152299" lon="-83.0098481" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254223" version="1" lat="42.3152033" lon="-83.009831" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254224" version="1" lat="42.3151951" lon="-83.0098542" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254225" version="1" lat="42.3151213" lon="-83.0098068" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254226" version="1" lat="42.3151478" lon="-83.0097312" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254227" version="1" lat="42.3151753" lon="-83.0097489" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254228" version="1" lat="42.3151939" lon="-83.0096959" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254229" version="1" lat="42.3152669" lon="-83.0097427" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254230" version="1" lat="42.3150293" lon="-83.0097309" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254231" version="1" lat="42.3149498" lon="-83.0096814" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254232" version="1" lat="42.3149889" lon="-83.0095664" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254233" version="1" lat="42.3150685" lon="-83.009616" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254234" version="1" lat="42.314862" lon="-83.0096503" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254235" version="1" lat="42.3149076" lon="-83.0095187" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254236" version="1" lat="42.3149603" lon="-83.0095521" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254237" version="1" lat="42.3149147" lon="-83.0096837" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254238" version="1" lat="42.3148393" lon="-83.0095924" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254239" version="1" lat="42.314762" lon="-83.0095436" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254240" version="1" lat="42.3147971" lon="-83.0094418" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254241" version="1" lat="42.3148745" lon="-83.0094906" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254242" version="1" lat="42.3147321" lon="-83.0095304" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254243" version="1" lat="42.3146611" lon="-83.0094849" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254244" version="1" lat="42.3146975" lon="-83.0093812" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254245" version="1" lat="42.3147214" lon="-83.0093965" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254246" version="1" lat="42.3147309" lon="-83.0093695" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254247" version="1" lat="42.3147647" lon="-83.0093912" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254248" version="1" lat="42.3147613" lon="-83.0094158" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254249" version="1" lat="42.3147664" lon="-83.0094328" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254250" version="1" lat="42.3146376" lon="-83.0094941" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254251" version="1" lat="42.314586" lon="-83.0094619" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254252" version="1" lat="42.3145932" lon="-83.0094407" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254253" version="1" lat="42.3145643" lon="-83.0094226" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254254" version="1" lat="42.3146019" lon="-83.0093123" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254255" version="1" lat="42.3146825" lon="-83.0093626" timestamp="2018-10-23T01:48:51Z"></node>
+<node id="6006254388" version="1" lat="42.3156777" lon="-83.0096233" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254389" version="1" lat="42.3156538" lon="-83.009608" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254390" version="1" lat="42.3156374" lon="-83.0096549" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254391" version="1" lat="42.3155886" lon="-83.0096238" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254392" version="1" lat="42.3155995" lon="-83.0095927" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254393" version="1" lat="42.3155925" lon="-83.0095883" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254394" version="1" lat="42.3155971" lon="-83.0095753" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254395" version="1" lat="42.3155932" lon="-83.0095728" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254396" version="1" lat="42.3156359" lon="-83.0094504" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254397" version="1" lat="42.3156432" lon="-83.0094551" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254398" version="1" lat="42.3156458" lon="-83.0094477" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254399" version="1" lat="42.3156528" lon="-83.0094521" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254400" version="1" lat="42.3156558" lon="-83.0094436" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254401" version="1" lat="42.3156867" lon="-83.0094633" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254402" version="1" lat="42.3156803" lon="-83.0094819" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254403" version="1" lat="42.3157186" lon="-83.0095064" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254404" version="1" lat="42.3155812" lon="-83.0095786" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254405" version="1" lat="42.3156201" lon="-83.009467" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254406" version="1" lat="42.3155405" lon="-83.0094163" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254407" version="1" lat="42.3155017" lon="-83.009528" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254408" version="1" lat="42.3154822" lon="-83.009528" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254409" version="1" lat="42.3155201" lon="-83.0094208" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254410" version="1" lat="42.3155077" lon="-83.0094128" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254411" version="1" lat="42.3155151" lon="-83.0093918" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254412" version="1" lat="42.3154804" lon="-83.0093694" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254413" version="1" lat="42.3154743" lon="-83.0093864" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254414" version="1" lat="42.315451" lon="-83.0093713" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254415" version="1" lat="42.3154138" lon="-83.0094765" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254416" version="1" lat="42.3154185" lon="-83.0094796" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254417" version="1" lat="42.3154106" lon="-83.0095021" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254418" version="1" lat="42.3154606" lon="-83.0095345" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254419" version="1" lat="42.3154665" lon="-83.0095178" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254420" version="1" lat="42.3153811" lon="-83.0094565" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254421" version="1" lat="42.3153652" lon="-83.009447" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254422" version="1" lat="42.3153583" lon="-83.0094679" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254423" version="1" lat="42.3153064" lon="-83.0094366" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254424" version="1" lat="42.3153128" lon="-83.0094172" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254425" version="1" lat="42.3153077" lon="-83.0094141" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254426" version="1" lat="42.3153444" lon="-83.0093027" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254427" version="1" lat="42.315374" lon="-83.0093205" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254428" version="1" lat="42.315379" lon="-83.0093055" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254429" version="1" lat="42.3154162" lon="-83.0093279" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254430" version="1" lat="42.3154102" lon="-83.0093458" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254431" version="1" lat="42.3154164" lon="-83.0093495" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254432" version="1" lat="42.3152774" lon="-83.0093788" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254433" version="1" lat="42.3152049" lon="-83.0093325" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254434" version="1" lat="42.3152409" lon="-83.0092297" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254435" version="1" lat="42.3153133" lon="-83.009276" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254436" version="1" lat="42.3150954" lon="-83.0092978" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254437" version="1" lat="42.3151566" lon="-83.0091249" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254438" version="1" lat="42.3152207" lon="-83.0091665" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254439" version="1" lat="42.3152073" lon="-83.0092044" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254440" version="1" lat="42.315214" lon="-83.0092088" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254441" version="1" lat="42.315176" lon="-83.0093159" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254442" version="1" lat="42.3151461" lon="-83.0092966" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254443" version="1" lat="42.3151363" lon="-83.0093243" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254444" version="1" lat="42.3150662" lon="-83.0092727" timestamp="2018-10-23T01:48:52Z"></node>
+<node id="6006254445" version="1" lat="42.3149854" lon="-83.0092208" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254446" version="1" lat="42.3150332" lon="-83.0090847" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254447" version="1" lat="42.315114" lon="-83.0091366" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254448" version="1" lat="42.314898" lon="-83.0091672" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254449" version="1" lat="42.3149415" lon="-83.0090387" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254450" version="1" lat="42.3149517" lon="-83.009045" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254451" version="1" lat="42.3149576" lon="-83.0090275" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254452" version="1" lat="42.3149915" lon="-83.0090485" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254453" version="1" lat="42.3149866" lon="-83.009063" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254454" version="1" lat="42.3150145" lon="-83.0090803" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254455" version="1" lat="42.31497" lon="-83.0092117" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254456" version="1" lat="42.3148782" lon="-83.0091566" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254457" version="1" lat="42.3149352" lon="-83.0089856" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254458" version="1" lat="42.3148637" lon="-83.008942" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254459" version="1" lat="42.3148067" lon="-83.009113" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254460" version="1" lat="42.3147634" lon="-83.0090885" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254461" version="1" lat="42.3146801" lon="-83.0090362" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254462" version="1" lat="42.3147406" lon="-83.00886" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254463" version="1" lat="42.3148239" lon="-83.0089123" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254464" version="1" lat="42.3147205" lon="-83.0089041" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254465" version="1" lat="42.3146798" lon="-83.0090269" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254466" version="1" lat="42.3146022" lon="-83.0089798" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254467" version="1" lat="42.3146429" lon="-83.008857" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254468" version="2" lat="42.314576" lon="-83.0089796" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254471" version="2" lat="42.3146355" lon="-83.0088157" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254472" version="2" lat="42.3145806" lon="-83.0087796" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254473" version="2" lat="42.3145842" lon="-83.0087699" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254474" version="2" lat="42.3145667" lon="-83.0087584" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254477" version="2" lat="42.3145037" lon="-83.0089319" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="6006254592" version="1" lat="42.3158092" lon="-83.0091144" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254593" version="1" lat="42.3157286" lon="-83.0090596" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254594" version="1" lat="42.3157331" lon="-83.0090475" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254595" version="1" lat="42.3157166" lon="-83.0090362" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254596" version="1" lat="42.3157361" lon="-83.0089837" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254597" version="1" lat="42.3157295" lon="-83.0089792" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254598" version="1" lat="42.3157592" lon="-83.0088994" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254599" version="1" lat="42.3157726" lon="-83.0089085" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254600" version="1" lat="42.3157996" lon="-83.0088359" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254601" version="1" lat="42.3157815" lon="-83.0088235" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254602" version="1" lat="42.3158014" lon="-83.00877" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254603" version="1" lat="42.3158833" lon="-83.0088257" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254604" version="1" lat="42.3158559" lon="-83.0088996" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6006254605" version="1" lat="42.3158823" lon="-83.0089176" timestamp="2018-10-23T01:48:53Z"></node>
+<node id="6044446626" version="1" lat="42.3154963" lon="-83.0089352" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446627" version="1" lat="42.315445" lon="-83.0089038" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446628" version="1" lat="42.3154357" lon="-83.0089315" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446629" version="1" lat="42.3153805" lon="-83.0088978" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446630" version="1" lat="42.3153954" lon="-83.0088534" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446631" version="1" lat="42.3153043" lon="-83.0087976" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446632" version="1" lat="42.3153451" lon="-83.0086754" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446633" version="1" lat="42.3154213" lon="-83.008722" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446634" version="1" lat="42.3154157" lon="-83.0087386" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446635" version="1" lat="42.3154862" lon="-83.0087817" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446636" version="1" lat="42.3154756" lon="-83.0088133" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446637" version="1" lat="42.3155266" lon="-83.0088445" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446638" version="1" lat="42.3152484" lon="-83.0087781" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446639" version="1" lat="42.3151659" lon="-83.0087267" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446640" version="1" lat="42.3152113" lon="-83.0085933" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446641" version="1" lat="42.3153126" lon="-83.0086564" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446642" version="1" lat="42.3152787" lon="-83.0087556" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446643" version="1" lat="42.31526" lon="-83.008744" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446644" version="1" lat="42.3151682" lon="-83.0086989" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446645" version="1" lat="42.3152007" lon="-83.0085933" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446646" version="1" lat="42.3151925" lon="-83.0085886" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446647" version="1" lat="42.3152008" lon="-83.0085615" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446648" version="1" lat="42.3151378" lon="-83.0085261" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446649" version="1" lat="42.3151313" lon="-83.0085474" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446650" version="1" lat="42.3151192" lon="-83.0085406" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446651" version="1" lat="42.3150849" lon="-83.0086519" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446652" version="1" lat="42.3149279" lon="-83.0086062" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446653" version="1" lat="42.3149782" lon="-83.0084641" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446654" version="1" lat="42.314877" lon="-83.0083988" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446655" version="1" lat="42.3148268" lon="-83.0085408" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446656" version="1" lat="42.3148103" lon="-83.008501" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446657" version="1" lat="42.3148502" lon="-83.0083886" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446658" version="1" lat="42.3147473" lon="-83.0083219" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044446659" version="1" lat="42.3147074" lon="-83.0084343" timestamp="2018-11-07T16:55:20Z"></node>
+<node id="6044447565" version="2" lat="42.3110082" lon="-83.0149684" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="6044447566" version="2" lat="42.3111725" lon="-83.0145032" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="6044447578" version="1" lat="42.3104018" lon="-83.0139879" timestamp="2018-11-07T16:55:29Z"></node>
+<node id="6044865519" version="1" lat="42.3145669" lon="-83.0099751" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865520" version="1" lat="42.3146059" lon="-83.0098683" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865521" version="1" lat="42.3146305" lon="-83.0098847" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865522" version="1" lat="42.3146402" lon="-83.0098581" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865523" version="1" lat="42.3146746" lon="-83.009881" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865524" version="1" lat="42.3146665" lon="-83.0099033" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865525" version="1" lat="42.3146757" lon="-83.0099094" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865526" version="1" lat="42.3146351" lon="-83.0100206" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865527" version="1" lat="42.3146386" lon="-83.0100244" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865528" version="1" lat="42.3146772" lon="-83.0099137" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865529" version="1" lat="42.3147024" lon="-83.0099297" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865530" version="1" lat="42.3147101" lon="-83.0099075" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865531" version="1" lat="42.3147384" lon="-83.0099256" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865532" version="1" lat="42.3147309" lon="-83.0099472" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865533" version="1" lat="42.3147481" lon="-83.0099581" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865534" version="1" lat="42.3147092" lon="-83.0100695" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865535" version="1" lat="42.3147126" lon="-83.0100736" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865536" version="1" lat="42.3147452" lon="-83.0099781" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865537" version="1" lat="42.3147663" lon="-83.0099912" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865538" version="1" lat="42.3147734" lon="-83.0099705" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865539" version="1" lat="42.3148026" lon="-83.0099887" timestamp="2018-11-07T20:43:24Z"></node>
+<node id="6044865540" version="1" lat="42.3147939" lon="-83.010014" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865541" version="1" lat="42.3148125" lon="-83.0100256" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865542" version="1" lat="42.3147774" lon="-83.0101285" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865543" version="1" lat="42.3147341" lon="-83.0101015" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865544" version="1" lat="42.3147382" lon="-83.0100896" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865545" version="1" lat="42.3147901" lon="-83.0101466" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865546" version="1" lat="42.3147965" lon="-83.0101287" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865547" version="1" lat="42.3147865" lon="-83.0101222" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865548" version="1" lat="42.3148219" lon="-83.0100231" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865549" version="1" lat="42.3148268" lon="-83.0100264" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865550" version="1" lat="42.3148326" lon="-83.0100103" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865551" version="1" lat="42.3148924" lon="-83.0100494" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865552" version="1" lat="42.3148848" lon="-83.0100707" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865553" version="1" lat="42.3148906" lon="-83.0100745" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865554" version="1" lat="42.314857" lon="-83.0101684" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865555" version="1" lat="42.3148373" lon="-83.0101555" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865556" version="1" lat="42.3148309" lon="-83.0101733" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865557" version="1" lat="42.3148534" lon="-83.0101906" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865558" version="1" lat="42.314901" lon="-83.010053" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865559" version="1" lat="42.3149655" lon="-83.0100938" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865560" version="1" lat="42.3149179" lon="-83.0102314" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865561" version="1" lat="42.3149276" lon="-83.0102351" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865562" version="1" lat="42.3149713" lon="-83.010109" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865563" version="1" lat="42.3150405" lon="-83.0101528" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865564" version="1" lat="42.3149968" lon="-83.010279" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865565" version="1" lat="42.3150082" lon="-83.0102842" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865566" version="1" lat="42.3150498" lon="-83.0101604" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865567" version="1" lat="42.3150762" lon="-83.0101767" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865568" version="1" lat="42.3150837" lon="-83.0101545" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865569" version="1" lat="42.3151226" lon="-83.0101784" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865570" version="1" lat="42.3151158" lon="-83.0101988" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865571" version="1" lat="42.3151189" lon="-83.0102007" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865572" version="1" lat="42.315082" lon="-83.0103103" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865573" version="1" lat="42.3150571" lon="-83.010295" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865574" version="1" lat="42.3150517" lon="-83.010311" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865575" version="1" lat="42.3152116" lon="-83.0104146" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865576" version="1" lat="42.3151535" lon="-83.0103776" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865577" version="1" lat="42.3151978" lon="-83.01025" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865578" version="1" lat="42.315267" lon="-83.0102939" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865579" version="1" lat="42.3152285" lon="-83.0104049" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865580" version="1" lat="42.3152174" lon="-83.0103978" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865581" version="1" lat="42.3152538" lon="-83.0104573" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865582" version="1" lat="42.3152632" lon="-83.0104305" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865583" version="1" lat="42.3152544" lon="-83.0104249" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865584" version="1" lat="42.3153082" lon="-83.0102712" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865685" version="1" lat="42.3153935" lon="-83.0103258" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865686" version="1" lat="42.3153401" lon="-83.0104785" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865687" version="1" lat="42.3153312" lon="-83.0104728" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865688" version="1" lat="42.3153251" lon="-83.0104901" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865689" version="1" lat="42.3153134" lon="-83.0104954" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865690" version="1" lat="42.3157988" lon="-83.0107886" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865691" version="1" lat="42.3158517" lon="-83.0106342" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865692" version="1" lat="42.315889" lon="-83.0106576" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865693" version="1" lat="42.3158937" lon="-83.0106438" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865694" version="1" lat="42.3159203" lon="-83.0106605" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865695" version="1" lat="42.3159152" lon="-83.0106754" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865696" version="1" lat="42.3159214" lon="-83.0106793" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865697" version="1" lat="42.3158763" lon="-83.0108109" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865698" version="1" lat="42.3158708" lon="-83.0108075" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865699" version="1" lat="42.3158634" lon="-83.0108291" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865700" version="1" lat="42.3158035" lon="-83.0107639" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865701" version="1" lat="42.3158491" lon="-83.01063" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865702" version="1" lat="42.3157776" lon="-83.0105854" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865703" version="1" lat="42.315732" lon="-83.0107193" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865704" version="1" lat="42.3157089" lon="-83.0107423" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865705" version="1" lat="42.3157662" lon="-83.0105767" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865706" version="1" lat="42.3157553" lon="-83.0105698" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865707" version="1" lat="42.3157598" lon="-83.0105567" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865708" version="1" lat="42.3157275" lon="-83.0105363" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865709" version="1" lat="42.3157232" lon="-83.0105486" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865710" version="1" lat="42.3156888" lon="-83.0105269" timestamp="2018-11-07T20:43:25Z"></node>
+<node id="6044865711" version="1" lat="42.3156313" lon="-83.0106931" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865712" version="1" lat="42.3158826" lon="-83.0108194" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865713" version="1" lat="42.3159154" lon="-83.0107237" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865714" version="1" lat="42.3159281" lon="-83.0107317" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865715" version="1" lat="42.3159319" lon="-83.0107206" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865716" version="1" lat="42.3159527" lon="-83.0107336" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865717" version="1" lat="42.3159487" lon="-83.010745" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865718" version="1" lat="42.3159836" lon="-83.0107668" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865719" version="1" lat="42.3159429" lon="-83.0108858" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865720" version="1" lat="42.3158803" lon="-83.0108467" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865721" version="1" lat="42.3158884" lon="-83.010823" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865722" version="1" lat="42.3159602" lon="-83.0108628" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865723" version="1" lat="42.3159938" lon="-83.0107666" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865724" version="1" lat="42.3160163" lon="-83.010781" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865725" version="1" lat="42.3160233" lon="-83.0107611" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865726" version="1" lat="42.3160661" lon="-83.0107885" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865727" version="1" lat="42.3160255" lon="-83.0109046" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865728" version="1" lat="42.31603" lon="-83.0109096" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865729" version="1" lat="42.3160645" lon="-83.0108103" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865730" version="1" lat="42.3160714" lon="-83.0108098" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865731" version="1" lat="42.3160761" lon="-83.0108121" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865732" version="1" lat="42.31608" lon="-83.0108197" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865733" version="1" lat="42.3160899" lon="-83.010826" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865734" version="1" lat="42.3160966" lon="-83.0108066" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865735" version="1" lat="42.3161394" lon="-83.0108338" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865736" version="1" lat="42.3160981" lon="-83.0109528" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865737" version="1" lat="42.3161052" lon="-83.0109566" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865738" version="1" lat="42.3161433" lon="-83.0108489" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865739" version="1" lat="42.3162117" lon="-83.0108932" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865740" version="1" lat="42.3161737" lon="-83.0110008" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865741" version="1" lat="42.3161684" lon="-83.0110365" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865742" version="1" lat="42.3162331" lon="-83.0108536" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865743" version="1" lat="42.3163023" lon="-83.0108983" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865744" version="1" lat="42.3162376" lon="-83.0110812" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865745" version="1" lat="42.3162521" lon="-83.0110784" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865746" version="1" lat="42.3163188" lon="-83.0108863" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865747" version="1" lat="42.3163361" lon="-83.0108974" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865748" version="1" lat="42.3163515" lon="-83.010853" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865749" version="1" lat="42.3163966" lon="-83.0108815" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865750" version="1" lat="42.316319" lon="-83.0111049" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865751" version="1" lat="42.3162937" lon="-83.0110888" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865752" version="1" lat="42.3162777" lon="-83.0110946" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865753" version="1" lat="42.3163226" lon="-83.0111314" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865754" version="1" lat="42.3163864" lon="-83.0109507" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865755" version="1" lat="42.3164558" lon="-83.0109955" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865756" version="1" lat="42.316392" lon="-83.0111762" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865757" version="1" lat="42.3164081" lon="-83.0111454" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865758" version="1" lat="42.3164629" lon="-83.0109926" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865759" version="1" lat="42.316526" lon="-83.011034" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865760" version="1" lat="42.3164712" lon="-83.0111868" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865761" version="2" lat="42.3164698" lon="-83.0112012" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865762" version="2" lat="42.316523" lon="-83.011053" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865763" version="2" lat="42.3164758" lon="-83.0112051" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865764" version="2" lat="42.316467" lon="-83.0112296" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865765" version="2" lat="42.3165953" lon="-83.0111001" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865766" version="2" lat="42.316519" lon="-83.0112324" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865767" version="2" lat="42.31651" lon="-83.0112576" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865768" version="2" lat="42.3165423" lon="-83.0112475" timestamp="2020-03-28T17:47:05Z"></node>
+<node id="6044865769" version="1" lat="42.3165509" lon="-83.0112477" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865770" version="1" lat="42.3165923" lon="-83.0111294" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865771" version="1" lat="42.3166003" lon="-83.0111345" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865772" version="1" lat="42.3166073" lon="-83.0111146" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865773" version="1" lat="42.3166662" lon="-83.0111523" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865774" version="1" lat="42.3166588" lon="-83.0111734" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865775" version="1" lat="42.316666" lon="-83.011178" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865776" version="1" lat="42.316625" lon="-83.0112952" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865777" version="1" lat="42.3166216" lon="-83.0113154" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865778" version="1" lat="42.3166821" lon="-83.0111431" timestamp="2018-11-07T20:43:26Z"></node>
+<node id="6044865779" version="1" lat="42.3167479" lon="-83.0111854" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6044865780" version="1" lat="42.3166874" lon="-83.0113577" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6044865781" version="1" lat="42.3166932" lon="-83.011372" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6044865782" version="1" lat="42.3167557" lon="-83.011191" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6044865783" version="1" lat="42.3168239" lon="-83.0112341" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6044865784" version="1" lat="42.3167614" lon="-83.0114151" timestamp="2018-11-07T20:43:27Z"></node>
+<node id="6047121893" version="2" lat="42.3145775" lon="-83.0105212" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121894" version="2" lat="42.314626" lon="-83.0103844" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121895" version="2" lat="42.3145545" lon="-83.010338" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121896" version="2" lat="42.3145059" lon="-83.0104748" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121897" version="2" lat="42.3146511" lon="-83.0105423" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121898" version="2" lat="42.3145896" lon="-83.0105029" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121899" version="2" lat="42.3146257" lon="-83.0103998" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121900" version="2" lat="42.3146409" lon="-83.0104095" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121901" version="2" lat="42.3146459" lon="-83.0103952" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121902" version="2" lat="42.3146922" lon="-83.0104249" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121903" version="2" lat="42.314652" lon="-83.0105675" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121904" version="2" lat="42.3146879" lon="-83.0104583" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121905" version="2" lat="42.3147575" lon="-83.0105001" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121906" version="2" lat="42.3147217" lon="-83.0106093" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121907" version="2" lat="42.3148057" lon="-83.010648" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121908" version="2" lat="42.3148399" lon="-83.0105503" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121909" version="2" lat="42.3148365" lon="-83.0105404" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121910" version="2" lat="42.3148441" lon="-83.0105184" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121911" version="2" lat="42.3147799" lon="-83.0104773" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121912" version="2" lat="42.3147736" lon="-83.0104954" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121913" version="2" lat="42.3147692" lon="-83.0104926" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121914" version="2" lat="42.3147314" lon="-83.0106005" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121915" version="2" lat="42.3148115" lon="-83.0106398" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121916" version="2" lat="42.3148511" lon="-83.01053" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121917" version="2" lat="42.3149173" lon="-83.0105736" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121918" version="2" lat="42.3148777" lon="-83.0106835" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121919" version="2" lat="42.3148852" lon="-83.0106917" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121920" version="2" lat="42.3149166" lon="-83.0106004" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121921" version="2" lat="42.3149837" lon="-83.0106425" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121922" version="2" lat="42.3149523" lon="-83.0107339" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121923" version="2" lat="42.3150295" lon="-83.0107851" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121924" version="2" lat="42.3150629" lon="-83.0106929" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121925" version="2" lat="42.3150555" lon="-83.010688" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121926" version="2" lat="42.3150624" lon="-83.0106689" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121927" version="2" lat="42.315006" lon="-83.0106316" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121928" version="2" lat="42.3149657" lon="-83.0107429" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121929" version="2" lat="42.3150324" lon="-83.0107955" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121930" version="2" lat="42.3150659" lon="-83.0106979" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121931" version="2" lat="42.3150698" lon="-83.0107003" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121932" version="2" lat="42.3150784" lon="-83.010675" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121933" version="2" lat="42.3151371" lon="-83.0107119" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121934" version="2" lat="42.3151304" lon="-83.0107315" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121935" version="2" lat="42.3151367" lon="-83.0107354" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121936" version="2" lat="42.3151012" lon="-83.0108387" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121937" version="2" lat="42.3151046" lon="-83.0108419" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121938" version="2" lat="42.3151398" lon="-83.0107413" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121939" version="2" lat="42.3151437" lon="-83.0107438" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121940" version="2" lat="42.3151516" lon="-83.0107211" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121941" version="2" lat="42.31521" lon="-83.0107585" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121942" version="2" lat="42.3152025" lon="-83.0107802" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121943" version="2" lat="42.3152103" lon="-83.0107852" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121944" version="2" lat="42.3151748" lon="-83.0108868" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121945" version="2" lat="42.3151791" lon="-83.010883" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121946" version="2" lat="42.3152214" lon="-83.0107591" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121947" version="2" lat="42.315293" lon="-83.0108038" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121948" version="2" lat="42.3152683" lon="-83.0108763" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121949" version="2" lat="42.3152623" lon="-83.0108726" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121950" version="2" lat="42.3152454" lon="-83.010922" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121951" version="2" lat="42.315233" lon="-83.0109142" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121952" version="2" lat="42.3152212" lon="-83.0109489" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121953" version="2" lat="42.3151799" lon="-83.0109231" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047121954" version="2" lat="42.315191" lon="-83.0108904" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="6047879075" version="3" lat="42.3154613" lon="-83.0112315" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047879076" version="3" lat="42.3153659" lon="-83.0111686" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047879077" version="3" lat="42.315416" lon="-83.0110309" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047879078" version="3" lat="42.3155113" lon="-83.0110938" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047879083" version="2" lat="42.3155104" lon="-83.0110597" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047879084" version="2" lat="42.3155423" lon="-83.0109676" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047889985" version="2" lat="42.3154627" lon="-83.0109173" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047889986" version="2" lat="42.3154378" lon="-83.0109893" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047889987" version="2" lat="42.3154883" lon="-83.0110213" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047889988" version="2" lat="42.3154814" lon="-83.0110413" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6047889989" version="1" lat="42.315591" lon="-83.0111188" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889990" version="1" lat="42.3156273" lon="-83.0110122" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889991" version="1" lat="42.3156227" lon="-83.0110073" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889992" version="1" lat="42.3156293" lon="-83.0109878" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889993" version="1" lat="42.3155694" lon="-83.0109427" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889994" version="1" lat="42.3155619" lon="-83.0109675" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889995" version="1" lat="42.3155586" lon="-83.0109648" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889996" version="1" lat="42.31552" lon="-83.0110719" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889997" version="1" lat="42.3155949" lon="-83.0111078" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889998" version="1" lat="42.3156291" lon="-83.011011" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047889999" version="1" lat="42.3156552" lon="-83.0110278" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890000" version="1" lat="42.3156625" lon="-83.011007" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890001" version="1" lat="42.3156992" lon="-83.0110307" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890002" version="1" lat="42.3156918" lon="-83.0110515" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890003" version="1" lat="42.3156978" lon="-83.0110554" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890004" version="1" lat="42.3156636" lon="-83.0111521" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890005" version="1" lat="42.3156638" lon="-83.0111637" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890006" version="1" lat="42.3157107" lon="-83.0110321" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890007" version="1" lat="42.315783" lon="-83.0110792" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890008" version="1" lat="42.3157361" lon="-83.0112108" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890009" version="1" lat="42.3157389" lon="-83.0112163" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890010" version="1" lat="42.3157771" lon="-83.0111055" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890011" version="1" lat="42.3157811" lon="-83.0111081" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890012" version="1" lat="42.3157882" lon="-83.0110875" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890013" version="1" lat="42.3158459" lon="-83.0111239" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890014" version="1" lat="42.3158381" lon="-83.0111465" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890015" version="1" lat="42.3158465" lon="-83.0111519" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890016" version="1" lat="42.315809" lon="-83.0112606" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890017" version="1" lat="42.3158137" lon="-83.011282" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890018" version="1" lat="42.315853" lon="-83.0111646" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890019" version="1" lat="42.3159114" lon="-83.0112004" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890020" version="1" lat="42.3158721" lon="-83.0113178" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890021" version="1" lat="42.3158871" lon="-83.0113052" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890022" version="1" lat="42.3159307" lon="-83.0111794" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890023" version="1" lat="42.3160006" lon="-83.0112238" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890024" version="1" lat="42.3159569" lon="-83.0113496" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890025" version="1" lat="42.3159655" lon="-83.0113554" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890026" version="1" lat="42.3160095" lon="-83.0112278" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890027" version="1" lat="42.3160764" lon="-83.01127" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6047890028" version="1" lat="42.3160324" lon="-83.0113976" timestamp="2018-11-09T03:18:01Z"></node>
+<node id="6049615413" version="2" lat="42.3114375" lon="-83.0091864" timestamp="2025-06-18T18:43:48Z"></node>
+<node id="6049615768" version="1" lat="42.3145017" lon="-83.0111175" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615769" version="1" lat="42.3145084" lon="-83.0110984" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615770" version="1" lat="42.3145053" lon="-83.0110964" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615771" version="1" lat="42.3145618" lon="-83.0109348" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615772" version="1" lat="42.3146192" lon="-83.0109715" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615773" version="1" lat="42.3146208" lon="-83.0109768" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615774" version="1" lat="42.3146221" lon="-83.010987" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615775" version="1" lat="42.3146208" lon="-83.0110016" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615776" version="1" lat="42.3145729" lon="-83.0111381" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615777" version="1" lat="42.3145697" lon="-83.011136" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615778" version="1" lat="42.3145625" lon="-83.0111565" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615779" version="1" lat="42.3145934" lon="-83.0111771" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615780" version="1" lat="42.3145997" lon="-83.0111589" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615781" version="1" lat="42.3145954" lon="-83.0111562" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615782" version="1" lat="42.3146401" lon="-83.0110259" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615783" version="1" lat="42.3146486" lon="-83.0110263" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615784" version="1" lat="42.3146523" lon="-83.0110154" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615885" version="1" lat="42.3146968" lon="-83.0110432" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615886" version="1" lat="42.3146924" lon="-83.0110561" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615887" version="1" lat="42.3147071" lon="-83.0110652" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615888" version="1" lat="42.3146624" lon="-83.0111961" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615889" version="1" lat="42.3146579" lon="-83.0111933" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615890" version="1" lat="42.3146511" lon="-83.0112132" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615891" version="1" lat="42.314669" lon="-83.0112304" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615892" version="1" lat="42.3146781" lon="-83.0112041" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615893" version="1" lat="42.3146744" lon="-83.0112018" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615894" version="1" lat="42.3147201" lon="-83.0110701" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615895" version="1" lat="42.3147372" lon="-83.0110809" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615896" version="1" lat="42.3147448" lon="-83.0110591" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615897" version="1" lat="42.3147798" lon="-83.0110813" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615898" version="1" lat="42.3147718" lon="-83.0111042" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615899" version="1" lat="42.31479" lon="-83.0111158" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615900" version="1" lat="42.3147438" lon="-83.0112488" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615901" version="1" lat="42.3147407" lon="-83.0112468" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615902" version="1" lat="42.3147325" lon="-83.0112707" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615903" version="1" lat="42.3147427" lon="-83.0112539" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615904" version="1" lat="42.314792" lon="-83.0111143" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615905" version="1" lat="42.3148306" lon="-83.0111392" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615906" version="1" lat="42.3148371" lon="-83.0111208" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615907" version="1" lat="42.3148621" lon="-83.011137" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615908" version="1" lat="42.3148551" lon="-83.011157" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615909" version="1" lat="42.3148615" lon="-83.0111611" timestamp="2018-11-09T18:27:10Z"></node>
+<node id="6049615910" version="1" lat="42.3148127" lon="-83.0112991" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615911" version="1" lat="42.3148247" lon="-83.0112957" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615912" version="1" lat="42.3148611" lon="-83.0111877" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615913" version="1" lat="42.3148779" lon="-83.0111981" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615914" version="1" lat="42.3148845" lon="-83.0111783" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615915" version="1" lat="42.3149343" lon="-83.0112091" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615916" version="1" lat="42.3148912" lon="-83.0113368" timestamp="2018-11-09T18:27:11Z"></node>
+<node id="6049615917" version="2" lat="42.3150131" lon="-83.0115083" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615918" version="2" lat="42.3149148" lon="-83.0114434" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615919" version="2" lat="42.3149607" lon="-83.0113165" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615920" version="2" lat="42.3149848" lon="-83.0113324" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615921" version="2" lat="42.3150195" lon="-83.0112364" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615922" version="2" lat="42.3149964" lon="-83.0112212" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615923" version="2" lat="42.3150225" lon="-83.0111488" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615924" version="2" lat="42.3150458" lon="-83.0111643" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615925" version="2" lat="42.3150825" lon="-83.0110629" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615926" version="2" lat="42.3151564" lon="-83.0111117" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="6049615935" version="2" lat="42.3154121" lon="-83.0113854" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6049615936" version="2" lat="42.3154382" lon="-83.0113132" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6049615937" version="2" lat="42.315392" lon="-83.0112826" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6049615938" version="2" lat="42.3154025" lon="-83.0112537" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6049615939" version="2" lat="42.3153512" lon="-83.0112197" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6049615940" version="2" lat="42.3153146" lon="-83.0113208" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6055265620" version="3" lat="42.3214718" lon="-83.0151271" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="6055265621" version="3" lat="42.3212262" lon="-83.0149691" timestamp="2025-06-13T13:45:33Z"></node>
+<node id="6055265622" version="2" lat="42.3211076" lon="-83.015324" timestamp="2025-06-11T15:50:23Z"></node>
+<node id="6731652099" version="3" lat="42.3113891" lon="-83.0081171" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="7026911319" version="1" lat="42.317045" lon="-83.0052924" timestamp="2019-12-02T18:43:28Z"></node>
+<node id="7026911320" version="1" lat="42.3158034" lon="-83.0045146" timestamp="2019-12-02T18:43:28Z"></node>
+<node id="7026911321" version="1" lat="42.315976" lon="-83.0040559" timestamp="2019-12-02T18:43:28Z"></node>
+<node id="7026911322" version="2" lat="42.3172039" lon="-83.0048303" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7041113143" version="1" lat="42.3217737" lon="-83.0137821" timestamp="2019-12-08T01:43:24Z"></node>
+<node id="7041113144" version="2" lat="42.3216465" lon="-83.0141593" timestamp="2025-06-11T15:50:23Z"></node>
+<node id="7041126743" version="1" lat="42.3229975" lon="-83.0120919" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7041126744" version="1" lat="42.32255" lon="-83.0118176" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7041126745" version="1" lat="42.3222386" lon="-83.0127732" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7041126763" version="1" lat="42.3222321" lon="-83.0135207" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7041126777" version="1" lat="42.3218069" lon="-83.013693" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7041126778" version="1" lat="42.3219368" lon="-83.0133229" timestamp="2019-12-08T01:40:25Z"></node>
+<node id="7157866103" version="1" lat="42.312851" lon="-83.0067822" timestamp="2020-01-25T04:29:59Z"></node>
+<node id="7157866104" version="2" lat="42.3124441" lon="-83.0065014" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7157866105" version="1" lat="42.3126897" lon="-83.0058187" timestamp="2020-01-25T04:29:59Z"></node>
+<node id="7157866106" version="1" lat="42.313102" lon="-83.0060937" timestamp="2020-01-25T04:29:59Z"></node>
+<node id="7320022679" version="1" lat="42.3146198" lon="-83.0108582" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320022680" version="1" lat="42.314645" lon="-83.0107831" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320022681" version="1" lat="42.3147094" lon="-83.0108224" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320022682" version="1" lat="42.3146842" lon="-83.0108975" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023095" version="1" lat="42.3152515" lon="-83.008895" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023096" version="1" lat="42.3152251" lon="-83.0089685" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023097" version="1" lat="42.3151637" lon="-83.0089285" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023098" version="1" lat="42.3151901" lon="-83.008855" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023099" version="1" lat="42.3156281" lon="-83.0092423" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023100" version="1" lat="42.3155545" lon="-83.0091975" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023101" version="1" lat="42.3155588" lon="-83.0091846" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023102" version="1" lat="42.3155328" lon="-83.0091688" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023103" version="1" lat="42.3155578" lon="-83.0090941" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023104" version="1" lat="42.3155863" lon="-83.0091114" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023105" version="1" lat="42.31559" lon="-83.0091005" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023106" version="1" lat="42.3156612" lon="-83.0091438" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023122" version="1" lat="42.3147408" lon="-83.0097134" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023123" version="1" lat="42.3147741" lon="-83.0096168" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023124" version="1" lat="42.3148291" lon="-83.0096512" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7320023125" version="1" lat="42.3147958" lon="-83.0097478" timestamp="2020-03-22T18:09:21Z"></node>
+<node id="7387805581" version="1" lat="42.3232167" lon="-83.008039" timestamp="2020-04-10T04:02:16Z"></node>
+<node id="7387805582" version="1" lat="42.323066" lon="-83.0084521" timestamp="2020-04-10T04:02:16Z"></node>
+<node id="7387805583" version="1" lat="42.3231216" lon="-83.0086237" timestamp="2020-04-10T04:02:16Z"></node>
+<node id="7387805584" version="1" lat="42.3229411" lon="-83.009077" timestamp="2020-04-10T04:02:16Z"></node>
+<node id="7387877124" version="1" lat="42.3118358" lon="-83.0074832" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877133" version="1" lat="42.3101964" lon="-83.0138567" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877135" version="2" lat="42.3115077" lon="-83.0154068" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="7387877136" version="1" lat="42.3104501" lon="-83.0183977" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877137" version="1" lat="42.3132845" lon="-83.0202591" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877138" version="1" lat="42.3135067" lon="-83.019661" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877139" version="1" lat="42.3136832" lon="-83.0197844" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877140" version="1" lat="42.3139232" lon="-83.0191085" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877141" version="1" lat="42.3138815" lon="-83.0190843" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877142" version="1" lat="42.3140799" lon="-83.0185077" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877143" version="1" lat="42.3140005" lon="-83.0184567" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877144" version="1" lat="42.3142128" lon="-83.0179095" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877145" version="1" lat="42.3142861" lon="-83.0179578" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877146" version="1" lat="42.3144508" lon="-83.0173892" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877147" version="1" lat="42.3147602" lon="-83.0175769" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877148" version="1" lat="42.3144855" lon="-83.0183387" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877149" version="1" lat="42.3147453" lon="-83.0185036" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877150" version="1" lat="42.3146342" lon="-83.0188349" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877151" version="1" lat="42.3145678" lon="-83.0187893" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877152" version="1" lat="42.3145063" lon="-83.0189636" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877153" version="1" lat="42.3143298" lon="-83.0195108" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877154" version="1" lat="42.3145658" lon="-83.0196637" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877155" version="1" lat="42.3143496" lon="-83.0202699" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877156" version="1" lat="42.3142465" lon="-83.0202001" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877157" version="1" lat="42.3140561" lon="-83.0207259" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877158" version="1" lat="42.3183996" lon="-83.0236039" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877159" version="1" lat="42.31859" lon="-83.0230567" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877160" version="1" lat="42.3183659" lon="-83.0229011" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877161" version="1" lat="42.3185701" lon="-83.0222708" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877162" version="1" lat="42.3187625" lon="-83.0223888" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877163" version="1" lat="42.3189846" lon="-83.0216968" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877164" version="1" lat="42.3189073" lon="-83.0216485" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877165" version="1" lat="42.3190699" lon="-83.0211684" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877166" version="1" lat="42.3191671" lon="-83.0212435" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877167" version="1" lat="42.3192107" lon="-83.0211416" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877168" version="1" lat="42.3196986" lon="-83.0197683" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877169" version="1" lat="42.3200457" lon="-83.0188295" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877170" version="1" lat="42.3204145" lon="-83.0177566" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877171" version="1" lat="42.3204978" lon="-83.0178157" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877172" version="1" lat="42.3208727" lon="-83.0167401" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877173" version="1" lat="42.3207041" lon="-83.0166328" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877174" version="1" lat="42.3209123" lon="-83.0160293" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877175" version="1" lat="42.3210849" lon="-83.0161446" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877177" version="3" lat="42.3210435" lon="-83.0154967" timestamp="2025-06-13T13:45:33Z"></node>
+<node id="7387877180" version="1" lat="42.3224869" lon="-83.0129422" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877181" version="1" lat="42.3237363" lon="-83.0098575" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877182" version="1" lat="42.3228856" lon="-83.0092862" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387877183" version="2" lat="42.322016" lon="-83.0072696" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387877184" version="2" lat="42.3218386" lon="-83.0077922" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387886786" version="2" lat="42.3205123" lon="-83.0075093" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387886787" version="1" lat="42.3202004" lon="-83.0072987" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886788" version="2" lat="42.3203642" lon="-83.0068554" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387886789" version="2" lat="42.3168456" lon="-83.0051675" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="7387886790" version="2" lat="42.3172153" lon="-83.0054128" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387886791" version="4" lat="42.3173683" lon="-83.0055227" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="7387886792" version="1" lat="42.3174689" lon="-83.008569" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886797" version="3" lat="42.3169035" lon="-83.0066786" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="7387886798" version="1" lat="42.3164262" lon="-83.006368" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886800" version="1" lat="42.3169157" lon="-83.0046552" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886801" version="1" lat="42.3169964" lon="-83.004422" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886802" version="1" lat="42.3170698" lon="-83.0044784" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886803" version="1" lat="42.3171759" lon="-83.0041713" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886804" version="1" lat="42.313481" lon="-83.0024387" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886805" version="1" lat="42.3122714" lon="-83.005813" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886806" version="1" lat="42.3126132" lon="-83.0060442" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886807" version="1" lat="42.312392" lon="-83.0066469" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886808" version="1" lat="42.3120707" lon="-83.0064055" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886809" version="1" lat="42.3117791" lon="-83.0072397" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886810" version="1" lat="42.3118981" lon="-83.0073175" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886811" version="1" lat="42.3117196" lon="-83.0077922" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886812" version="1" lat="42.3117731" lon="-83.0078271" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886813" version="1" lat="42.3116561" lon="-83.0081865" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886814" version="1" lat="42.3117275" lon="-83.0082321" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886815" version="1" lat="42.311551" lon="-83.0087203" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886816" version="1" lat="42.3115946" lon="-83.0087417" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886817" version="1" lat="42.3112316" lon="-83.009769" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886818" version="1" lat="42.3117989" lon="-83.0101579" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886819" version="1" lat="42.3116442" lon="-83.0106381" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886820" version="1" lat="42.3113348" lon="-83.0104449" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886821" version="1" lat="42.3111424" lon="-83.0110377" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886822" version="1" lat="42.3110948" lon="-83.0109975" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886823" version="1" lat="42.3108865" lon="-83.0116144" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886824" version="1" lat="42.3106505" lon="-83.0114561" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886825" version="1" lat="42.3103232" lon="-83.0124003" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886826" version="1" lat="42.3101189" lon="-83.013044" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886827" version="1" lat="42.3104144" lon="-83.0132425" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="7387886828" version="1" lat="42.3102439" lon="-83.0137521" timestamp="2020-04-10T04:32:49Z"></node>
+<node id="9842308030" version="2" lat="42.3213529" lon="-83.0150506" timestamp="2025-06-13T13:45:33Z"></node>
+<node id="10011813692" version="1" lat="42.3128265" lon="-83.0042646" timestamp="2022-09-09T16:56:01Z"></node>
+<node id="10011813694" version="1" lat="42.3128994" lon="-83.0040613" timestamp="2022-09-09T16:56:01Z"></node>
+<node id="10011813696" version="1" lat="42.3132389" lon="-83.0031139" timestamp="2022-09-09T16:56:01Z"></node>
+<node id="10990035204" version="1" lat="42.3183711" lon="-83.0091541" timestamp="2023-06-19T18:26:09Z"></node>
+<node id="11560970702" version="1" lat="42.312255" lon="-83.019583" timestamp="2024-01-28T20:15:53Z"></node>
+<node id="11560970753" version="1" lat="42.3186828" lon="-83.0122737" timestamp="2024-01-28T20:15:53Z"></node>
+<node id="11560970763" version="3" lat="42.3190097" lon="-83.011962" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="uncontrolled"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="pictograms"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="11560970844" version="1" lat="42.3156383" lon="-83.0103145" timestamp="2024-01-28T20:15:53Z"></node>
+<node id="11885041217" version="2" lat="42.3156321" lon="-83.0099004" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="11885041245" version="1" lat="42.3154973" lon="-83.0102239" timestamp="2024-05-06T21:34:35Z"></node>
+<node id="11885041265" version="1" lat="42.3183711" lon="-83.0091541" timestamp="2024-05-06T21:34:35Z"></node>
+<node id="11886634875" version="2" lat="42.3181776" lon="-83.0054522" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="11886634876" version="2" lat="42.3187472" lon="-83.0058156" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="11886634877" version="1" lat="42.3189324" lon="-83.0052833" timestamp="2024-05-07T13:30:13Z"></node>
+<node id="11886634878" version="1" lat="42.3183672" lon="-83.0049152" timestamp="2024-05-07T13:30:13Z"></node>
+<node id="12078295272" version="2" lat="42.3188438" lon="-83.0119592" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12875654597" version="1" lat="42.3136886" lon="-83.0101043" timestamp="2025-05-30T16:38:24Z"></node>
+<node id="12875669401" version="1" lat="42.3141026" lon="-83.0089125" timestamp="2025-05-30T16:38:24Z"></node>
+<node id="12875669402" version="1" lat="42.3139836" lon="-83.0092544" timestamp="2025-05-30T16:38:24Z"></node>
+<node id="12906269102" version="1" lat="42.3222392" lon="-83.01405" timestamp="2025-06-11T15:01:01Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12906344767" version="1" lat="42.3222702" lon="-83.0140699" timestamp="2025-06-11T15:50:23Z"><tag k="crossing" v="uncontrolled"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="surface"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12906344768" version="2" lat="42.3219759" lon="-83.0149154" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12906344782" version="2" lat="42.3219348" lon="-83.014889" timestamp="2025-06-16T17:09:08Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12912800200" version="1" lat="42.3182535" lon="-83.0135979" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800601" version="1" lat="42.3185376" lon="-83.0128136" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800602" version="1" lat="42.3154739" lon="-83.0108442" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800603" version="1" lat="42.315188" lon="-83.011633" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800604" version="2" lat="42.3164407" lon="-83.0124388" timestamp="2025-06-13T17:30:03Z"></node>
+<node id="12912800605" version="1" lat="42.3165945" lon="-83.0119856" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800613" version="1" lat="42.318413" lon="-83.0131575" timestamp="2025-06-13T14:46:32Z"></node>
+<node id="12912800624" version="2" lat="42.3153474" lon="-83.0111881" timestamp="2025-06-16T18:13:56Z"></node>
+<node id="12913035703" version="1" lat="42.3139536" lon="-83.0188747" timestamp="2025-06-13T17:30:03Z"></node>
+<node id="12913046072" version="1" lat="42.3150537" lon="-83.01155" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="12913046085" version="1" lat="42.3147425" lon="-83.0126416" timestamp="2025-06-13T17:51:28Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12913046090" version="1" lat="42.3151125" lon="-83.0115864" timestamp="2025-06-13T17:51:28Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12913046091" version="1" lat="42.3150549" lon="-83.0117493" timestamp="2025-06-13T17:51:28Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12913046093" version="1" lat="42.3148978" lon="-83.0121979" timestamp="2025-06-13T17:51:28Z"></node>
+<node id="12913046099" version="1" lat="42.3147543" lon="-83.0126078" timestamp="2025-06-13T17:51:28Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919743400" version="1" lat="42.3185825" lon="-83.0126539" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746801" version="1" lat="42.3155337" lon="-83.0106843" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746802" version="1" lat="42.3157763" lon="-83.0099905" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746803" version="1" lat="42.3153989" lon="-83.0105998" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746804" version="1" lat="42.31386" lon="-83.0096096" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746826" version="1" lat="42.3155195" lon="-83.0102382" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746827" version="1" lat="42.3156585" lon="-83.0103275" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746828" version="1" lat="42.3187172" lon="-83.0122959" timestamp="2025-06-16T17:09:08Z"></node>
+<node id="12919746847" version="1" lat="42.3204659" lon="-83.0128913" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746848" version="1" lat="42.3205459" lon="-83.0129431" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746850" version="1" lat="42.320158" lon="-83.0137479" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:markings" v="no"/><tag k="highway" v="crossing"/></node>
+<node id="12919746851" version="1" lat="42.3202385" lon="-83.0137996" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:markings" v="no"/><tag k="highway" v="crossing"/></node>
+<node id="12919746857" version="1" lat="42.3185629" lon="-83.0127236" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746859" version="1" lat="42.3187089" lon="-83.0128173" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746862" version="2" lat="42.3188718" lon="-83.0118763" timestamp="2025-06-16T17:52:57Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746863" version="1" lat="42.3213067" lon="-83.0134399" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746865" version="1" lat="42.3213865" lon="-83.0134921" timestamp="2025-06-16T17:09:08Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/></node>
+<node id="12919746869" version="1" lat="42.3201053" lon="-83.0137141" timestamp="2025-06-16T17:09:08Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919746870" version="1" lat="42.3202793" lon="-83.0138258" timestamp="2025-06-16T17:09:08Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919787478" version="1" lat="42.3167294" lon="-83.0087269" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817804" version="1" lat="42.3180056" lon="-83.011324" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817807" version="1" lat="42.318148" lon="-83.0114148" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817808" version="1" lat="42.3191969" lon="-83.0105441" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817809" version="1" lat="42.319243" lon="-83.0103576" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817810" version="1" lat="42.3192479" lon="-83.0102288" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817811" version="1" lat="42.3192281" lon="-83.0101215" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817812" version="1" lat="42.3191676" lon="-83.0100075" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817813" version="1" lat="42.3191022" lon="-83.0099311" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817814" version="1" lat="42.319002" lon="-83.0098587" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817815" version="1" lat="42.3187372" lon="-83.0097286" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817816" version="1" lat="42.3186738" lon="-83.009687" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817817" version="1" lat="42.3186044" lon="-83.0096199" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817818" version="1" lat="42.3185389" lon="-83.0095301" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817819" version="1" lat="42.3184745" lon="-83.0094255" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817820" version="1" lat="42.3184199" lon="-83.0093343" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817821" version="1" lat="42.3183723" lon="-83.0092686" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817822" version="1" lat="42.3177287" lon="-83.0089749" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817823" version="1" lat="42.3176425" lon="-83.0089172" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817824" version="1" lat="42.3175786" lon="-83.00886" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817825" version="1" lat="42.3175061" lon="-83.0087911" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817826" version="1" lat="42.3174094" lon="-83.0086837" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817827" version="1" lat="42.3173541" lon="-83.0086265" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817828" version="1" lat="42.3172937" lon="-83.0085973" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817829" version="1" lat="42.3172436" lon="-83.0085985" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817830" version="1" lat="42.3171772" lon="-83.0086288" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817831" version="1" lat="42.3170788" lon="-83.0087246" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817832" version="1" lat="42.3170062" lon="-83.0087631" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817833" version="1" lat="42.3168845" lon="-83.0087946" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817834" version="1" lat="42.3164296" lon="-83.0089207" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817835" version="1" lat="42.3162888" lon="-83.0089406" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817836" version="1" lat="42.3162354" lon="-83.0089723" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817837" version="1" lat="42.3162086" lon="-83.0090796" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817838" version="1" lat="42.3162371" lon="-83.0091562" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817839" version="1" lat="42.316517" lon="-83.0100304" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817840" version="1" lat="42.3165517" lon="-83.0100787" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817841" version="1" lat="42.3165964" lon="-83.0101082" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817842" version="1" lat="42.3167907" lon="-83.0101551" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817843" version="1" lat="42.3168968" lon="-83.0102061" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817844" version="1" lat="42.316998" lon="-83.0102597" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817845" version="1" lat="42.3171011" lon="-83.0102879" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817846" version="1" lat="42.3172439" lon="-83.0102852" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817847" version="1" lat="42.3173292" lon="-83.0103053" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817848" version="1" lat="42.3174075" lon="-83.0103147" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817849" version="1" lat="42.317472" lon="-83.0102879" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817850" version="1" lat="42.3175593" lon="-83.0102517" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817851" version="1" lat="42.3176396" lon="-83.010249" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817852" version="1" lat="42.317706" lon="-83.0102571" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817853" version="1" lat="42.317748" lon="-83.0101254" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817854" version="1" lat="42.3178221" lon="-83.0100852" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817855" version="1" lat="42.3179361" lon="-83.0100548" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817856" version="1" lat="42.3180665" lon="-83.0099684" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817857" version="1" lat="42.3181683" lon="-83.0099042" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817858" version="1" lat="42.318227" lon="-83.0099054" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817859" version="1" lat="42.3182926" lon="-83.0099205" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817860" version="1" lat="42.3185741" lon="-83.0101155" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817861" version="1" lat="42.318688" lon="-83.0102241" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817862" version="1" lat="42.3187925" lon="-83.0103011" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817863" version="1" lat="42.3189297" lon="-83.0104097" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817864" version="1" lat="42.3190609" lon="-83.0105008" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817865" version="1" lat="42.3191041" lon="-83.0104704" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817866" version="1" lat="42.319136" lon="-83.0104623" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817867" version="1" lat="42.3191757" lon="-83.0104623" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817868" version="1" lat="42.3192147" lon="-83.0104719" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817870" version="1" lat="42.3184024" lon="-83.0091869" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817876" version="1" lat="42.3179964" lon="-83.0100148" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817890" version="1" lat="42.3172859" lon="-83.0107724" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817891" version="1" lat="42.3174536" lon="-83.0102956" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817892" version="1" lat="42.3164893" lon="-83.0079374" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817893" version="1" lat="42.3161476" lon="-83.0089642" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817894" version="1" lat="42.3158343" lon="-83.009842" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817895" version="1" lat="42.3165027" lon="-83.0079695" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817896" version="1" lat="42.3195661" lon="-83.0099328" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817897" version="1" lat="42.3172878" lon="-83.0107711" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817899" version="1" lat="42.3193491" lon="-83.0105498" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817916" version="1" lat="42.3193239" lon="-83.01062" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817917" version="1" lat="42.3180352" lon="-83.0112526" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817918" version="1" lat="42.3181714" lon="-83.0113399" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817919" version="1" lat="42.3195439" lon="-83.0099533" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817922" version="1" lat="42.3180141" lon="-83.0112227" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817923" version="1" lat="42.3158566" lon="-83.0098331" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817924" version="1" lat="42.3165139" lon="-83.0079968" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817926" version="1" lat="42.3193234" lon="-83.0105711" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817927" version="1" lat="42.3183936" lon="-83.0092108" timestamp="2025-06-16T17:52:57Z"><tag k="barrier" v="gate"/><tag k="colour" v="black"/><tag k="height" v="4"/><tag k="locked" v="no"/><tag k="material" v="metal"/><tag k="opening_hours" v="24/7"/><tag k="wheelchair" v="yes"/></node>
+<node id="12919817928" version="1" lat="42.3193345" lon="-83.0105414" timestamp="2025-06-16T17:52:57Z"><tag k="barrier" v="gate"/><tag k="colour" v="black"/><tag k="height" v="4"/><tag k="locked" v="no"/><tag k="material" v="metal"/><tag k="opening_hours" v="24/7"/><tag k="wheelchair" v="yes"/></node>
+<node id="12919817929" version="1" lat="42.317291" lon="-83.010758" timestamp="2025-06-16T17:52:57Z"><tag k="barrier" v="gate"/><tag k="colour" v="black"/><tag k="height" v="4"/><tag k="locked" v="no"/><tag k="material" v="metal"/><tag k="opening_hours" v="24/7"/><tag k="wheelchair" v="yes"/></node>
+<node id="12919817930" version="1" lat="42.3161643" lon="-83.0089752" timestamp="2025-06-16T17:52:57Z"><tag k="barrier" v="gate"/><tag k="colour" v="black"/><tag k="height" v="4"/><tag k="locked" v="no"/><tag k="material" v="metal"/><tag k="opening_hours" v="24/7"/><tag k="wheelchair" v="yes"/></node>
+<node id="12919817931" version="1" lat="42.3172987" lon="-83.0085039" timestamp="2025-06-16T17:52:57Z"><tag k="barrier" v="gate"/><tag k="colour" v="black"/><tag k="height" v="4"/><tag k="locked" v="no"/><tag k="material" v="metal"/><tag k="opening_hours" v="24/7"/><tag k="wheelchair" v="yes"/></node>
+<node id="12919817932" version="1" lat="42.3173" lon="-83.0084804" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919817952" version="1" lat="42.3158507" lon="-83.0099335" timestamp="2025-06-16T17:52:57Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919817953" version="1" lat="42.3156235" lon="-83.0097868" timestamp="2025-06-16T17:52:57Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919817956" version="1" lat="42.3193116" lon="-83.0106541" timestamp="2025-06-16T17:52:57Z"></node>
+<node id="12919821495" version="1" lat="42.3155408" lon="-83.0107829" timestamp="2025-06-16T18:13:27Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919821496" version="1" lat="42.3153419" lon="-83.0106551" timestamp="2025-06-16T18:13:27Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12919831339" version="1" lat="42.3204812" lon="-83.0074886" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="12919831346" version="1" lat="42.3188125" lon="-83.0056277" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="12919831347" version="1" lat="42.3187848" lon="-83.0057073" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="12919831348" version="1" lat="42.318259" lon="-83.0052217" timestamp="2025-06-16T18:10:04Z"></node>
+<node id="12919852128" version="1" lat="42.3156771" lon="-83.0085739" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12919852129" version="1" lat="42.3153359" lon="-83.010753" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12919852130" version="1" lat="42.3138257" lon="-83.0097799" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12919852131" version="1" lat="42.3135435" lon="-83.0105718" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12919852133" version="1" lat="42.3137061" lon="-83.0101156" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12919852134" version="1" lat="42.3152163" lon="-83.0110909" timestamp="2025-06-16T18:27:36Z"></node>
+<node id="12921165543" version="1" lat="42.3156982" lon="-83.0097503" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165544" version="1" lat="42.3160429" lon="-83.008751" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165545" version="1" lat="42.3159933" lon="-83.0087205" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165546" version="1" lat="42.3159377" lon="-83.0086961" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165547" version="1" lat="42.3158663" lon="-83.0086789" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165548" version="1" lat="42.3157844" lon="-83.0086758" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165549" version="1" lat="42.3156964" lon="-83.008694" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165550" version="1" lat="42.315629" lon="-83.0086975" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165551" version="1" lat="42.3155539" lon="-83.0086834" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165552" version="1" lat="42.3154788" lon="-83.0086473" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165553" version="1" lat="42.3153856" lon="-83.0085877" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165554" version="1" lat="42.3144498" lon="-83.0079514" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165555" version="1" lat="42.3141514" lon="-83.0087672" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165556" version="1" lat="42.3161137" lon="-83.0085707" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165557" version="1" lat="42.3163587" lon="-83.0078877" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165558" version="1" lat="42.3148466" lon="-83.006914" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165559" version="1" lat="42.3145264" lon="-83.0078389" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165572" version="1" lat="42.3161863" lon="-83.0088559" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165577" version="1" lat="42.3142791" lon="-83.0084181" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165578" version="1" lat="42.3158183" lon="-83.009402" timestamp="2025-06-17T12:12:48Z"></node>
+<node id="12921165590" version="1" lat="42.3164242" lon="-83.0079249" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165592" version="1" lat="42.3160952" lon="-83.0086177" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165593" version="1" lat="42.3161097" lon="-83.0087999" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165594" version="1" lat="42.3156692" lon="-83.0098161" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165595" version="1" lat="42.3157555" lon="-83.0097889" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165596" version="1" lat="42.315701" lon="-83.0099435" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165597" version="1" lat="42.3158091" lon="-83.0099065" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165598" version="1" lat="42.3154536" lon="-83.0106341" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165599" version="1" lat="42.315369" lon="-83.0106725" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921165600" version="1" lat="42.3153966" lon="-83.0107931" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921180701" version="1" lat="42.3155053" lon="-83.0107601" timestamp="2025-06-17T12:12:48Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921180704" version="2" lat="42.3143914" lon="-83.00782" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921180707" version="2" lat="42.3144944" lon="-83.0078859" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921180709" version="1" lat="42.3160412" lon="-83.0085924" timestamp="2025-06-17T12:12:48Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12921182078" version="1" lat="42.3125229" lon="-83.0093925" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="12921182079" version="1" lat="42.3119437" lon="-83.0090116" timestamp="2025-06-17T12:25:51Z"></node>
+<node id="12921182080" version="1" lat="42.3138695" lon="-83.0097097" timestamp="2025-06-17T12:25:51Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12921182081" version="1" lat="42.3137048" lon="-83.009604" timestamp="2025-06-17T12:25:51Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12921584558" version="1" lat="42.3119059" lon="-83.0069017" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="12921584559" version="1" lat="42.3116061" lon="-83.0077359" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="12921584560" version="2" lat="42.3112992" lon="-83.0085777" timestamp="2025-06-17T15:55:58Z"></node>
+<node id="12921584570" version="1" lat="42.3123924" lon="-83.0065418" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="12921584573" version="1" lat="42.312208" lon="-83.0064239" timestamp="2025-06-17T15:02:05Z"></node>
+<node id="12921584587" version="1" lat="42.3140454" lon="-83.0087981" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921584588" version="1" lat="42.3141242" lon="-83.0088481" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921584590" version="1" lat="42.313738" lon="-83.0096253" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921584593" version="1" lat="42.3138432" lon="-83.0096928" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921585010" version="1" lat="42.3128177" lon="-83.0068137" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921585012" version="1" lat="42.3117701" lon="-83.0073285" timestamp="2025-06-17T15:02:05Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921585014" version="1" lat="42.3117936" lon="-83.0073437" timestamp="2025-06-17T15:02:05Z"><tag k="direction" v="forward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12921585015" version="1" lat="42.311493" lon="-83.0081838" timestamp="2025-06-17T15:02:05Z"><tag k="direction" v="backward"/><tag k="highway" v="stop"/><tag k="stop" v="minor"/></node>
+<node id="12921752260" version="1" lat="42.3114557" lon="-83.0081599" timestamp="2025-06-17T16:55:27Z"><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="no"/></node>
+<node id="12921752268" version="1" lat="42.3120998" lon="-83.0063547" timestamp="2025-06-17T16:55:27Z"><tag k="button_operated" v="yes"/><tag k="crossing" v="traffic_signals"/><tag k="crossing:island" v="yes"/><tag k="crossing:markings" v="lines"/><tag k="flashing_lights" v="button"/><tag k="highway" v="crossing"/><tag k="kerb" v="flush"/><tag k="tactile_paving" v="yes"/><tag k="traffic_signals:arrow" v="no"/><tag k="traffic_signals:countdown" v="no"/><tag k="traffic_signals:minimap" v="no"/><tag k="traffic_signals:sound" v="no"/><tag k="traffic_signals:vibration" v="no"/></node>
+<node id="12921817107" version="1" lat="42.3111824" lon="-83.0150885" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="12921817108" version="1" lat="42.311164" lon="-83.0151629" timestamp="2025-06-17T17:21:04Z"></node>
+<node id="13363779356" version="1" lat="42.3136322" lon="-83.0025356" timestamp="2025-12-09T15:00:33Z"></node>
+<node id="13363779466" version="1" lat="42.3180696" lon="-83.0069567" timestamp="2025-12-09T15:00:33Z"></node>
+<way id="23737386" version="31" timestamp="2025-06-17T15:02:05Z"><nd ref="257080222"/><nd ref="12906344767"/><nd ref="12906269102"/><nd ref="257083953"/><nd ref="12919746865"/><nd ref="2601306878"/><nd ref="12919746863"/><nd ref="12919746848"/><nd ref="257080223"/><nd ref="12919746847"/><nd ref="11560970763"/><nd ref="256885146"/><nd ref="12919746862"/><nd ref="12919817807"/><nd ref="12919817804"/><nd ref="2015781369"/><nd ref="12919817952"/><nd ref="12921165597"/><nd ref="257080228"/><nd ref="12921165594"/><nd ref="12919817953"/><nd ref="12921584588"/><nd ref="353285452"/><nd ref="12921584587"/><nd ref="12921585014"/><nd ref="12921585012"/><nd ref="257080230"/><tag k="cycleway" v="no"/><tag k="highway" v="residential"/><tag k="incline" v="0%"/><tag k="lane_markings" v="no"/><tag k="lanes" v="2"/><tag k="lit" v="yes"/><tag k="maxspeed" v="50"/><tag k="name" v="Chilver Road"/><tag k="oneway" v="no"/><tag k="parking:left" v="lane"/><tag k="parking:right" v="no"/><tag k="smoothness" v="intermediate"/><tag k="surface" v="asphalt"/></way>
+<way id="23737408" version="45" timestamp="2025-06-17T16:55:27Z"><nd ref="6731652099"/><nd ref="12921752260"/><nd ref="12921585015"/><nd ref="12921182081"/><nd ref="12921584590"/><nd ref="353285440"/><nd ref="12921584593"/><nd ref="12921182080"/><nd ref="12919821496"/><nd ref="12921165599"/><nd ref="257080444"/><nd ref="12921180701"/><nd ref="12919821495"/><nd ref="12919746857"/><nd ref="353295537"/><nd ref="12919746859"/><nd ref="12919746869"/><nd ref="12919746850"/><nd ref="257080446"/><nd ref="12919746851"/><nd ref="12919746870"/><nd ref="6005565387"/><nd ref="12906344782"/><nd ref="12906344768"/><nd ref="257080447"/><tag k="cycleway" v="no"/><tag k="highway" v="residential"/><tag k="incline" v="0%"/><tag k="lane_markings" v="no"/><tag k="lanes" v="2"/><tag k="lit" v="yes"/><tag k="maxspeed" v="50"/><tag k="name" v="Windermere Road"/><tag k="oneway" v="no"/><tag k="parking:left" v="no"/><tag k="parking:right" v="lane"/><tag k="smoothness" v="intermediate"/><tag k="surface" v="asphalt"/></way>
+<way id="23737844" version="16" timestamp="2025-06-17T15:02:05Z"><nd ref="257083906"/><nd ref="12921584559"/><nd ref="257083936"/><nd ref="353285451"/><nd ref="12875669402"/><nd ref="11885041245"/><nd ref="12919746826"/><nd ref="257083937"/><nd ref="11560970844"/><nd ref="12919746827"/><nd ref="11560970753"/><nd ref="12919746828"/><nd ref="257083939"/><tag k="highway" v="service"/><tag k="incline" v="0%"/><tag k="lanes" v="1"/><tag k="lit" v="no"/><tag k="maxspeed" v="30"/><tag k="oneway" v="no"/><tag k="parking:both" v="no"/><tag k="service" v="alley"/><tag k="smoothness" v="very_bad"/><tag k="surface" v="asphalt"/></way>
+<way id="23737876" version="10" timestamp="2025-06-17T15:02:05Z"><nd ref="257084149"/><nd ref="12921584558"/><nd ref="353285453"/><nd ref="12921165577"/><nd ref="12921165578"/><nd ref="257084151"/><tag k="highway" v="service"/><tag k="incline" v="0%"/><tag k="lanes" v="1"/><tag k="lit" v="no"/><tag k="maxspeed" v="30"/><tag k="oneway" v="no"/><tag k="parking:both" v="no"/><tag k="service" v="alley"/><tag k="smoothness" v="very_bad"/><tag k="surface" v="asphalt"/></way>
+<way id="23745369" version="9" timestamp="2025-06-16T17:52:57Z"><nd ref="257160016"/><nd ref="257160017"/><nd ref="7387886792"/><nd ref="11885041265"/><nd ref="257160018"/><nd ref="257160019"/><nd ref="257160016"/><tag k="leisure" v="park"/><tag k="surface" v="grass"/></way>
+<way id="86060285" version="6" timestamp="2025-06-16T17:52:57Z"><nd ref="998663799"/><nd ref="998663803"/><nd ref="998663808"/><nd ref="998663813"/><nd ref="998663821"/><nd ref="998663826"/><nd ref="998663833"/><nd ref="998663836"/><nd ref="998663840"/><nd ref="998663860"/><nd ref="998663886"/><nd ref="12919787478"/><nd ref="998663799"/><tag k="access" v="yes"/><tag k="leisure" v="playground"/><tag k="playground" v="swing"/><tag k="surface" v="sett"/></way>
+<way id="190960488" version="17" timestamp="2025-06-17T16:55:27Z"><nd ref="257080085"/><nd ref="12921752268"/><nd ref="12921584573"/><nd ref="12921584570"/><nd ref="257084164"/><nd ref="12921585010"/><nd ref="1608086669"/><nd ref="4834260790"/><nd ref="4834260797"/><nd ref="12921180704"/><nd ref="257080086"/><nd ref="12921180707"/><nd ref="6005244899"/><nd ref="6005244898"/><nd ref="12919852128"/><nd ref="6005244895"/><nd ref="6005244894"/><nd ref="12921180709"/><nd ref="12921165592"/><nd ref="257080092"/><tag k="cycleway" v="no"/><tag k="highway" v="residential"/><tag k="incline" v="0%"/><tag k="lane_markings" v="no"/><tag k="lanes" v="2"/><tag k="lit" v="yes"/><tag k="maxspeed" v="50"/><tag k="name" v="Kildare Road"/><tag k="oneway" v="no"/><tag k="parking:left" v="lane"/><tag k="parking:right" v="no"/><tag k="smoothness" v="intermediate"/><tag k="surface" v="asphalt"/></way>
+<way id="459470667" version="15" timestamp="2025-06-17T12:12:48Z"><nd ref="353285483"/><nd ref="12913046085"/><nd ref="12913046099"/><nd ref="12913046093"/><nd ref="12913046091"/><nd ref="257079658"/><nd ref="12913046090"/><nd ref="256992075"/><nd ref="12921165600"/><nd ref="257080444"/><nd ref="12921165598"/><nd ref="257083937"/><nd ref="12921165596"/><nd ref="257080228"/><nd ref="12921165595"/><nd ref="257084151"/><nd ref="12921165593"/><nd ref="257080092"/><nd ref="12921165590"/><nd ref="1608086676"/><tag k="cycleway" v="no"/><tag k="highway" v="residential"/><tag k="incline" v="0%"/><tag k="lane_markings" v="no"/><tag k="lanes" v="2"/><tag k="lit" v="yes"/><tag k="maxspeed" v="50"/><tag k="name" v="Richmond Street"/><tag k="oneway" v="no"/><tag k="parking:both" v="no"/><tag k="smoothness" v="intermediate"/><tag k="surface" v="asphalt"/></way>
+<way id="637021874" version="1" timestamp="2018-10-23T01:48:57Z"><nd ref="6006254028"/><nd ref="6006254029"/><nd ref="6006254030"/><nd ref="6006254031"/><nd ref="6006254032"/><nd ref="6006254033"/><nd ref="6006254028"/><tag k="building" v="house"/></way>
+<way id="637021875" version="1" timestamp="2018-10-23T01:48:57Z"><nd ref="6006254034"/><nd ref="6006254035"/><nd ref="6006254036"/><nd ref="6006254037"/><nd ref="6006254034"/><tag k="building" v="house"/></way>
+<way id="637021876" version="1" timestamp="2018-10-23T01:48:57Z"><nd ref="6006254038"/><nd ref="6006254039"/><nd ref="6006254040"/><nd ref="6006254041"/><nd ref="6006254042"/><nd ref="6006254043"/><nd ref="6006254038"/><tag k="building" v="house"/></way>
+<way id="637021877" version="1" timestamp="2018-10-23T01:48:57Z"><nd ref="6006254044"/><nd ref="6006254045"/><nd ref="6006254046"/><nd ref="6006254047"/><nd ref="6006254048"/><nd ref="6006254049"/><nd ref="6006254050"/><nd ref="6006254051"/><nd ref="6006254044"/><tag k="building" v="house"/></way>
+<way id="637021878" version="1" timestamp="2018-10-23T01:48:57Z"><nd ref="6006254052"/><nd ref="6006254053"/><nd ref="6006254054"/><nd ref="6006254055"/><nd ref="6006254056"/><nd ref="6006254057"/><nd ref="6006254058"/><nd ref="6006254059"/><nd ref="6006254052"/><tag k="building" v="house"/></way>
+<way id="637021879" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254060"/><nd ref="6006254061"/><nd ref="6006254062"/><nd ref="6006254063"/><nd ref="6006254060"/><tag k="building" v="house"/></way>
+<way id="637021880" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254064"/><nd ref="6006254065"/><nd ref="6006254066"/><nd ref="6006254068"/><nd ref="6006254069"/><nd ref="6006254071"/><nd ref="6006254070"/><nd ref="6006254067"/><nd ref="6006254064"/><tag k="building" v="house"/></way>
+<way id="637021881" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254072"/><nd ref="6006254073"/><nd ref="6006254074"/><nd ref="6006254075"/><nd ref="6006254076"/><nd ref="6006254077"/><nd ref="6006254078"/><nd ref="6006254079"/><nd ref="6006254080"/><nd ref="6006254081"/><nd ref="6006254072"/><tag k="building" v="house"/></way>
+<way id="637021882" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254082"/><nd ref="6006254083"/><nd ref="6006254084"/><nd ref="6006254185"/><nd ref="6006254186"/><nd ref="6006254187"/><nd ref="6006254188"/><nd ref="6006254189"/><nd ref="6006254082"/><tag k="building" v="house"/></way>
+<way id="637021883" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254190"/><nd ref="6006254191"/><nd ref="6006254192"/><nd ref="6006254193"/><nd ref="6006254194"/><nd ref="6006254195"/><nd ref="6006254190"/><tag k="building" v="house"/></way>
+<way id="637021884" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254196"/><nd ref="6006254197"/><nd ref="6006254198"/><nd ref="6006254199"/><nd ref="6006254200"/><nd ref="6006254201"/><nd ref="6006254202"/><nd ref="6006254203"/><nd ref="6006254204"/><nd ref="6006254205"/><nd ref="6006254196"/><tag k="building" v="house"/></way>
+<way id="637021885" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254206"/><nd ref="6006254207"/><nd ref="6006254208"/><nd ref="6006254209"/><nd ref="6006254210"/><nd ref="6006254211"/><nd ref="6006254206"/><tag k="building" v="house"/></way>
+<way id="637021886" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254212"/><nd ref="6006254213"/><nd ref="6006254214"/><nd ref="6006254215"/><nd ref="6006254212"/><tag k="building" v="house"/></way>
+<way id="637021887" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254216"/><nd ref="6006254217"/><nd ref="6006254218"/><nd ref="6006254219"/><nd ref="6006254220"/><nd ref="6006254221"/><nd ref="6006254216"/><tag k="building" v="house"/></way>
+<way id="637021888" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254222"/><nd ref="6006254223"/><nd ref="6006254224"/><nd ref="6006254225"/><nd ref="6006254226"/><nd ref="6006254227"/><nd ref="6006254228"/><nd ref="6006254229"/><nd ref="6006254222"/><tag k="building" v="house"/></way>
+<way id="637021889" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254230"/><nd ref="6006254231"/><nd ref="6006254232"/><nd ref="6006254233"/><nd ref="6006254230"/><tag k="building" v="house"/></way>
+<way id="637021890" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254234"/><nd ref="6006254235"/><nd ref="6006254236"/><nd ref="6006254237"/><nd ref="6006254234"/><tag k="building" v="house"/></way>
+<way id="637021891" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254238"/><nd ref="6006254239"/><nd ref="6006254240"/><nd ref="6006254241"/><nd ref="6006254238"/><tag k="building" v="house"/></way>
+<way id="637021892" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254242"/><nd ref="6006254243"/><nd ref="6006254244"/><nd ref="6006254245"/><nd ref="6006254246"/><nd ref="6006254247"/><nd ref="6006254248"/><nd ref="6006254249"/><nd ref="6006254242"/><tag k="building" v="house"/></way>
+<way id="637021893" version="1" timestamp="2018-10-23T01:48:58Z"><nd ref="6006254250"/><nd ref="6006254251"/><nd ref="6006254252"/><nd ref="6006254253"/><nd ref="6006254254"/><nd ref="6006254255"/><nd ref="6006254250"/><tag k="building" v="house"/></way>
+<way id="637021899" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254388"/><nd ref="6006254389"/><nd ref="6006254390"/><nd ref="6006254391"/><nd ref="6006254392"/><nd ref="6006254393"/><nd ref="6006254394"/><nd ref="6006254395"/><nd ref="6006254396"/><nd ref="6006254397"/><nd ref="6006254398"/><nd ref="6006254399"/><nd ref="6006254400"/><nd ref="6006254401"/><nd ref="6006254402"/><nd ref="6006254403"/><nd ref="6006254388"/><tag k="building" v="house"/></way>
+<way id="637021900" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254404"/><nd ref="6006254405"/><nd ref="6006254406"/><nd ref="6006254407"/><nd ref="6006254404"/><tag k="building" v="house"/></way>
+<way id="637021901" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254408"/><nd ref="6006254409"/><nd ref="6006254410"/><nd ref="6006254411"/><nd ref="6006254412"/><nd ref="6006254413"/><nd ref="6006254414"/><nd ref="6006254415"/><nd ref="6006254416"/><nd ref="6006254417"/><nd ref="6006254418"/><nd ref="6006254419"/><nd ref="6006254408"/><tag k="building" v="house"/></way>
+<way id="637021902" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254420"/><nd ref="6006254421"/><nd ref="6006254422"/><nd ref="6006254423"/><nd ref="6006254424"/><nd ref="6006254425"/><nd ref="6006254426"/><nd ref="6006254427"/><nd ref="6006254428"/><nd ref="6006254429"/><nd ref="6006254430"/><nd ref="6006254431"/><nd ref="6006254420"/><tag k="building" v="house"/></way>
+<way id="637021903" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254432"/><nd ref="6006254433"/><nd ref="6006254434"/><nd ref="6006254435"/><nd ref="6006254432"/><tag k="building" v="house"/></way>
+<way id="637021904" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254436"/><nd ref="6006254437"/><nd ref="6006254438"/><nd ref="6006254439"/><nd ref="6006254440"/><nd ref="6006254441"/><nd ref="6006254442"/><nd ref="6006254443"/><nd ref="6006254436"/><tag k="building" v="house"/></way>
+<way id="637021905" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254444"/><nd ref="6006254445"/><nd ref="6006254446"/><nd ref="6006254447"/><nd ref="6006254444"/><tag k="building" v="house"/></way>
+<way id="637021906" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254448"/><nd ref="6006254449"/><nd ref="6006254450"/><nd ref="6006254451"/><nd ref="6006254452"/><nd ref="6006254453"/><nd ref="6006254454"/><nd ref="6006254455"/><nd ref="6006254448"/><tag k="building" v="house"/></way>
+<way id="637021907" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254456"/><nd ref="6006254457"/><nd ref="6006254458"/><nd ref="6006254459"/><nd ref="6006254456"/><tag k="building" v="house"/></way>
+<way id="637021908" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254460"/><nd ref="6006254461"/><nd ref="6006254462"/><nd ref="6006254463"/><nd ref="6006254460"/><tag k="building" v="house"/></way>
+<way id="637021909" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254464"/><nd ref="6006254465"/><nd ref="6006254466"/><nd ref="6006254467"/><nd ref="6006254464"/><tag k="building" v="house"/></way>
+<way id="637021910" version="2" timestamp="2020-03-22T18:09:21Z"><nd ref="6006254471"/><nd ref="6006254472"/><nd ref="6006254473"/><nd ref="6006254474"/><nd ref="6006254477"/><nd ref="6006254468"/><nd ref="6006254471"/><tag k="building" v="house"/></way>
+<way id="637021914" version="1" timestamp="2018-10-23T01:48:59Z"><nd ref="6006254592"/><nd ref="6006254593"/><nd ref="6006254594"/><nd ref="6006254595"/><nd ref="6006254596"/><nd ref="6006254597"/><nd ref="6006254598"/><nd ref="6006254599"/><nd ref="6006254600"/><nd ref="6006254601"/><nd ref="6006254602"/><nd ref="6006254603"/><nd ref="6006254604"/><nd ref="6006254605"/><nd ref="6006254592"/><tag k="building" v="house"/></way>
+<way id="641932726" version="1" timestamp="2018-11-07T16:55:29Z"><nd ref="6044446626"/><nd ref="6044446627"/><nd ref="6044446628"/><nd ref="6044446629"/><nd ref="6044446630"/><nd ref="6044446631"/><nd ref="6044446632"/><nd ref="6044446633"/><nd ref="6044446634"/><nd ref="6044446635"/><nd ref="6044446636"/><nd ref="6044446637"/><nd ref="6044446626"/><tag k="building" v="house"/></way>
+<way id="641932727" version="1" timestamp="2018-11-07T16:55:29Z"><nd ref="6044446638"/><nd ref="6044446639"/><nd ref="6044446640"/><nd ref="6044446641"/><nd ref="6044446642"/><nd ref="6044446643"/><nd ref="6044446638"/><tag k="building" v="house"/></way>
+<way id="641932728" version="1" timestamp="2018-11-07T16:55:29Z"><nd ref="6044446644"/><nd ref="6044446645"/><nd ref="6044446646"/><nd ref="6044446647"/><nd ref="6044446648"/><nd ref="6044446649"/><nd ref="6044446650"/><nd ref="6044446651"/><nd ref="6044446644"/><tag k="building" v="house"/></way>
+<way id="641932729" version="1" timestamp="2018-11-07T16:55:29Z"><nd ref="6044446652"/><nd ref="6044446653"/><nd ref="6044446654"/><nd ref="6044446655"/><nd ref="6044446652"/><tag k="building" v="house"/></way>
+<way id="641932730" version="1" timestamp="2018-11-07T16:55:29Z"><nd ref="6044446656"/><nd ref="6044446657"/><nd ref="6044446658"/><nd ref="6044446659"/><nd ref="6044446656"/><tag k="building" v="house"/></way>
+<way id="641985381" version="1" timestamp="2018-11-07T20:43:33Z"><nd ref="6044865519"/><nd ref="6044865520"/><nd ref="6044865521"/><nd ref="6044865522"/><nd ref="6044865523"/><nd ref="6044865524"/><nd ref="6044865525"/><nd ref="6044865526"/><nd ref="6044865519"/><tag k="building" v="house"/></way>
+<way id="641985382" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865527"/><nd ref="6044865528"/><nd ref="6044865529"/><nd ref="6044865530"/><nd ref="6044865531"/><nd ref="6044865532"/><nd ref="6044865533"/><nd ref="6044865534"/><nd ref="6044865527"/><tag k="building" v="house"/></way>
+<way id="641985383" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865535"/><nd ref="6044865536"/><nd ref="6044865537"/><nd ref="6044865538"/><nd ref="6044865539"/><nd ref="6044865540"/><nd ref="6044865541"/><nd ref="6044865542"/><nd ref="6044865543"/><nd ref="6044865544"/><nd ref="6044865535"/><tag k="building" v="house"/></way>
+<way id="641985384" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865545"/><nd ref="6044865546"/><nd ref="6044865547"/><nd ref="6044865548"/><nd ref="6044865549"/><nd ref="6044865550"/><nd ref="6044865551"/><nd ref="6044865552"/><nd ref="6044865553"/><nd ref="6044865554"/><nd ref="6044865555"/><nd ref="6044865556"/><nd ref="6044865545"/><tag k="building" v="house"/></way>
+<way id="641985385" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865557"/><nd ref="6044865558"/><nd ref="6044865559"/><nd ref="6044865560"/><nd ref="6044865557"/><tag k="building" v="house"/></way>
+<way id="641985386" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865561"/><nd ref="6044865562"/><nd ref="6044865563"/><nd ref="6044865564"/><nd ref="6044865561"/><tag k="building" v="house"/></way>
+<way id="641985387" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865565"/><nd ref="6044865566"/><nd ref="6044865567"/><nd ref="6044865568"/><nd ref="6044865569"/><nd ref="6044865570"/><nd ref="6044865571"/><nd ref="6044865572"/><nd ref="6044865573"/><nd ref="6044865574"/><nd ref="6044865565"/><tag k="building" v="house"/></way>
+<way id="641985388" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865575"/><nd ref="6044865576"/><nd ref="6044865577"/><nd ref="6044865578"/><nd ref="6044865579"/><nd ref="6044865580"/><nd ref="6044865575"/><tag k="building" v="house"/></way>
+<way id="641985389" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865581"/><nd ref="6044865582"/><nd ref="6044865583"/><nd ref="6044865584"/><nd ref="6044865685"/><nd ref="6044865686"/><nd ref="6044865687"/><nd ref="6044865688"/><nd ref="6044865689"/><nd ref="6044865581"/><tag k="building" v="house"/></way>
+<way id="641985390" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865690"/><nd ref="6044865691"/><nd ref="6044865692"/><nd ref="6044865693"/><nd ref="6044865694"/><nd ref="6044865695"/><nd ref="6044865696"/><nd ref="6044865697"/><nd ref="6044865698"/><nd ref="6044865699"/><nd ref="6044865690"/><tag k="building" v="house"/></way>
+<way id="641985391" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865700"/><nd ref="6044865701"/><nd ref="6044865702"/><nd ref="6044865703"/><nd ref="6044865700"/><tag k="building" v="house"/></way>
+<way id="641985392" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865704"/><nd ref="6044865705"/><nd ref="6044865706"/><nd ref="6044865707"/><nd ref="6044865708"/><nd ref="6044865709"/><nd ref="6044865710"/><nd ref="6044865711"/><nd ref="6044865704"/><tag k="building" v="house"/></way>
+<way id="641985393" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865712"/><nd ref="6044865713"/><nd ref="6044865714"/><nd ref="6044865715"/><nd ref="6044865716"/><nd ref="6044865717"/><nd ref="6044865718"/><nd ref="6044865719"/><nd ref="6044865720"/><nd ref="6044865721"/><nd ref="6044865712"/><tag k="building" v="house"/></way>
+<way id="641985394" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865722"/><nd ref="6044865723"/><nd ref="6044865724"/><nd ref="6044865725"/><nd ref="6044865726"/><nd ref="6044865727"/><nd ref="6044865722"/><tag k="building" v="house"/></way>
+<way id="641985395" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865728"/><nd ref="6044865729"/><nd ref="6044865730"/><nd ref="6044865731"/><nd ref="6044865732"/><nd ref="6044865733"/><nd ref="6044865734"/><nd ref="6044865735"/><nd ref="6044865736"/><nd ref="6044865728"/><tag k="building" v="house"/></way>
+<way id="641985396" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865737"/><nd ref="6044865738"/><nd ref="6044865739"/><nd ref="6044865740"/><nd ref="6044865737"/><tag k="building" v="house"/></way>
+<way id="641985397" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865741"/><nd ref="6044865742"/><nd ref="6044865743"/><nd ref="6044865744"/><nd ref="6044865741"/><tag k="building" v="house"/></way>
+<way id="641985398" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865745"/><nd ref="6044865746"/><nd ref="6044865747"/><nd ref="6044865748"/><nd ref="6044865749"/><nd ref="6044865750"/><nd ref="6044865751"/><nd ref="6044865752"/><nd ref="6044865745"/><tag k="building" v="house"/></way>
+<way id="641985399" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865753"/><nd ref="6044865754"/><nd ref="6044865755"/><nd ref="6044865756"/><nd ref="6044865753"/><tag k="building" v="house"/></way>
+<way id="641985400" version="1" timestamp="2018-11-07T20:43:34Z"><nd ref="6044865757"/><nd ref="6044865758"/><nd ref="6044865759"/><nd ref="6044865760"/><nd ref="6044865757"/><tag k="building" v="house"/></way>
+<way id="641985401" version="2" timestamp="2020-03-28T17:47:05Z"><nd ref="6044865768"/><nd ref="6044865765"/><nd ref="6044865762"/><nd ref="6044865761"/><nd ref="6044865763"/><nd ref="6044865764"/><nd ref="6044865767"/><nd ref="6044865766"/><nd ref="6044865768"/><tag k="building" v="house"/></way>
+<way id="641985402" version="1" timestamp="2018-11-07T20:43:35Z"><nd ref="6044865769"/><nd ref="6044865770"/><nd ref="6044865771"/><nd ref="6044865772"/><nd ref="6044865773"/><nd ref="6044865774"/><nd ref="6044865775"/><nd ref="6044865776"/><nd ref="6044865769"/><tag k="building" v="house"/></way>
+<way id="641985403" version="1" timestamp="2018-11-07T20:43:35Z"><nd ref="6044865777"/><nd ref="6044865778"/><nd ref="6044865779"/><nd ref="6044865780"/><nd ref="6044865777"/><tag k="building" v="house"/></way>
+<way id="641985405" version="1" timestamp="2018-11-07T20:43:35Z"><nd ref="6044865781"/><nd ref="6044865782"/><nd ref="6044865783"/><nd ref="6044865784"/><nd ref="6044865781"/><tag k="building" v="house"/></way>
+<way id="642286174" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121893"/><nd ref="6047121894"/><nd ref="6047121895"/><nd ref="6047121896"/><nd ref="6047121893"/><tag k="building" v="house"/></way>
+<way id="642286175" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121897"/><nd ref="6047121898"/><nd ref="6047121899"/><nd ref="6047121900"/><nd ref="6047121901"/><nd ref="6047121902"/><nd ref="6047121897"/><tag k="building" v="house"/></way>
+<way id="642286176" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121903"/><nd ref="6047121904"/><nd ref="6047121905"/><nd ref="6047121906"/><nd ref="6047121903"/><tag k="building" v="house"/></way>
+<way id="642286177" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121907"/><nd ref="6047121908"/><nd ref="6047121909"/><nd ref="6047121910"/><nd ref="6047121911"/><nd ref="6047121912"/><nd ref="6047121913"/><nd ref="6047121914"/><nd ref="6047121907"/><tag k="building" v="house"/></way>
+<way id="642286178" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121915"/><nd ref="6047121916"/><nd ref="6047121917"/><nd ref="6047121918"/><nd ref="6047121915"/><tag k="building" v="house"/></way>
+<way id="642286179" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121919"/><nd ref="6047121920"/><nd ref="6047121921"/><nd ref="6047121922"/><nd ref="6047121919"/><tag k="building" v="house"/></way>
+<way id="642286180" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121923"/><nd ref="6047121924"/><nd ref="6047121925"/><nd ref="6047121926"/><nd ref="6047121927"/><nd ref="6047121928"/><nd ref="6047121923"/><tag k="building" v="house"/></way>
+<way id="642286181" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121929"/><nd ref="6047121930"/><nd ref="6047121931"/><nd ref="6047121932"/><nd ref="6047121933"/><nd ref="6047121934"/><nd ref="6047121935"/><nd ref="6047121936"/><nd ref="6047121929"/><tag k="building" v="house"/></way>
+<way id="642286182" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121937"/><nd ref="6047121938"/><nd ref="6047121939"/><nd ref="6047121940"/><nd ref="6047121941"/><nd ref="6047121942"/><nd ref="6047121943"/><nd ref="6047121944"/><nd ref="6047121937"/><tag k="building" v="house"/></way>
+<way id="642286183" version="1" timestamp="2018-11-08T19:29:21Z"><nd ref="6047121945"/><nd ref="6047121946"/><nd ref="6047121947"/><nd ref="6047121948"/><nd ref="6047121949"/><nd ref="6047121950"/><nd ref="6047121951"/><nd ref="6047121952"/><nd ref="6047121953"/><nd ref="6047121954"/><nd ref="6047121945"/><tag k="building" v="house"/></way>
+<way id="642401425" version="2" timestamp="2020-03-28T17:47:05Z"><nd ref="6047879077"/><nd ref="6047879076"/><nd ref="6047879075"/><nd ref="6047879078"/><nd ref="6047879077"/><tag k="building" v="commercial"/></way>
+<way id="642401427" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047879083"/><nd ref="6047879084"/><nd ref="6047889985"/><nd ref="6047889986"/><nd ref="6047889987"/><nd ref="6047889988"/><nd ref="6047879083"/><tag k="building" v="commercial"/></way>
+<way id="642401429" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047889989"/><nd ref="6047889990"/><nd ref="6047889991"/><nd ref="6047889992"/><nd ref="6047889993"/><nd ref="6047889994"/><nd ref="6047889995"/><nd ref="6047889996"/><nd ref="6047889989"/><tag k="building" v="house"/></way>
+<way id="642401431" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047889997"/><nd ref="6047889998"/><nd ref="6047889999"/><nd ref="6047890000"/><nd ref="6047890001"/><nd ref="6047890002"/><nd ref="6047890003"/><nd ref="6047890004"/><nd ref="6047889997"/><tag k="building" v="house"/></way>
+<way id="642401433" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047890005"/><nd ref="6047890006"/><nd ref="6047890007"/><nd ref="6047890008"/><nd ref="6047890005"/><tag k="building" v="house"/></way>
+<way id="642401435" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047890009"/><nd ref="6047890010"/><nd ref="6047890011"/><nd ref="6047890012"/><nd ref="6047890013"/><nd ref="6047890014"/><nd ref="6047890015"/><nd ref="6047890016"/><nd ref="6047890009"/><tag k="building" v="house"/></way>
+<way id="642401438" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047890017"/><nd ref="6047890018"/><nd ref="6047890019"/><nd ref="6047890020"/><nd ref="6047890017"/><tag k="building" v="house"/></way>
+<way id="642401441" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047890021"/><nd ref="6047890022"/><nd ref="6047890023"/><nd ref="6047890024"/><nd ref="6047890021"/><tag k="building" v="house"/></way>
+<way id="642401444" version="1" timestamp="2018-11-09T03:18:09Z"><nd ref="6047890025"/><nd ref="6047890026"/><nd ref="6047890027"/><nd ref="6047890028"/><nd ref="6047890025"/><tag k="building" v="house"/></way>
+<way id="642666226" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615768"/><nd ref="6049615769"/><nd ref="6049615770"/><nd ref="6049615771"/><nd ref="6049615772"/><nd ref="6049615773"/><nd ref="6049615774"/><nd ref="6049615775"/><nd ref="6049615776"/><nd ref="6049615777"/><nd ref="6049615778"/><nd ref="6049615768"/><tag k="building" v="house"/></way>
+<way id="642666227" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615779"/><nd ref="6049615780"/><nd ref="6049615781"/><nd ref="6049615782"/><nd ref="6049615783"/><nd ref="6049615784"/><nd ref="6049615885"/><nd ref="6049615886"/><nd ref="6049615887"/><nd ref="6049615888"/><nd ref="6049615889"/><nd ref="6049615890"/><nd ref="6049615779"/><tag k="building" v="house"/></way>
+<way id="642666228" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615891"/><nd ref="6049615892"/><nd ref="6049615893"/><nd ref="6049615894"/><nd ref="6049615895"/><nd ref="6049615896"/><nd ref="6049615897"/><nd ref="6049615898"/><nd ref="6049615899"/><nd ref="6049615900"/><nd ref="6049615901"/><nd ref="6049615902"/><nd ref="6049615891"/><tag k="building" v="house"/></way>
+<way id="642666229" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615903"/><nd ref="6049615904"/><nd ref="6049615905"/><nd ref="6049615906"/><nd ref="6049615907"/><nd ref="6049615908"/><nd ref="6049615909"/><nd ref="6049615910"/><nd ref="6049615903"/><tag k="building" v="house"/></way>
+<way id="642666230" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615911"/><nd ref="6049615912"/><nd ref="6049615913"/><nd ref="6049615914"/><nd ref="6049615915"/><nd ref="6049615916"/><nd ref="6049615911"/><tag k="building" v="house"/></way>
+<way id="642666231" version="1" timestamp="2018-11-09T18:27:15Z"><nd ref="6049615917"/><nd ref="6049615918"/><nd ref="6049615919"/><nd ref="6049615920"/><nd ref="6049615921"/><nd ref="6049615922"/><nd ref="6049615923"/><nd ref="6049615924"/><nd ref="6049615925"/><nd ref="6049615926"/><nd ref="6049615917"/><tag k="building" v="commercial"/></way>
+<way id="642666233" version="1" timestamp="2018-11-09T18:27:16Z"><nd ref="6049615935"/><nd ref="6049615936"/><nd ref="6049615937"/><nd ref="6049615938"/><nd ref="6049615939"/><nd ref="6049615940"/><nd ref="6049615935"/><tag k="building" v="house"/></way>
+<way id="783702079" version="1" timestamp="2020-03-22T18:09:21Z"><nd ref="7320022682"/><nd ref="7320022681"/><nd ref="7320022680"/><nd ref="7320022679"/><nd ref="7320022682"/><tag k="building" v="yes"/></way>
+<way id="783702133" version="1" timestamp="2020-03-22T18:09:21Z"><nd ref="7320023098"/><nd ref="7320023097"/><nd ref="7320023096"/><nd ref="7320023095"/><nd ref="7320023098"/><tag k="building" v="yes"/></way>
+<way id="783702134" version="1" timestamp="2020-03-22T18:09:21Z"><nd ref="7320023106"/><nd ref="7320023105"/><nd ref="7320023104"/><nd ref="7320023103"/><nd ref="7320023102"/><nd ref="7320023101"/><nd ref="7320023100"/><nd ref="7320023099"/><nd ref="7320023106"/><tag k="building" v="yes"/></way>
+<way id="783702138" version="1" timestamp="2020-03-22T18:09:21Z"><nd ref="7320023125"/><nd ref="7320023124"/><nd ref="7320023123"/><nd ref="7320023122"/><nd ref="7320023125"/><tag k="building" v="yes"/></way>
+<way id="785651801" version="16" timestamp="2025-06-17T15:55:58Z"><nd ref="256992048"/><nd ref="12921584560"/><nd ref="3803510469"/><nd ref="12921182079"/><nd ref="12921182078"/><nd ref="353285431"/><nd ref="12875654597"/><nd ref="12919852133"/><nd ref="12919852134"/><nd ref="256992075"/><nd ref="12912800624"/><nd ref="12912800605"/><nd ref="251591210"/><tag k="highway" v="service"/><tag k="incline" v="0%"/><tag k="lanes" v="1"/><tag k="lit" v="no"/><tag k="maxspeed" v="30"/><tag k="oneway" v="no"/><tag k="parking:both" v="no"/><tag k="service" v="alley"/><tag k="smoothness" v="very_bad"/><tag k="surface" v="asphalt"/></way>
+<way id="790250552" version="23" timestamp="2025-12-09T15:00:33Z"><nd ref="7387886828"/><nd ref="7387886827"/><nd ref="7387886826"/><nd ref="7387886825"/><nd ref="7387886824"/><nd ref="7387886823"/><nd ref="7387886822"/><nd ref="7387886821"/><nd ref="7387886820"/><nd ref="7387886819"/><nd ref="7387886818"/><nd ref="7387886817"/><nd ref="6049615413"/><nd ref="7387886816"/><nd ref="7387886815"/><nd ref="7387886814"/><nd ref="7387886813"/><nd ref="7387886812"/><nd ref="7387886811"/><nd ref="7387877124"/><nd ref="7387886810"/><nd ref="7387886809"/><nd ref="7387886808"/><nd ref="7387886807"/><nd ref="7157866104"/><nd ref="7157866103"/><nd ref="7157866106"/><nd ref="2819623205"/><nd ref="2819623206"/><nd ref="2819623207"/><nd ref="2819623208"/><nd ref="7157866105"/><nd ref="7387886806"/><nd ref="7387886805"/><nd ref="10011813692"/><nd ref="10011813694"/><nd ref="10011813696"/><nd ref="7387886804"/><nd ref="13363779356"/><nd ref="253288907"/><nd ref="253288906"/><nd ref="7387886803"/><nd ref="7387886802"/><nd ref="7387886801"/><nd ref="7387886800"/><nd ref="7026911321"/><nd ref="7026911320"/><nd ref="7387886789"/><nd ref="257084219"/><nd ref="7387886798"/><nd ref="7387886797"/><nd ref="257083100"/><nd ref="12919817892"/><nd ref="257160016"/><nd ref="12919817897"/><nd ref="257160019"/><nd ref="257160018"/><nd ref="10990035204"/><nd ref="7387886792"/><nd ref="257083101"/><nd ref="13363779466"/><nd ref="257083098"/><nd ref="257083099"/><nd ref="7387886791"/><nd ref="7387886790"/><nd ref="7026911319"/><nd ref="7026911322"/><nd ref="11886634875"/><nd ref="12919831348"/><nd ref="11886634878"/><nd ref="11886634877"/><nd ref="12919831346"/><nd ref="12919831347"/><nd ref="11886634876"/><nd ref="4386919502"/><nd ref="4386919818"/><nd ref="7387886788"/><nd ref="7387886787"/><nd ref="12919831339"/><nd ref="7387886786"/><nd ref="257084322"/><nd ref="7387877184"/><nd ref="7387877183"/><nd ref="7387805581"/><nd ref="7387805582"/><nd ref="7387805583"/><nd ref="7387805584"/><nd ref="7387877182"/><nd ref="7387877181"/><nd ref="7041126743"/><nd ref="7041126744"/><nd ref="7041126745"/><nd ref="7387877180"/><nd ref="5912417046"/><nd ref="5912417047"/><nd ref="7041126763"/><nd ref="7041126778"/><nd ref="7041126777"/><nd ref="7041113143"/><nd ref="7041113144"/><nd ref="257083952"/><nd ref="6055265620"/><nd ref="9842308030"/><nd ref="6055265621"/><nd ref="6055265622"/><nd ref="7387877177"/><nd ref="256992041"/><nd ref="7387877175"/><nd ref="7387877174"/><nd ref="7387877173"/><nd ref="7387877172"/><nd ref="7387877171"/><nd ref="7387877170"/><nd ref="7387877169"/><nd ref="7387877168"/><nd ref="7387877167"/><nd ref="7387877166"/><nd ref="7387877165"/><nd ref="7387877164"/><nd ref="7387877163"/><nd ref="7387877162"/><nd ref="7387877161"/><nd ref="7387877160"/><nd ref="7387877159"/><nd ref="7387877158"/><nd ref="7387877157"/><nd ref="7387877156"/><nd ref="7387877155"/><nd ref="7387877154"/><nd ref="7387877153"/><nd ref="7387877152"/><nd ref="7387877151"/><nd ref="7387877150"/><nd ref="7387877149"/><nd ref="7387877148"/><nd ref="7387877147"/><nd ref="7387877146"/><nd ref="7387877145"/><nd ref="7387877144"/><nd ref="7387877143"/><nd ref="7387877142"/><nd ref="12913035703"/><nd ref="7387877141"/><nd ref="7387877140"/><nd ref="7387877139"/><nd ref="7387877138"/><nd ref="7387877137"/><nd ref="11560970702"/><nd ref="7387877136"/><nd ref="7387877135"/><nd ref="257077344"/><nd ref="12921817108"/><nd ref="12921817107"/><nd ref="6044447565"/><nd ref="6044447566"/><nd ref="6044447578"/><nd ref="7387877133"/><nd ref="7387886828"/><tag k="landuse" v="residential"/></way>
+<way id="1183470074" version="3" timestamp="2025-06-16T17:52:57Z"><nd ref="2898130460"/><nd ref="12919817930"/><nd ref="12919817893"/><tag k="bicycle" v="designated"/><tag k="foot" v="designated"/><tag k="highway" v="cycleway"/><tag k="oneway" v="no"/><tag k="segregated" v="no"/><tag k="smoothness" v="excellent"/><tag k="surface" v="asphalt"/></way>
+<way id="1280382820" version="4" timestamp="2025-06-17T12:12:48Z"><nd ref="12875669401"/><nd ref="11885041217"/><nd ref="12919746826"/><nd ref="12919746803"/><nd ref="12919746804"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1"/></way>
+<way id="1304240906" version="2" timestamp="2025-06-16T17:09:08Z"><nd ref="12919746802"/><nd ref="12919746827"/><nd ref="12919746801"/><nd ref="12919743400"/><nd ref="12919746828"/><nd ref="12078295272"/><nd ref="12919746802"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/></way>
+<way id="1395006778" version="1" timestamp="2025-06-13T14:46:32Z"><nd ref="12912800200"/><nd ref="12912800613"/><nd ref="12912800601"/><nd ref="12912800602"/><nd ref="12912800624"/><nd ref="12912800603"/><nd ref="12912800604"/><nd ref="12912800605"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1"/></way>
+<way id="1395787239" version="1" timestamp="2025-06-16T17:52:57Z"><nd ref="12919817899"/><nd ref="12919817928"/><nd ref="12919817868"/><nd ref="12919817867"/><nd ref="12919817866"/><nd ref="12919817865"/><nd ref="12919817864"/><nd ref="12919817863"/><nd ref="12919817862"/><nd ref="12919817861"/><nd ref="12919817860"/><nd ref="12919817859"/><nd ref="12919817858"/><nd ref="12919817857"/><nd ref="12919817856"/><nd ref="12919817876"/><nd ref="12919817855"/><nd ref="12919817854"/><nd ref="12919817853"/><nd ref="12919817852"/><nd ref="12919817851"/><nd ref="12919817850"/><nd ref="12919817849"/><nd ref="12919817891"/><nd ref="12919817848"/><nd ref="12919817847"/><nd ref="12919817846"/><nd ref="12919817845"/><nd ref="12919817844"/><nd ref="12919817843"/><nd ref="12919817842"/><nd ref="12919817841"/><nd ref="12919817840"/><nd ref="12919817839"/><nd ref="12919817838"/><nd ref="12919817837"/><nd ref="2898130460"/><nd ref="12919817836"/><nd ref="12919817835"/><nd ref="12919817834"/><nd ref="12919817833"/><nd ref="12919817832"/><nd ref="12919817831"/><nd ref="12919817830"/><nd ref="12919817829"/><nd ref="12919817828"/><nd ref="12919817827"/><nd ref="12919817826"/><nd ref="12919817825"/><nd ref="12919817824"/><nd ref="12919817823"/><nd ref="12919817822"/><nd ref="12919817821"/><nd ref="12919817820"/><nd ref="12919817819"/><nd ref="12919817818"/><nd ref="12919817817"/><nd ref="12919817816"/><nd ref="12919817815"/><nd ref="12919817814"/><nd ref="12919817813"/><nd ref="12919817812"/><nd ref="12919817811"/><nd ref="12919817810"/><nd ref="12919817809"/><nd ref="12919817868"/><nd ref="12919817808"/><tag k="bicycle" v="designated"/><tag k="foot" v="designated"/><tag k="highway" v="cycleway"/><tag k="incline" v="0%"/><tag k="lit" v="no"/><tag k="oneway" v="no"/><tag k="segregated" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="asphalt"/><tag k="wheelchair" v="yes"/><tag k="width" v="2.5"/></way>
+<way id="1395787242" version="1" timestamp="2025-06-16T17:52:57Z"><nd ref="12919817853"/><nd ref="12919817838"/><tag k="bicycle" v="designated"/><tag k="foot" v="designated"/><tag k="highway" v="cycleway"/><tag k="incline" v="0%"/><tag k="lit" v="no"/><tag k="oneway" v="no"/><tag k="segregated" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="asphalt"/><tag k="wheelchair" v="yes"/><tag k="width" v="2.5"/></way>
+<way id="1395787247" version="2" timestamp="2025-06-17T12:12:48Z"><nd ref="12919817894"/><nd ref="12919817893"/><nd ref="12921165572"/><nd ref="12919817895"/><nd ref="12919817932"/><nd ref="12919817870"/><nd ref="12919817896"/><nd ref="12919817899"/><nd ref="12919817916"/><nd ref="12919817956"/><nd ref="257160019"/><nd ref="12919817918"/><nd ref="12919817917"/><nd ref="12919817890"/><nd ref="12919817894"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="excellent"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1.2"/></way>
+<way id="1395787252" version="1" timestamp="2025-06-16T17:52:57Z"><nd ref="12919817922"/><nd ref="12919817929"/><nd ref="12919817923"/><nd ref="12919817930"/><nd ref="12919817924"/><nd ref="12919817931"/><nd ref="12919817927"/><nd ref="12919817919"/><nd ref="12919817928"/><nd ref="12919817926"/><tag k="barrier" v="fence"/><tag k="fence_type" v="metal"/><tag k="height" v="4"/><tag k="material" v="metal"/></way>
+<way id="1395794337" version="1" timestamp="2025-06-16T18:27:36Z"><nd ref="12919852129"/><nd ref="12919852130"/><nd ref="12919852133"/><nd ref="12919852131"/><nd ref="12913046072"/><nd ref="12919852134"/><nd ref="12919852129"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1"/></way>
+<way id="1395959052" version="1" timestamp="2025-06-17T12:12:48Z"><nd ref="12921165543"/><nd ref="12921165578"/><nd ref="12921165544"/><nd ref="12921165545"/><nd ref="12921165546"/><nd ref="12921165547"/><nd ref="12921165548"/><nd ref="12921165549"/><nd ref="12921165550"/><nd ref="12921165551"/><nd ref="12921165552"/><nd ref="12921165553"/><nd ref="12921165554"/><nd ref="12921165577"/><nd ref="12921165555"/><nd ref="12921165543"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1"/></way>
+<way id="1395959053" version="1" timestamp="2025-06-17T12:12:48Z"><nd ref="12921165556"/><nd ref="12921165557"/><nd ref="12921165558"/><nd ref="12921165559"/><tag k="footway" v="sidewalk"/><tag k="highway" v="footway"/><tag k="incline" v="0%"/><tag k="lit" v="yes"/><tag k="oneway" v="no"/><tag k="smoothness" v="intermediate"/><tag k="stroller" v="yes"/><tag k="surface" v="concrete"/><tag k="tactile_paving" v="no"/><tag k="wheelchair" v="yes"/><tag k="width" v="1"/></way>
+<way id="1395959061" version="1" timestamp="2025-06-17T12:12:48Z"><nd ref="12921165556"/><nd ref="12921165592"/><nd ref="12921165544"/><nd ref="12921165593"/><nd ref="12921165572"/><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="footway" v="crossing"/><tag k="highway" v="footway"/><tag k="lit" v="yes"/><tag k="smoothness" v="excellent"/><tag k="surface" v="asphalt"/></way>
+<way id="1395959062" version="1" timestamp="2025-06-17T12:12:48Z"><nd ref="12919746802"/><nd ref="12921165597"/><nd ref="12919817894"/><nd ref="12921165595"/><nd ref="12921165543"/><nd ref="12921165594"/><nd ref="11885041217"/><nd ref="12921165596"/><nd ref="12919746802"/><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="footway" v="crossing"/><tag k="highway" v="footway"/><tag k="lit" v="yes"/><tag k="smoothness" v="excellent"/><tag k="surface" v="asphalt"/></way>
+<way id="1395959063" version="1" timestamp="2025-06-17T12:12:48Z"><nd ref="12912800602"/><nd ref="12921180701"/><nd ref="12919746801"/><nd ref="12921165598"/><nd ref="12919746803"/><nd ref="12921165599"/><nd ref="12919852129"/><nd ref="12921165600"/><nd ref="12912800602"/><tag k="crossing" v="unmarked"/><tag k="crossing:island" v="no"/><tag k="crossing:markings" v="no"/><tag k="flashing_lights" v="no"/><tag k="footway" v="crossing"/><tag k="highway" v="footway"/><tag k="lit" v="yes"/><tag k="smoothness" v="excellent"/><tag k="surface" v="asphalt"/></way>
+<relation id="6791827" version="71" timestamp="2026-06-09T15:13:35Z"><member type="way" ref="459469173" role=""/><member type="way" ref="459470345" role=""/><member type="way" ref="434276225" role=""/><member type="way" ref="459470343" role=""/><member type="way" ref="1441785661" role=""/><member type="way" ref="1447622575" role=""/><member type="way" ref="1447622576" role=""/><member type="way" ref="459470346" role=""/><member type="way" ref="493872506" role=""/><member type="way" ref="493872505" role=""/><member type="way" ref="1501506634" role=""/><member type="way" ref="493872497" role=""/><member type="way" ref="1396671555" role=""/><member type="way" ref="493872500" role=""/><member type="way" ref="493872503" role=""/><member type="way" ref="1396674544" role=""/><member type="way" ref="483176812" role=""/><member type="way" ref="1396674545" role=""/><member type="way" ref="1396674546" role=""/><member type="way" ref="1396674540" role=""/><member type="way" ref="1396674547" role=""/><member type="way" ref="1396674548" role=""/><member type="way" ref="23167139" role=""/><member type="way" ref="1396674549" role=""/><member type="way" ref="1396674541" role=""/><member type="way" ref="459470657" role=""/><member type="way" ref="274000263" role=""/><member type="way" ref="274000251" role=""/><member type="way" ref="421878295" role=""/><member type="way" ref="23409148" role=""/><member type="way" ref="96764330" role=""/><member type="way" ref="1273335357" role=""/><member type="way" ref="421878289" role=""/><member type="way" ref="421878288" role=""/><member type="way" ref="1077015007" role=""/><member type="way" ref="1077015002" role=""/><member type="way" ref="1077015004" role=""/><member type="way" ref="1077015003" role=""/><member type="way" ref="459470656" role=""/><member type="way" ref="1077015001" role=""/><member type="way" ref="451652060" role=""/><member type="way" ref="451652059" role=""/><member type="way" ref="1450739554" role=""/><member type="way" ref="23409099" role=""/><member type="way" ref="410374542" role=""/><member type="way" ref="1394807253" role=""/><member type="way" ref="1394807252" role=""/><member type="way" ref="1394807251" role=""/><member type="way" ref="1394791846" role=""/><member type="way" ref="274000243" role=""/><member type="way" ref="274000245" role=""/><member type="way" ref="1394807249" role=""/><member type="way" ref="1394807250" role=""/><member type="way" ref="274000255" role=""/><member type="way" ref="459470666" role=""/><member type="way" ref="459470673" role=""/><member type="way" ref="459470672" role=""/><member type="way" ref="1359578947" role=""/><member type="way" ref="1077015006" role=""/><member type="way" ref="1077015008" role=""/><member type="way" ref="459471049" role=""/><member type="way" ref="170996186" role=""/><member type="way" ref="459471046" role=""/><member type="way" ref="1420806488" role=""/><member type="way" ref="459471050" role=""/><member type="way" ref="491307872" role=""/><member type="way" ref="1501494378" role=""/><member type="way" ref="1501494376" role=""/><member type="way" ref="1501494377" role=""/><member type="way" ref="1501494380" role=""/><member type="way" ref="1501494380" role=""/><member type="way" ref="459474109" role=""/><member type="way" ref="1451240223" role=""/><member type="way" ref="488464605" role=""/><member type="way" ref="1527887466" role=""/><member type="way" ref="459470009" role=""/><member type="way" ref="23921768" role=""/><member type="way" ref="23725330" role=""/><member type="way" ref="257129706" role=""/><member type="way" ref="459470006" role=""/><member type="way" ref="147607264" role="forward"/><member type="way" ref="459470003" role=""/><member type="way" ref="483176821" role="forward"/><member type="way" ref="483176813" role="forward"/><member type="way" ref="483176814" role="forward"/><member type="way" ref="483176815" role="forward"/><member type="way" ref="495015065" role="forward"/><member type="way" ref="483176816" role="forward"/><member type="way" ref="483176820" role="forward"/><member type="way" ref="459470001" role=""/><member type="way" ref="459470026" role=""/><member type="way" ref="459470027" role=""/><member type="way" ref="163762309" role=""/><member type="way" ref="459470024" role=""/><member type="way" ref="459470023" role=""/><member type="way" ref="459470022" role=""/><member type="way" ref="31702306" role=""/><member type="way" ref="459470019" role=""/><member type="way" ref="23921598" role=""/><member type="way" ref="119197793" role=""/><member type="way" ref="459470012" role=""/><member type="way" ref="459470011" role=""/><member type="way" ref="1501494379" role=""/><member type="way" ref="1420581985" role=""/><member type="way" ref="1420581986" role=""/><member type="way" ref="1429059820" role=""/><member type="way" ref="557671270" role=""/><member type="way" ref="1420806489" role=""/><member type="way" ref="1424091149" role=""/><member type="way" ref="479012249" role=""/><member type="way" ref="23414289" role=""/><member type="way" ref="23414287" role=""/><member type="way" ref="1430434026" role=""/><member type="way" ref="491307873" role=""/><member type="way" ref="1429059816" role=""/><member type="way" ref="1429059815" role=""/><member type="way" ref="491307876" role=""/><member type="way" ref="23375886" role=""/><member type="way" ref="170996206" role=""/><member type="way" ref="459471048" role=""/><member type="way" ref="170996229" role=""/><member type="way" ref="168226570" role=""/><member type="way" ref="1420260615" role=""/><member type="way" ref="23144035" role=""/><member type="way" ref="1447156815" role=""/><member type="way" ref="1067404953" role=""/><member type="way" ref="459471044" role=""/><member type="way" ref="23144037" role=""/><member type="way" ref="459470679" role=""/><member type="way" ref="459470677" role=""/><member type="way" ref="1358559603" role=""/><member type="way" ref="1361109817" role=""/><member type="way" ref="1357685344" role=""/><member type="way" ref="1396677501" role=""/><member type="way" ref="459470674" role=""/><member type="way" ref="459472356" role=""/><member type="way" ref="459470671" role=""/><member type="way" ref="23564887" role=""/><member type="way" ref="1393999961" role=""/><member type="way" ref="1201141477" role=""/><member type="way" ref="459470667" role=""/><member type="way" ref="459470661" role=""/><tag k="name" v="3 Central"/><tag k="network" v="Transit Windsor"/><tag k="operator" v="City of WIndsor"/><tag k="ref" v="3"/><tag k="route" v="bus"/><tag k="type" v="route"/></relation>
+</osm>

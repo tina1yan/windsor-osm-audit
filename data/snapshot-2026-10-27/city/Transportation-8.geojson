@@ -1,0 +1,1339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95994056259116,
+          42.31371823637972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "hour": "8:10AM - 8:40AM | 3:00PM - 3:30PM",
+        "year": "2022 - 2023",
+        "School_": "Coronation Public",
+        "corner_id": "C10",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92946668765346,
+          42.310447780140585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "hour": "8:40AM - 9:10AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Forest Glade Public School",
+        "corner_id": "E7",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07699835156912,
+          42.2997926727274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "hour": "8:05AM - 8:35AM | 2:50PM - 3:20PM",
+        "year": "2022 - 2023",
+        "School_": "General Brock Public School",
+        "corner_id": "W1",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97424249793423,
+          42.251231212512515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "hour": "8:40AM - 9:10AM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "Talbot Trail School",
+        "corner_id": "S14",
+        "type": "SS",
+        "note": null,
+        "shift_num": 2,
+        "created_date": 1671484393000,
+        "last_edited_date": 1746836518000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99255739869105,
+          42.28046912591839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "hour": "8:40AM - 9:10AM | 12:00PM - 1:00PM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "St Christopher Catholic",
+        "corner_id": "S12",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02918971648288,
+          42.302202117245166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "hour": "8:05AM - 8:35AM | 12:35PM - 1:15PM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "Queen Victoria Public School",
+        "corner_id": "D6",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03977049999664,
+          42.31306671912091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "hour": "8:30AM - 9:15AM |3:20PM - 4:05PM",
+        "year": "2022 - 2023",
+        "School_": "Dougall Public | Immaculate Conception",
+        "corner_id": "D2",
+        "type": "SS",
+        "note": "2 Guard Corner",
+        "shift_num": 4,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01725486857947,
+          42.254747098755885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "hour": "7:45AM - 8:15AM | 2:30PM - 3:00PM",
+        "year": "2022 - 2023",
+        "School_": "Southwood Public | St. Gabriel Catholic",
+        "corner_id": "S8",
+        "type": "TL",
+        "note": "2 Guard Corner",
+        "shift_num": 4,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96147797507822,
+          42.325670944215524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "hour": "7:30AM - 8:00AM | 2:20PM - 2:50PM",
+        "year": "2022 - 2023",
+        "School_": "David Suzuki Public",
+        "corner_id": "E1",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98347045276873,
+          42.3044351316371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "hour": "7:45AM - 8:15AM | 2:35PM - 3:05PM",
+        "year": "2022 - 2023",
+        "School_": "St. Teresa of Calcutta",
+        "corner_id": "C6",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04968090107992,
+          42.29681610583334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "hour": "8:05AM - 8:35AM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "West Gate Public School",
+        "corner_id": "W8",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05420608878573,
+          42.29883973069313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "hour": "8:05AM - 8:35AM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "West Gate Public School",
+        "corner_id": "W6",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01918494264716,
+          42.307307509176475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "hour": "8:10AM - 9:10AM | 3:00PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "St. Angella Catholic | Prince Edward",
+        "corner_id": "D10",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99682517190091,
+          42.29553655516448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "hour": "8:15AM - 8:45AM | 3:05PM - 3:35PM",
+        "year": "2022 - 2023",
+        "School_": "Hugh Beaton Public",
+        "corner_id": "C4",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03046127774012,
+          42.27750899272883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "hour": "8:30AM - 9:00AM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "Northwood Public School",
+        "corner_id": "S13",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02062311258707,
+          42.30956472320272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "hour": "8:10AM - 9:10AM | 3:00PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Prince Edward Public | St Angela",
+        "corner_id": "D8",
+        "type": "SS",
+        "note": "2 Guard Corner",
+        "shift_num": 4,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9607172265058,
+          42.308754352483675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "hour": "8:35AM - 9:05AM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "St. Therese(French)",
+        "corner_id": "C11",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03623677790603,
+          42.311463165260264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "hour": "8:35AM - 9:05AM | 3:25PM - 3:55PM",
+        "year": "2022 - 2023",
+        "School_": "Dougall Public",
+        "corner_id": "D3",
+        "type": "4 wy",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01132998130434,
+          42.24535148544563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "hour": "8:35AM - 9:05AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Our Lady of Mt. Carmel Catholic",
+        "corner_id": "S9",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04099810898913,
+          42.31010037727849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "hour": "8:35AM - 9:05PM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "Dougall Public",
+        "corner_id": "D1",
+        "type": "4wy",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93311801256093,
+          42.33355535911048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "hour": "8:40AM - 9:10AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Hetherington Public School",
+        "corner_id": "E5",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95444142204556,
+          42.33131178214308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "hour": "7:30AM - 8:30AM | 2:20PM - 3:20PM",
+        "year": "2022 - 2023",
+        "School_": "St. Rose Catholic | David Suzuki",
+        "corner_id": "E4",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02051553116362,
+          42.26980619001636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "hour": "8:00AM - 9:15AM | 2:45PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Christ the King | Central Public",
+        "corner_id": "S5",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02587022492914,
+          42.268468581462564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "hour": "8:45AM - 9:15AM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "Christ the King Catholic",
+        "corner_id": "S4",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97013850046791,
+          42.310651198225536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "hour": "8:15AM - 9:15AM | 3:00PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Maxwell Public | Herman Academy",
+        "corner_id": "C8",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9230900601343,
+          42.31158402988313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "hour": "8:40AM - 9:10AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Forest Glade Public School",
+        "corner_id": "E9",
+        "type": "3wy",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06120135395692,
+          42.2862213235963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "hour": "8:45AM - 9:15PM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "St. James Catholic Elementary School",
+        "corner_id": "W5",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06725892609998,
+          42.293412947911435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "hour": "7:35AM - 8:05AM | 2:25PM - 2:55PM",
+        "year": "2022 - 2023",
+        "School_": "Marlborough",
+        "corner_id": "W2",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02551885176626,
+          42.31812879505218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "hour": "7:30AM - 8:00AM | 2:20PM - 2:50PM",
+        "year": "2022 - 2023",
+        "School_": "F.W.Begley Public School",
+        "corner_id": "D4",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95950765190108,
+          42.326045598693916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "hour": "7:30AM - 8:00AM | 2:20PM - 2:50PM",
+        "year": "2022 - 2023",
+        "School_": "David Suzuki Public",
+        "corner_id": "E2",
+        "type": "Crosswalk",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00592032188436,
+          42.30012338709434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "hour": "8:35AM - 9:05AM | 3:25PM - 3:55PM",
+        "year": "2022 - 2023",
+        "School_": "John Campbell Public School",
+        "corner_id": "C1",
+        "type": "TL",
+        "note": "2 Guard Corner",
+        "shift_num": 4,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91897088540323,
+          42.30104400875774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "hour": "7:40AM - 8:40AM | 2:30PM - 3:30PM",
+        "year": "2022 - 2023",
+        "School_": "H.J. Lassaline  |Eastview Horizon",
+        "corner_id": "E12",
+        "type": "TL",
+        "note": "2 Guard Corner",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01642314105082,
+          42.26724097975922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "hour": "7:50AM - 8:20AM | 2:40PM - 3:10PM",
+        "year": "2022 - 2023",
+        "School_": "Central Public",
+        "corner_id": "S6",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01836065351344,
+          42.2573195207013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "hour": "7:40AM - 8:10AM | 2:30PM - 3:00PM",
+        "year": "2022 - 2023",
+        "School_": "St. Gabriel Catholic",
+        "corner_id": "S7",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92830004868408,
+          42.308587162331165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "hour": "8:40AM - 9:10AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Forest Glade Public School",
+        "corner_id": "E8",
+        "type": "3wy",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96018554284636,
+          42.323641478898814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "hour": "8:40AM - 9:10AM | 3:25PM - 3:55PM",
+        "year": "2022 - 2023",
+        "School_": "Ecole Georges P. Vanier",
+        "corner_id": "E3",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02258944944575,
+          42.319178734026195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "hour": "7:30AM - 8:00AM | 12:00PM - 12:40PM | 2:20PM - 2:50PM",
+        "year": "2022 - 2023",
+        "School_": "F.W.Begley Public School",
+        "corner_id": "D5",
+        "type": "SS",
+        "note": "2 Guard Corner",
+        "shift_num": 5,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01596994681704,
+          42.306473110947024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "hour": "8:05AM - 8:35AM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "St. Angela Catholic",
+        "corner_id": "D11",
+        "type": "Crosswalk",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92278834414984,
+          42.299746509255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "hour": "8:10AM - 8:40AM | 3:00PM - 3:30PM",
+        "year": "2022 - 2023",
+        "School_": "Eastwood Public",
+        "corner_id": "E11",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03208373907015,
+          42.30116836379482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "hour": "8:05AM - 8:35AM | 12:35PM - 1:15PM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "Queen Victoria Public School",
+        "corner_id": "D7",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99946382539946,
+          42.30137434472971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "hour": "8:15AM - 8:45AM | 3:00PM - 3:30PM",
+        "year": "2022 - 2023",
+        "School_": "Hugh Beaton Public",
+        "corner_id": "C2",
+        "type": "TL",
+        "note": "2 Guard Corner | PM only",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97133914194848,
+          42.32805402830099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "hour": "8:00AM - 8:30AM | 2:50PM - 3:20PM",
+        "year": "2022 - 2023",
+        "School_": "Princess Elizabeth",
+        "corner_id": "C9",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98987917706567,
+          42.27615830398903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "hour": "8:40AM - 9:10AM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "St. Christopher Catholic",
+        "corner_id": "S11",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06663224880424,
+          42.287576297437276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "hour": "7:35AM - 8:05AM | 2:25PM - 2:55PM",
+        "year": "2022 - 2023",
+        "School_": "Marlborough",
+        "corner_id": "W3",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03026993462684,
+          42.265925624273336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "hour": "7:45AM - 8:15AM | 2:35PM - 3:05PM",
+        "year": "2022 - 2023",
+        "School_": "Glenwood Public",
+        "corner_id": "S2",
+        "type": "SS",
+        "note": " Temporarily Suspended due to Bridge Construction",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01845144462568,
+          42.3103151946944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "hour": "8:40AM - 9:10AM | 1:00PM - 1:50PM | 3:30PM - 4:00PM",
+        "year": "2022 - 2023",
+        "School_": "Prince Edward Public",
+        "corner_id": "D9",
+        "type": "TL",
+        "note": "2 Guard Corner",
+        "shift_num": 5,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05132688566385,
+          42.29987417376146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "hour": "8:05AM - 8:35AM | 2:55PM - 3:25PM",
+        "year": "2022 - 2023",
+        "School_": "West Gate Public School",
+        "corner_id": "W7",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99018340125504,
+          42.306015465241174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "hour": "7:45AM - 8:30AM | 2:30PM - 3:15PM",
+        "year": "2022 - 2023",
+        "School_": "St. Teresa of Calcutta | Ford City",
+        "corner_id": "C5",
+        "type": "TL",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99132598473393,
+          42.25918575749038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "hour": "7:55AM - 8:25AM | 2:40PM - 3:10PM",
+        "year": "2022 - 2023",
+        "School_": "Roseland Public",
+        "corner_id": "S10",
+        "type": "TL | Crosswalk",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99872778610627,
+          42.30025499049344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "hour": "8:15AM - 8:45AM | 2:50PM - 3:20PM",
+        "year": "2022 - 2023",
+        "School_": "Hugh Beaton Public",
+        "corner_id": "C3",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03815689338526,
+          42.26740307932741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "hour": "7:50AM - 8:20AM | 2:30PM - 3:00PM",
+        "year": "2023-2024",
+        "School_": "Bellewod Public School",
+        "corner_id": null,
+        "type": null,
+        "note": null,
+        "shift_num": null,
+        "created_date": 1746836372000,
+        "last_edited_date": 1746836944000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03145919249147,
+          42.27715496295443
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "hour": "8:30AM - 9:00AM | 3:20PM - 3:50PM",
+        "year": "2022 - 2023",
+        "School_": "Northwood Public",
+        "corner_id": "S1",
+        "type": "TL",
+        "note": "2 Guard Corner",
+        "shift_num": 4,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94688087191165,
+          42.307408020157375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "hour": "7:45AM - 8:15AM | 12:15PM - 1:00PM | 2:35PM - 3:05PM",
+        "year": "2022 - 2023",
+        "School_": "Roseville Public",
+        "corner_id": "E6",
+        "type": "Crosswalk",
+        "note": " ",
+        "shift_num": 3,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9780525317897,
+          42.317650516087234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "hour": "8:15AM - 8:45AM | 3:05PM - 3:35PM",
+        "year": "2022 - 2023",
+        "School_": "Maxwell Public",
+        "corner_id": "C7",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02899578814623,
+          42.2627983237354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "hour": "7:45AM - 8:15AM | 2:25PM - 2:55PM",
+        "year": "2022 - 2023",
+        "School_": "Glenwood Public",
+        "corner_id": "S3",
+        "type": "Midblock",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91082328973826,
+          42.31042626005812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "hour": "8:10AM - 8:40AM | 3:00PM - 3:45PM",
+        "year": "2022 - 2023",
+        "School_": "LA. Desmarais",
+        "corner_id": "E10",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06248368324535,
+          42.28909550274183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "hour": "7:35AM - 8:05AM | 2:25PM - 2:55PM",
+        "year": "2022 - 2023",
+        "School_": "Marlborough",
+        "corner_id": "W4",
+        "type": "SS",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.952747739139,
+          42.297860732274486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "hour": "7:50AM - 8:20AM | 2:40PM - 3:10PM",
+        "year": "2022 - 2023",
+        "School_": "William Davis Public",
+        "corner_id": "C12",
+        "type": "4wy",
+        "note": " ",
+        "shift_num": 2,
+        "created_date": null,
+        "last_edited_date": null
+      }
+    }
+  ]
+}

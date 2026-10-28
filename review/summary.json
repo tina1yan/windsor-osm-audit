@@ -1,0 +1,781 @@
+{
+  "scope": "Entire City of Windsor administrative boundary. Points filtered by polygon; lines retained if at least one vertex is inside (not strict geometric clipping).",
+  "boundary_url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Boundaries/MapServer/0",
+  "osm_timestamp": "2026-10-28T03:27:02Z",
+  "osm_bbox_elements": 72417,
+  "city_crossing_nodes": 9141,
+  "city_crossing_ways": 7255,
+  "crossing_values": {
+    "unmarked": 7375,
+    "uncontrolled": 478,
+    "traffic_signals": 1149,
+    "(unspecified)": 133,
+    "marked": 6
+  },
+  "city_layers": [
+    {
+      "name": "CrossingGuard",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/8",
+      "file": "Transportation-8.geojson",
+      "count": 58,
+      "retrieved": "2026-10-28T03:20:24.106Z",
+      "statuses": {}
+    },
+    {
+      "name": "CityBoundary",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Boundaries/MapServer/0",
+      "file": "Boundaries-0.geojson",
+      "count": 1,
+      "retrieved": "2026-10-28T03:20:24.110Z",
+      "statuses": {}
+    },
+    {
+      "name": "Sidewalk",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/22",
+      "file": "Transportation-22.geojson",
+      "count": 6771,
+      "retrieved": "2026-10-28T03:20:25.845Z",
+      "statuses": {}
+    },
+    {
+      "name": "BikeParking",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/4",
+      "file": "Transportation-4.geojson",
+      "count": 29,
+      "retrieved": "2026-10-28T03:20:25.957Z",
+      "statuses": {}
+    },
+    {
+      "name": "ElectricVehicleCharger",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+      "file": "Transportation-11.geojson",
+      "count": 80,
+      "retrieved": "2026-10-28T03:20:25.962Z",
+      "statuses": {}
+    },
+    {
+      "name": "StreetCentreline",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/23",
+      "file": "Transportation-23.geojson",
+      "count": 6307,
+      "retrieved": "2026-10-28T03:20:27.374Z",
+      "statuses": {}
+    },
+    {
+      "name": "ParkWashroom",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/CommunityRecreation/MapServer/12",
+      "file": "CommunityRecreation-12.geojson",
+      "count": 42,
+      "retrieved": "2026-10-28T03:20:27.473Z",
+      "statuses": {}
+    },
+    {
+      "name": "BikeLane",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/3",
+      "file": "Transportation-3.geojson",
+      "count": 1319,
+      "retrieved": "2026-10-28T03:20:27.663Z",
+      "statuses": {}
+    },
+    {
+      "name": "ActiveTransportProject",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/0",
+      "file": "PlanningDevelopment-0.geojson",
+      "count": 1447,
+      "retrieved": "2026-10-28T03:20:27.876Z",
+      "statuses": {
+        "Complete": 1344,
+        "In Progress/Planned": 56,
+        "Remove": 47
+      }
+    },
+    {
+      "name": "HeritageSite",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/10",
+      "file": "PlanningDevelopment-10.geojson",
+      "count": 1058,
+      "retrieved": "2026-10-28T03:20:28.085Z",
+      "statuses": {
+        "Heritage Register: Listed": 909,
+        "Heritage Register: Designated": 105,
+        "Heritage Register: Designated with internal limitations": 26,
+        "Designated-Sandwich Heritage Conservation District": 5,
+        "Adjacent to Sandwich HCD": 2,
+        "Designated-Prado Place Heritage Conservation District": 10,
+        "Heritage Register: Temporary": 1
+      }
+    },
+    {
+      "name": "SidewalkProject",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/6",
+      "file": "PlanningDevelopment-6.geojson",
+      "count": 567,
+      "retrieved": "2026-10-28T03:20:28.091Z",
+      "statuses": {
+        "Complete": 470,
+        "In Progress/Planned": 95,
+        "Inprogress/Planned": 2
+      }
+    },
+    {
+      "name": "RoadProject",
+      "url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/PlanningDevelopment/MapServer/5",
+      "file": "PlanningDevelopment-5.geojson",
+      "count": 833,
+      "retrieved": "2026-10-28T03:20:28.110Z",
+      "statuses": {
+        "Complete": 678,
+        "In Progress/Planned": 155
+      }
+    }
+  ],
+  "poi_comparison": {
+    "bike_parking": {
+      "city_records": 29,
+      "osm_features_in_city": 305,
+      "within_35m": 11,
+      "between_35_150m": 2,
+      "no_match_within_150m": 16
+    },
+    "ev_charging": {
+      "city_records": 80,
+      "osm_features_in_city": 2,
+      "within_35m": 0,
+      "between_35_150m": 2,
+      "no_match_within_150m": 78
+    },
+    "park_washrooms": {
+      "city_records": 42,
+      "osm_features_in_city": 16,
+      "within_35m": 9,
+      "between_35_150m": 1,
+      "no_match_within_150m": 32
+    }
+  },
+  "crossing_checks": {
+    "crossing_not_on_vehicle_way": 14,
+    "crossing_tag_conflict": 40,
+    "crossing_node_way_disagreement": 126
+  },
+  "pxo": [
+    {
+      "name": "JEFFERSON BLVD / EDGAR ST",
+      "status": "EXISTING_CROSSING_REVIEW_ATTRIBUTES",
+      "anchor": [
+        -82.96019921524393,
+        42.32363492221723
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 3,
+      "road_name_matches": 2,
+      "osm_nodes": [
+        {
+          "id": 12889525104,
+          "url": "https://www.openstreetmap.org/node/12889525104",
+          "distance_m": 7.6,
+          "tags": {
+            "crossing": "uncontrolled",
+            "crossing:island": "no",
+            "crossing:markings": "lines:paired",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        },
+        {
+          "id": 12889525105,
+          "url": "https://www.openstreetmap.org/node/12889525105",
+          "distance_m": 7.1,
+          "tags": {
+            "crossing": "uncontrolled",
+            "crossing:island": "no",
+            "crossing:markings": "lines:paired",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "LITTLE RIVER BLVD / CORA GREENWOOD DR",
+      "status": "POSSIBLE_MARKING_MISMATCH",
+      "anchor": [
+        -82.89837145758877,
+        42.32621340471612
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 4,
+      "road_name_matches": 3,
+      "osm_nodes": [
+        {
+          "id": 255783798,
+          "url": "https://www.openstreetmap.org/node/255783798",
+          "distance_m": 77.1,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "highway": "crossing",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12858167598,
+          "url": "https://www.openstreetmap.org/node/12858167598",
+          "distance_m": 9.6,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "highway": "crossing",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12858541247,
+          "url": "https://www.openstreetmap.org/node/12858541247",
+          "distance_m": 5.3,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "highway": "crossing",
+            "tactile_paving": "no"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PILLETTE RD / MILLOY ST",
+      "status": "POSSIBLE_MARKING_MISMATCH",
+      "anchor": [
+        -82.97141564378018,
+        42.312654727721245
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 8,
+      "road_name_matches": 6,
+      "osm_nodes": [
+        {
+          "id": 12967022107,
+          "url": "https://www.openstreetmap.org/node/12967022107",
+          "distance_m": 10,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12967022108,
+          "url": "https://www.openstreetmap.org/node/12967022108",
+          "distance_m": 79.3,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12967109386,
+          "url": "https://www.openstreetmap.org/node/12967109386",
+          "distance_m": 8.7,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12967109387,
+          "url": "https://www.openstreetmap.org/node/12967109387",
+          "distance_m": 8.6,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12967109394,
+          "url": "https://www.openstreetmap.org/node/12967109394",
+          "distance_m": 8.1,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12971380665,
+          "url": "https://www.openstreetmap.org/node/12971380665",
+          "distance_m": 75.9,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON BLVD / CORONATION AVE",
+      "status": "UNLOCATED",
+      "junction_gap_m": 582.1624791529808
+    },
+    {
+      "name": "WYANDOTTE ST E / MARENTETTE AVE",
+      "status": "EXISTING_CROSSING_REVIEW_ATTRIBUTES",
+      "anchor": [
+        -83.02550218445181,
+        42.318140280876
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 5,
+      "road_name_matches": 4,
+      "osm_nodes": [
+        {
+          "id": 12907905903,
+          "url": "https://www.openstreetmap.org/node/12907905903",
+          "distance_m": 7,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "uncontrolled",
+            "crossing:bicycle": "yes",
+            "crossing:island": "no",
+            "crossing:markings": "lines",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        },
+        {
+          "id": 12909893160,
+          "url": "https://www.openstreetmap.org/node/12909893160",
+          "distance_m": 7.3,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        },
+        {
+          "id": 12909893161,
+          "url": "https://www.openstreetmap.org/node/12909893161",
+          "distance_m": 8.6,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        },
+        {
+          "id": 12909893162,
+          "url": "https://www.openstreetmap.org/node/12909893162",
+          "distance_m": 10.4,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "FREEDOM WAY / PARK ST E",
+      "status": "EXISTING_CROSSING_REVIEW_ATTRIBUTES",
+      "anchor": [
+        -83.0373142582291,
+        42.316669273756084
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 12,
+      "road_name_matches": 4,
+      "osm_nodes": [
+        {
+          "id": 10011771844,
+          "url": "https://www.openstreetmap.org/node/10011771844",
+          "distance_m": 78.2,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "no",
+            "crossing:markings": "lines",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        },
+        {
+          "id": 10011780637,
+          "url": "https://www.openstreetmap.org/node/10011780637",
+          "distance_m": 8.9,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 10018873993,
+          "url": "https://www.openstreetmap.org/node/10018873993",
+          "distance_m": 72.7,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "no",
+            "crossing:markings": "lines",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        },
+        {
+          "id": 13450707439,
+          "url": "https://www.openstreetmap.org/node/13450707439",
+          "distance_m": 67,
+          "tags": {
+            "crossing": "uncontrolled",
+            "crossing:island": "no",
+            "crossing:markings": "ladder",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no",
+            "traffic_calming": "table"
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAUZON PKY / FOREST GLADE DR",
+      "status": "EXISTING_CROSSING_REVIEW_ATTRIBUTES",
+      "anchor": [
+        -82.92803876071552,
+        42.297091101293184
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 10,
+      "road_name_matches": 2,
+      "osm_nodes": [
+        {
+          "id": 5075783402,
+          "url": "https://www.openstreetmap.org/node/5075783402",
+          "distance_m": 18.6,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "no",
+            "crossing:markings": "lines",
+            "crossing:signals": "yes",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        },
+        {
+          "id": 13021417047,
+          "url": "https://www.openstreetmap.org/node/13021417047",
+          "distance_m": 17.7,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "no",
+            "crossing:markings": "lines",
+            "crossing:signals": "yes",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MATCHETT RD / TITCOMBE RD",
+      "status": "POSSIBLE_MISSING_CROSSING",
+      "anchor": [
+        -83.07424491579134,
+        42.26384663236017
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 0,
+      "road_name_matches": 0,
+      "osm_nodes": []
+    },
+    {
+      "name": "RHODES DR / ELECTRICITY DR",
+      "status": "POSSIBLE_MARKING_MISMATCH",
+      "anchor": [
+        -82.96520941570662,
+        42.282634646934575
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 1,
+      "road_name_matches": 0,
+      "osm_nodes": [
+        {
+          "id": 13087424345,
+          "url": "https://www.openstreetmap.org/node/13087424345",
+          "distance_m": 62.5,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        }
+      ]
+    },
+    {
+      "name": "RICHMOND ST / CHILVER RD",
+      "status": "POSSIBLE_MARKING_MISMATCH",
+      "anchor": [
+        -83.00985160456133,
+        42.31571868490633
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 7,
+      "road_name_matches": 5,
+      "osm_nodes": [
+        {
+          "id": 12921165594,
+          "url": "https://www.openstreetmap.org/node/12921165594",
+          "distance_m": 6.2,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12921165595,
+          "url": "https://www.openstreetmap.org/node/12921165595",
+          "distance_m": 6.6,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12921165596,
+          "url": "https://www.openstreetmap.org/node/12921165596",
+          "distance_m": 7.8,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12921165597,
+          "url": "https://www.openstreetmap.org/node/12921165597",
+          "distance_m": 11,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        },
+        {
+          "id": 12921165598,
+          "url": "https://www.openstreetmap.org/node/12921165598",
+          "distance_m": 70.9,
+          "tags": {
+            "crossing": "unmarked",
+            "crossing:island": "no",
+            "crossing:markings": "no",
+            "flashing_lights": "no",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "no"
+          }
+        }
+      ]
+    },
+    {
+      "name": "BANWELL RD / MULBERRY DR",
+      "status": "EXISTING_CROSSING_REVIEW_ATTRIBUTES",
+      "anchor": [
+        -82.89931352956395,
+        42.306080491427686
+      ],
+      "anchor_uncertainty": "municipal centreline intersection; not crossing coordinates",
+      "crossings_within_85m": 4,
+      "road_name_matches": 2,
+      "osm_nodes": [
+        {
+          "id": 12999841942,
+          "url": "https://www.openstreetmap.org/node/12999841942",
+          "distance_m": 35.7,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "yes",
+            "crossing:markings": "ladder",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        },
+        {
+          "id": 12999841943,
+          "url": "https://www.openstreetmap.org/node/12999841943",
+          "distance_m": 35.7,
+          "tags": {
+            "button_operated": "yes",
+            "crossing": "traffic_signals",
+            "crossing:island": "yes",
+            "crossing:markings": "ladder",
+            "flashing_lights": "button",
+            "highway": "crossing",
+            "kerb": "flush",
+            "tactile_paving": "yes",
+            "traffic_signals:arrow": "no",
+            "traffic_signals:countdown": "no",
+            "traffic_signals:minimap": "no",
+            "traffic_signals:sound": "no",
+            "traffic_signals:vibration": "no"
+          }
+        }
+      ]
+    }
+  ],
+  "upload_ready": 0,
+  "guards": {
+    "count": 58,
+    "years": {
+      "2022 - 2023": 57,
+      "2023-2024": 1
+    },
+    "no_crossing_node_within_40m": 1
+  },
+  "pxo_unlocated_facility_references": [
+    "Sunset Avenue at University of Windsor Conference and Accommodation Centre",
+    "Riverside Drive at Coventry Gardens"
+  ],
+  "road_speed_screen": {
+    "city_segments": 6275,
+    "same_name_nearby": 4973,
+    "tagged_speed_conflicts": 385,
+    "missing_osm_speed": 278,
+    "distinct_osm_ways": 167
+  },
+  "issue_count": 713,
+  "issue_categories": {
+    "crossing_not_on_vehicle_way": 14,
+    "crossing_tag_conflict": 40,
+    "crossing_node_way_disagreement": 126,
+    "bike_parking": 18,
+    "ev_charging": 80,
+    "park_washrooms": 33,
+    "guard_location_check": 1,
+    "official_pxo_check": 10,
+    "road_speed_disagreement": 385,
+    "city_ev_coordinate_collision": 6
+  },
+  "priority_sites": 9,
+  "qa_objects_verified_current": 255,
+  "qa_versions_changed": 0,
+  "direct_api_sites": 13,
+  "ev_coordinate_collision_groups": 6,
+  "city_closed_washroom_candidates": 4
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "file": "data/snapshot-2026-10-27/city/osm.json.gz",
+    "uncompressed_sha256": "bbc914bbbc855cfe28e4f8dd4cc9c2b9b4205e3f4b990834cd046a94f2e6f715",
+    "note": "Lossless gzip of the authoritative OSM snapshot"
+  }
+]

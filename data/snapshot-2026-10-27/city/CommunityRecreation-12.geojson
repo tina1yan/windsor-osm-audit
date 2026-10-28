@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97783079865388,
+          42.31341720035163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "name": "AKO Park",
+        "status": "Open Seasonally",
+        "address": "4270 ALICE ST",
+        "loc_detail": "Bernard & Alice, Splash pad",
+        "open_hour": "10 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105138000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99237188378487,
+          42.327287739633114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "name": "Alexander Park",
+        "status": "Open Seasonally",
+        "address": "3700 RIVERSIDE DR E",
+        "loc_detail": "East of Parking Lot, Playground",
+        "open_hour": "9-10 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06655223055527,
+          42.31201117162514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "name": "Assumption Park",
+        "status": "Open Year Round",
+        "address": "2400 RIVERSIDE DR W",
+        "loc_detail": "Askin @ Riverside Dr West (just east of the parking lot)",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07168978794064,
+          42.30895369554083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "name": "Ambassador Park",
+        "status": "Open Seasonally",
+        "address": "2400 RIVERSIDE DR W",
+        "loc_detail": "Huron Church @ Riverside Dr West (under Ambassador Bridge)",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97408198558689,
+          42.25407970694225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "name": "Captain Wilson Park",
+        "status": "Open Seasonally",
+        "address": "3950 DUCHARME ST",
+        "loc_detail": "Splash Pad, pavilion",
+        "open_hour": "9 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06261253804858,
+          42.31392974901938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "name": "Centennial Park",
+        "status": "Closed",
+        "address": "1530 RIVERSIDE DR W",
+        "loc_detail": "Bridge Ave. at Riverside Dr. W. (across from Atkinson Pool)",
+        "open_hour": "Closed until further notice (J. Coatsworth Apr 30/15-ch)",
+        "open_season": "Closed until further notice (J. Coatsworth Apr 30/15-ch)",
+        "created_date": null,
+        "last_edited_date": 1724172233000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01518851870637,
+          42.26435574507962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "name": "Central Park",
+        "status": "Open Seasonally",
+        "address": "3501 WOODLAND AVE",
+        "loc_detail": "Central Pool building on Woodland",
+        "open_hour": "9 am to 9 pm",
+        "open_season": "May to Labour Day (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04096344864719,
+          42.31972406791776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "name": "Dieppe Park (BISTRO)",
+        "status": "Open Year Round",
+        "address": "78 RIVERSIDE DR W",
+        "loc_detail": "Ouellette Ave @ Riverside Dr West (The Bistro at the River)",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03570608576929,
+          42.321274179699095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "name": "Festival Plaza/Civic Terrace",
+        "status": "Open Year Round",
+        "address": "200 RIVERSIDE DR E",
+        "loc_detail": "North of the Festival Plaza Stage",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724172233000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98719861282348,
+          42.30965742111168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "name": "Ford Test Track",
+        "status": "Open Seasonally",
+        "address": "3001 SEMINOLE ST",
+        "loc_detail": "South End",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Labour Day (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105654000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91741372907201,
+          42.30351285885317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "name": "Forest Glade Park",
+        "status": "Open Seasonally",
+        "address": "3265 FOREST GLADE DR",
+        "loc_detail": "Near Tom Wilson Field",
+        "open_hour": "Baseball Games only",
+        "open_season": "May to Labour Day (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105654000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95321318735135,
+          42.29529003986719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "name": "Fountainebleau (Rivard Library)",
+        "status": "Open Seasonally",
+        "address": "3030 RIVARD AVE",
+        "loc_detail": "Rivard near playground",
+        "open_hour": "10 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105654000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99889259835243,
+          42.31575531967684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "name": "Garry Dugal Park",
+        "status": "Open Seasonally",
+        "address": "1247 DROUILLARD RD",
+        "loc_detail": "Between Drouillard & St. Luke off the alley @ Albert Rd. (Splash Pad)",
+        "open_hour": "Open by 10 am",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02074863783488,
+          42.324918350261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "name": "Great Western Park - Hatch Gardens",
+        "status": "Closed",
+        "address": "340 RIVERSIDE DR E",
+        "loc_detail": "Moy at Riverside Dr.",
+        "open_hour": "Vandalism and safety issues - CLOSED indefinitely",
+        "open_season": "Vandalism and safety issues - CLOSED indefinitely",
+        "created_date": null,
+        "last_edited_date": 1724172233000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02389814002693,
+          42.29219348583554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "name": "Jackson Park",
+        "status": "Open Seasonally",
+        "address": "98969 DOUGALL AVE",
+        "loc_detail": "West of Ouellette – picnic area, near playground & Splash Pad",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93118808842841,
+          42.33937613448408
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "name": "Lakeview Marina",
+        "status": "Open Seasonally",
+        "address": "9200 RIVERSIDE DR E",
+        "loc_detail": "Riverdale at Riverside Dr. E (building west of lighthouse)",
+        "open_hour": "7am to 7pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724172928000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01604131568293,
+          42.30973064164272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "name": "Lanspeary Park",
+        "status": "Open Seasonally",
+        "address": "1250 LANGLOIS AVE",
+        "loc_detail": "1250 Langlois Ave",
+        "open_hour": "Only open during special events or Lanspeary Lions Rink rentals",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724104588000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06129543614165,
+          42.277391263133076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "name": "Malden Park",
+        "status": "Open Year Round",
+        "address": "4200 MALDEN RD",
+        "loc_detail": "Off of Malden Road Entrance",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724107493000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92205864700875,
+          42.31888333179807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "name": "McHugh Park",
+        "status": "Open Seasonally",
+        "address": "9655 MCHUGH ST",
+        "loc_detail": "Off McHugh St (east of WFCU arena)",
+        "open_hour": "Open for soccer league games only",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07148229673132,
+          42.28750356926538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "name": "Mic Mac Park",
+        "status": "Open Seasonally",
+        "address": "3940 CARMICHAEL RD",
+        "loc_detail": "Prince Rd (by concession)",
+        "open_hour": "8 am to 11 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07747248092495,
+          42.3028392490632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "name": "Mill Street Park",
+        "status": "Closed",
+        "address": "3176 RUSSELL ST",
+        "loc_detail": "Corner of Mill & Russell St. (Windmill)",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724173168000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9275516562304,
+          42.342720066571175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "name": "Peche Island",
+        "status": "Open Seasonally",
+        "address": "9640 RIVERSIDE DR",
+        "loc_detail": "Peche Island",
+        "open_hour": "24 hours per day (cleaned 3x per week)",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724172233000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95342448333211,
+          42.32219584140631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "name": "Realtor Park",
+        "status": "Open Seasonally",
+        "address": "1198 HOMEDALE BLVD",
+        "loc_detail": "By tennis courts off of Homedale",
+        "open_hour": "10am to 9pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724104588000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98130286448391,
+          42.328541874396514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "name": "Reaume - Coventry Gardens",
+        "status": "Open Seasonally",
+        "address": "4714 RIVERSIDE DR E",
+        "loc_detail": "Pillette at Riverside Dr. E.",
+        "open_hour": "8am to 9pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724172928000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91885679614684,
+          42.33827034680995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "name": "Sandpoint Beach",
+        "status": "Open Seasonally",
+        "address": "10554 RIVERSIDE DR E",
+        "loc_detail": "Florence @ Riverside Dr East",
+        "open_hour": "10 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01010277950125,
+          42.24541604054826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "name": "Veteran's Memorial Park",
+        "status": "Open Seasonally",
+        "address": "1120 COUSINEAU RD",
+        "loc_detail": "Mitchell, Longfellow, Cousineau",
+        "open_hour": "Open for league games only (Windsor South Canadians League)",
+        "open_season": "Baseball games/events only",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98410010411857,
+          42.279457192229835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "name": "Walker Homesite Park",
+        "status": "Open Seasonally",
+        "address": "1900 SEYMOUR BLVD",
+        "loc_detail": "Seymour & Woodward",
+        "open_hour": "Open for league or club games only (Walker Homesites Athletic Club)",
+        "open_season": "Baseball games/events only",
+        "created_date": null,
+        "last_edited_date": 1724107493000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02907778966106,
+          42.31048985012606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "name": "Wigle Park",
+        "status": "Open Seasonally",
+        "address": "397 ERIE ST E",
+        "loc_detail": "Erie St East @ McDougall",
+        "open_hour": "10 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03630385415866,
+          42.31882590504927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "name": "Charles Clark Square",
+        "status": "Open Year Round",
+        "address": "215 CHATHAM ST E",
+        "loc_detail": "215 Chatham St. E (b/w Goyeau and McDougall)",
+        "open_hour": "9am to 9pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724172928000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.031211983475,
+          42.32204038562943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "name": "Aylmer Rest Station",
+        "status": "Open Seasonally",
+        "address": "200 RIVERSIDE DR E",
+        "loc_detail": "Aylmer @ Riverside Dr - Pirate Ship themed playground",
+        "open_hour": "9 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105166000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0481857242677,
+          42.31837303343566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "name": "Legacy Park Boundless Playground",
+        "status": "Open Year Round",
+        "address": "620 RIVERSIDE DR W",
+        "loc_detail": "Caron Avenue Pumping Station, Legacy Park Boundless Playground",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00252726736397,
+          42.292230850506584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "name": "Optimist Memorial Park",
+        "status": "Closed",
+        "address": "1075 YPRES AVE",
+        "loc_detail": "Building to be replaced in the future",
+        "open_hour": "Closed permanently due to vandalism issues",
+        "open_season": "Closed permanently due to vandalism issues",
+        "created_date": null,
+        "last_edited_date": 1724172233000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98748227925725,
+          42.31201093036603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "name": "Ford Test Track",
+        "status": "Open Seasonally",
+        "address": "3001 SEMINOLE ST",
+        "loc_detail": "North End (closest to Seminole)",
+        "open_hour": "Open for soccer league games only",
+        "open_season": "May to Labour Day (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105654000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02230375485995,
+          42.2960855820702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "name": "Jackson Park",
+        "status": "Open Seasonally",
+        "address": "125 TECUMSEH RD E",
+        "loc_detail": "North Entrance - off Tecumseh Rd. (near sunken gardens)",
+        "open_hour": "8 am to 10 pm",
+        "open_season": "Open Daily - YEAR ROUND (heated)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92882560493146,
+          42.339294663844406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "name": "Lakeview Marina",
+        "status": "Open Seasonally",
+        "address": "9550 RIVERSIDE DR E",
+        "loc_detail": "Flora at Riverside Dr. E (West of Lilly Kazilly's)",
+        "open_hour": "7am to 7pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724172928000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.074679368909,
+          42.28435992556594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "name": "Mic Mac Park",
+        "status": "Open Seasonally",
+        "address": "3940 CARMICHAEL RD",
+        "loc_detail": "Kimmy Lucier",
+        "open_hour": "8 am to 11 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724105963000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07040342934985,
+          42.28291290899322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "name": "Mic Mac Park",
+        "status": "Open Seasonally",
+        "address": "3940 CARMICHAEL RD",
+        "loc_detail": "Kimmy Lucier",
+        "open_hour": "8 am to 11 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": null,
+        "last_edited_date": 1724111264000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01860966511491,
+          42.293415089620744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "name": "Jackson Park",
+        "status": "Open Seasonally",
+        "address": "245 TECUMSEH RD E",
+        "loc_detail": "Baseball Diamond – by Fieldhouse",
+        "open_hour": "Open for ball games only",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": 1724111264000,
+        "last_edited_date": 1724111264000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06974014722643,
+          42.27746973618877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "name": "Malden Yard",
+        "status": "Open Seasonally",
+        "address": "4200 MALDEN RD",
+        "loc_detail": "Off Matchette Rd (Attached to West Division Yard Building)",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": 1724111264000,
+        "last_edited_date": 1724111264000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95580543655059,
+          42.32963860165511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "name": "Riverside-Miracle Park",
+        "status": "Open Seasonally",
+        "address": "6755 WYANDOTTE ST E",
+        "loc_detail": "Attached to pool building",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": 1724111264000,
+        "last_edited_date": 1724111264000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01051169042404,
+          42.31723482362121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "name": "Willistead Park",
+        "status": "Open Seasonally",
+        "address": "1889 NIAGARA ST",
+        "loc_detail": "West side of park, attached to Horticulture service shed",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Thanksgiving (weather permitting)",
+        "created_date": 1724111264000,
+        "last_edited_date": 1724111264000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91633328128145,
+          42.30313702936142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "name": "Forest Glade Park",
+        "status": "Open Seasonally",
+        "address": "3265 FOREST GLADE DR",
+        "loc_detail": "Near Splashpad",
+        "open_hour": "8 am to 9 pm",
+        "open_season": "May to Labour Day (weather permitting)",
+        "created_date": 1724111264000,
+        "last_edited_date": 1724111264000
+      }
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "type": "FeatureCollection",
+  "name": "Windsor 9 priority sites - review only",
+  "attribution": "© OpenStreetMap contributors (ODbL). Contains information licensed under the Open Government Licence – The Corporation of the City of Windsor.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "W00321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00985160456133,
+          42.31571868490633
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "POSSIBLE_MARKING_MISMATCH",
+        "upload_ready": false,
+        "name": "RICHMOND ST / CHILVER RD",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[{\"id\":12921165594,\"url\":\"https://www.openstreetmap.org/node/12921165594\",\"distance_m\":6.2,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12921165595,\"url\":\"https://www.openstreetmap.org/node/12921165595\",\"distance_m\":6.6,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12921165596,\"url\":\"https://www.openstreetmap.org/node/12921165596\",\"distance_m\":7.8,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12921165597,\"url\":\"https://www.openstreetmap.org/node/12921165597\",\"distance_m\":11,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12921165598,\"url\":\"https://www.openstreetmap.org/node/12921165598\",\"distance_m\":70.9,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}}]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.01125160456134,42.31461868490633,-83.00845160456133,42.31681868490633",
+        "current_api_verified_at": "2026-10-28T03:31:41.182Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\",\"https://www.citywindsor.ca/images/residents/traffic-and-parking/transportation-planning/Richmond%20%26%20Chilver%20photo%204.jpg\",\"https://www.openstreetmap.org/way/1395959062\"]",
+        "proposed_review_action": "Identify the photographed arm and split the crossing ring if needed; update only confirmed segment/node. Photo date unknown; geometry source permission unresolved.",
+        "case_note": "The official photograph shows a marked crossing, while four nearby OSM nodes are tagged unmarked/no. Way 1395959062 forms a closed loop around multiple road arms. Identify the photographed arm and split the way if appropriate; do not retag the entire loop. The photograph date is unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89931352956395,
+          42.306080491427686
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "NEARBY_CROSSING_NOT_CONFIRMED_SAME_PXO",
+        "upload_ready": false,
+        "name": "BANWELL RD / MULBERRY DR",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[{\"id\":12999841942,\"url\":\"https://www.openstreetmap.org/node/12999841942\",\"distance_m\":35.7,\"tags\":{\"button_operated\":\"yes\",\"crossing\":\"traffic_signals\",\"crossing:island\":\"yes\",\"crossing:markings\":\"ladder\",\"flashing_lights\":\"button\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"yes\",\"traffic_signals:arrow\":\"no\",\"traffic_signals:countdown\":\"no\",\"traffic_signals:minimap\":\"no\",\"traffic_signals:sound\":\"no\",\"traffic_signals:vibration\":\"no\"}},{\"id\":12999841943,\"url\":\"https://www.openstreetmap.org/node/12999841943\",\"distance_m\":35.7,\"tags\":{\"button_operated\":\"yes\",\"crossing\":\"traffic_signals\",\"crossing:island\":\"yes\",\"crossing:markings\":\"ladder\",\"flashing_lights\":\"button\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"yes\",\"traffic_signals:arrow\":\"no\",\"traffic_signals:countdown\":\"no\",\"traffic_signals:minimap\":\"no\",\"traffic_signals:sound\":\"no\",\"traffic_signals:vibration\":\"no\"}}]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.90071352956396,42.304980491427685,-82.89791352956395,42.30718049142769",
+        "current_api_verified_at": "2026-10-28T03:31:41.433Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\",\"https://www.citywindsor.ca/images/residents/traffic-and-parking/transportation-planning/Above%20location%20-%20Pedestrian%20Crossover%20at%20Banwell%20Road%20and%20Mulberry%20Drive%20Roundabout%20in%20Windsor,%20Ontario..jpg\",\"https://wiki.openstreetmap.org/wiki/Key:flashing_lights\",\"https://www.openstreetmap.org/node/12999841942\"]",
+        "proposed_review_action": "Recheck each approach; if there are warning flashers only, review crossing=traffic_signals and associated traffic_signals attributes. No automatic mass rewrite.",
+        "case_note": "The official photograph shows a pedestrian crossover with amber warning flashers; nearby OSM data uses crossing=traffic_signals. Verify whether there are actual pedestrian red/green signals. A push button or amber flasher alone does not establish a signal-controlled crossing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96520941570662,
+          42.282634646934575
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "POSSIBLE_MARKING_MISMATCH",
+        "upload_ready": false,
+        "name": "RHODES DR / ELECTRICITY DR",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[{\"id\":13087424345,\"url\":\"https://www.openstreetmap.org/node/13087424345\",\"distance_m\":62.5,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}}]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.96660941570663,42.281534646934574,-82.96380941570662,42.283734646934576",
+        "current_api_verified_at": "2026-10-28T03:31:40.932Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\",\"https://www.citywindsor.ca/images/residents/traffic-and-parking/traffic-management/IMG_6483.jpg\"]",
+        "proposed_review_action": "Confirm exact centreline crossing and shared node; do not create a disconnected point at the review anchor.",
+        "case_note": "An official site photograph shows a marked pedestrian crossover. Screening found only an unmarked crossing node about 62 metres away, outside the target road. Verify the exact crossing position and whether an existing footway already represents it without crossing tags."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07424491579134,
+          42.26384663236017
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "POSSIBLE_MISSING_CROSSING",
+        "upload_ready": false,
+        "name": "MATCHETT RD / TITCOMBE RD",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.07564491579134,42.26274663236017,-83.07284491579134,42.26494663236017",
+        "current_api_verified_at": "2026-10-28T03:31:40.720Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\"]",
+        "proposed_review_action": "Survey/approved imagery before adding crossing geometry.",
+        "case_note": "The City lists a pedestrian crossover here. No highway=crossing node was found within 85 metres of the review anchor, and a local main-API map was retrieved. Footways, exact location and current construction status still need review."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89837145758877,
+          42.32621340471612
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "POSSIBLE_MARKING_MISMATCH",
+        "upload_ready": false,
+        "name": "LITTLE RIVER BLVD / CORA GREENWOOD DR",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[{\"id\":255783798,\"url\":\"https://www.openstreetmap.org/node/255783798\",\"distance_m\":77.1,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"highway\":\"crossing\",\"tactile_paving\":\"no\"}},{\"id\":12858167598,\"url\":\"https://www.openstreetmap.org/node/12858167598\",\"distance_m\":9.6,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"highway\":\"crossing\",\"tactile_paving\":\"no\"}},{\"id\":12858541247,\"url\":\"https://www.openstreetmap.org/node/12858541247\",\"distance_m\":5.3,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"highway\":\"crossing\",\"tactile_paving\":\"no\"}}]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.89977145758877,42.32511340471612,-82.89697145758876,42.32731340471612",
+        "current_api_verified_at": "2026-10-28T03:31:39.658Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\"]",
+        "proposed_review_action": "Verify exact arm and current markings before editing existing nodes/ways.",
+        "case_note": "The City lists a pedestrian crossover, while nearby OSM crossing nodes are tagged unmarked. Verify the same road arm and the installation date before proposing a tag change."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97141564378018,
+          42.312654727721245
+        ]
+      },
+      "properties": {
+        "category": "official_pxo_check",
+        "status": "POSSIBLE_MARKING_MISMATCH",
+        "upload_ready": false,
+        "name": "PILLETTE RD / MILLOY ST",
+        "anchor_only": true,
+        "not_an_upload_coordinate": true,
+        "nearby_osm_nodes": "[{\"id\":12967022107,\"url\":\"https://www.openstreetmap.org/node/12967022107\",\"distance_m\":10,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12967022108,\"url\":\"https://www.openstreetmap.org/node/12967022108\",\"distance_m\":79.3,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12967109386,\"url\":\"https://www.openstreetmap.org/node/12967109386\",\"distance_m\":8.7,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12967109387,\"url\":\"https://www.openstreetmap.org/node/12967109387\",\"distance_m\":8.6,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12967109394,\"url\":\"https://www.openstreetmap.org/node/12967109394\",\"distance_m\":8.1,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"no\"}},{\"id\":12971380665,\"url\":\"https://www.openstreetmap.org/node/12971380665\",\"distance_m\":75.9,\"tags\":{\"crossing\":\"unmarked\",\"crossing:island\":\"no\",\"crossing:markings\":\"no\",\"flashing_lights\":\"no\",\"highway\":\"crossing\",\"kerb\":\"flush\",\"tactile_paving\":\"yes\"}}]",
+        "reason": "City PXO web listing vs nearby OSM. Same physical road arm and exact geometry must be confirmed; a nearby crossing does not prove this PXO matches.",
+        "source_url": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+        "license_gate": "UNRESOLVED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "current_api_url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.97281564378018,42.311554727721244,-82.97001564378017,42.313754727721246",
+        "current_api_verified_at": "2026-10-28T03:31:39.886Z",
+        "source_independence": "City listing and city GIS share one publisher; OSM is a separate data source. No independent ground survey.",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers\"]",
+        "proposed_review_action": "Verify each road arm; preserve existing topology and unrelated crossings.",
+        "case_note": "The City lists a pedestrian crossover, while nearby nodes are tagged unmarked. This is an attribute-review candidate: verify each road arm individually rather than marking the whole intersection."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04457050023503,
+          42.31724399961031
+        ]
+      },
+      "properties": {
+        "category": "ev_charging",
+        "status": "NO_NEARBY_OSM_MATCH",
+        "upload_ready": false,
+        "city_objectid": 10,
+        "city_name": "City of Windsor Aquatic Centre",
+        "city_attributes": "{\"OBJECTID\":10,\"gisid\":null,\"num_charger\":1,\"num_port\":2,\"charger_level\":\"Level 2\",\"addr_num\":401,\"street\":\"PITT\",\"suffix\":\"ST\",\"direction\":\"W\",\"ward\":\"WARD 3\",\"company\":\"City of Windsor\",\"provider\":\"Charge Point\",\"location\":\"City of Windsor Aquatic Centre\",\"note\":null,\"created_date\":null,\"last_edited_date\":null}",
+        "nearest_osm_url": "https://www.openstreetmap.org/node/10138368037",
+        "nearest_distance_m": 1466.4,
+        "source_file": "Transportation-11.geojson",
+        "reason": "No same-type OSM node/way within 150 m; this is a candidate gap, not confirmed absence. Building tags, relations and facility-scale geometry need review.",
+        "license_gate": "UNRESOLVED",
+        "field_verification": "NOT_COMPLETED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "source_url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+        "proposed_tag_template": "{\"amenity\":\"charging_station\"}",
+        "proposed_tag_template_is_not_approval": true,
+        "exclude_until_verified": "exact position; station grouping; present access; ports; network; fees",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/on-off-street-parking/electric-vehicle-charging-stations\",\"https://citywindsor.ca/residents/recreation/aquatics/windsor-international-aquatic-and-training-centre/Parking\",\"https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11\",\"https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.04597050023503,42.31614399961031,-83.04317050023502,42.31834399961031\"]",
+        "proposed_review_action": "Candidate addition: amenity=charging_station. Do not infer fees, public access, connector types or capacity without location-specific current evidence.",
+        "current_api_verified_at": "2026-10-28T03:31:42.070Z",
+        "source_independence": "Two City publications corroborate existence; they are one publisher, plus OSM absence check, not two independent field observations.",
+        "case_note": "Municipal GIS and the current City facility page both list charging facilities. The local OSM main-API map, including nodes, ways and relations, did not contain amenity=charging_station at the site. This is a candidate for a small pilot, subject to exact coordinates, station grouping, current conditions and source-licence review. The two City publications are one publisher, not independent field observations."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0387024995658,
+          42.315732000344894
+        ]
+      },
+      "properties": {
+        "category": "ev_charging",
+        "status": "NO_NEARBY_OSM_MATCH",
+        "upload_ready": false,
+        "city_objectid": 8,
+        "city_name": "City of Windsor Garage 2",
+        "city_attributes": "{\"OBJECTID\":8,\"gisid\":null,\"num_charger\":1,\"num_port\":2,\"charger_level\":\"Level 2 \",\"addr_num\":406,\"street\":\"PELISSIER\",\"suffix\":\"ST\",\"direction\":null,\"ward\":\"WARD 3\",\"company\":\"City of Windsor\",\"provider\":\"Charge Point\",\"location\":\"City of Windsor Garage 2\",\"note\":null,\"created_date\":null,\"last_edited_date\":null}",
+        "nearest_osm_url": "https://www.openstreetmap.org/node/13141991191",
+        "nearest_distance_m": 1514.2,
+        "source_file": "Transportation-11.geojson",
+        "reason": "No same-type OSM node/way within 150 m; this is a candidate gap, not confirmed absence. Building tags, relations and facility-scale geometry need review.",
+        "license_gate": "UNRESOLVED",
+        "field_verification": "NOT_COMPLETED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "source_url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+        "proposed_tag_template": "{\"amenity\":\"charging_station\"}",
+        "proposed_tag_template_is_not_approval": true,
+        "exclude_until_verified": "exact position; station grouping; present access; ports; network; fees",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/on-off-street-parking/electric-vehicle-charging-stations\",\"https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11\",\"https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.0401024995658,42.31463200034489,-83.0373024995658,42.316832000344895\"]",
+        "proposed_review_action": "Candidate addition: amenity=charging_station. Do not infer fees, public access, connector types or capacity without location-specific current evidence.",
+        "current_api_verified_at": "2026-10-28T03:31:41.795Z",
+        "source_independence": "Two City publications corroborate existence; they are one publisher, plus OSM absence check, not two independent field observations.",
+        "case_note": "Municipal GIS and the current City facility page both list charging facilities. The local OSM main-API map, including nodes, ways and relations, did not contain amenity=charging_station at the site. This is a candidate for a small pilot, subject to exact coordinates, station grouping, current conditions and source-licence review. The two City publications are one publisher, not independent field observations."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W00199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03467499982101,
+          42.2564850002267
+        ]
+      },
+      "properties": {
+        "category": "ev_charging",
+        "status": "NO_NEARBY_OSM_MATCH",
+        "upload_ready": false,
+        "city_objectid": 1,
+        "city_name": "Carpri Pizzeria Community Centre",
+        "city_attributes": "{\"OBJECTID\":1,\"gisid\":null,\"num_charger\":1,\"num_port\":2,\"charger_level\":\"Level 2\",\"addr_num\":2555,\"street\":\"PULFORD\",\"suffix\":\"ST\",\"direction\":null,\"ward\":\"WARD 1\",\"company\":\"City of Windsor\",\"provider\":\"Charge Point\",\"location\":\"Carpri Pizzeria Community Centre\",\"note\":null,\"created_date\":null,\"last_edited_date\":null}",
+        "nearest_osm_url": "https://www.openstreetmap.org/node/11950989822",
+        "nearest_distance_m": 5703.8,
+        "source_file": "Transportation-11.geojson",
+        "reason": "No same-type OSM node/way within 150 m; this is a candidate gap, not confirmed absence. Building tags, relations and facility-scale geometry need review.",
+        "license_gate": "UNRESOLVED",
+        "field_verification": "NOT_COMPLETED",
+        "review_only": true,
+        "retrieved_local_date": "2026-10-27",
+        "source_url": "https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11",
+        "proposed_tag_template": "{\"amenity\":\"charging_station\"}",
+        "proposed_tag_template_is_not_approval": true,
+        "exclude_until_verified": "exact position; station grouping; present access; ports; network; fees",
+        "priority": "HIGH",
+        "evidence_urls": "[\"https://www.citywindsor.ca/residents/traffic-and-parking/on-off-street-parking/electric-vehicle-charging-stations\",\"https://mappmycity.ca/arcgis/rest/services/OpenDataServices/Transportation/MapServer/11\",\"https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.03607499982101,42.255385000226696,-83.033274999821,42.2575850002267\"]",
+        "proposed_review_action": "Candidate addition: amenity=charging_station. Do not infer fees, public access, connector types or capacity without location-specific current evidence.",
+        "current_api_verified_at": "2026-10-28T03:31:41.583Z",
+        "source_independence": "Two City publications corroborate existence; they are one publisher, plus OSM absence check, not two independent field observations.",
+        "case_note": "Municipal GIS and the current City facility page both list charging facilities. The local OSM main-API map, including nodes, ways and relations, did not contain amenity=charging_station at the site. This is a candidate for a small pilot, subject to exact coordinates, station grouping, current conditions and source-licence review. The two City publications are one publisher, not independent field observations."
+      }
+    }
+  ]
+}

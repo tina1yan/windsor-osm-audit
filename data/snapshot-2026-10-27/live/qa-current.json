@@ -1,0 +1,5712 @@
+{
+  "retrieved": "2026-10-28T03:33:35.675Z",
+  "elements": [
+    {
+      "type": "node",
+      "id": 256991730,
+      "lat": 42.317388,
+      "lon": -83.0365678,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 5,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701630461,
+      "lat": 42.293302,
+      "lon": -82.9408137,
+      "timestamp": "2025-08-06T17:01:26Z",
+      "version": 2,
+      "changeset": 170069382,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701630467,
+      "lat": 42.2936557,
+      "lon": -82.9410477,
+      "timestamp": "2025-08-06T17:01:26Z",
+      "version": 2,
+      "changeset": 170069382,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7335446467,
+      "lat": 42.2662158,
+      "lon": -83.0462231,
+      "timestamp": "2025-05-22T18:49:31Z",
+      "version": 2,
+      "changeset": 166626198,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "highway": "crossing",
+        "tactile_paving": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7335447254,
+      "lat": 42.2670022,
+      "lon": -83.0402497,
+      "timestamp": "2025-10-20T13:05:03Z",
+      "version": 2,
+      "changeset": 173536039,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder:skewed",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314636,
+      "lat": 42.3042869,
+      "lon": -83.0657909,
+      "timestamp": "2026-06-26T16:24:19Z",
+      "version": 3,
+      "changeset": 184654376,
+      "user": "CDNvKING",
+      "uid": 22340093,
+      "tags": {
+        "crossing:signals": "yes",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314638,
+      "lat": 42.3040018,
+      "lon": -83.0667052,
+      "timestamp": "2026-04-07T16:50:05Z",
+      "version": 5,
+      "changeset": 181010463,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314641,
+      "lat": 42.3038702,
+      "lon": -83.0671267,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314642,
+      "lat": 42.3037212,
+      "lon": -83.0676055,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314814,
+      "lat": 42.3055115,
+      "lon": -83.0687538,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 2,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314821,
+      "lat": 42.3068165,
+      "lon": -83.069163,
+      "timestamp": "2026-04-08T20:27:43Z",
+      "version": 3,
+      "changeset": 181068635,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314836,
+      "lat": 42.3055467,
+      "lon": -83.069488,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7337314837,
+      "lat": 42.3055019,
+      "lon": -83.0694595,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7341214408,
+      "lat": 42.301622,
+      "lon": -83.0625294,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 4,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7341214417,
+      "lat": 42.3012653,
+      "lon": -83.0625478,
+      "timestamp": "2026-01-07T14:13:08Z",
+      "version": 2,
+      "changeset": 176946801,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7341214459,
+      "lat": 42.3037207,
+      "lon": -83.0627785,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7341214587,
+      "lat": 42.3034211,
+      "lon": -83.0636942,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7341401759,
+      "lat": 42.3039988,
+      "lon": -83.0662384,
+      "timestamp": "2026-01-09T20:25:35Z",
+      "version": 4,
+      "changeset": 177040481,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7344507620,
+      "lat": 42.3050638,
+      "lon": -83.0691811,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7344507621,
+      "lat": 42.3052145,
+      "lon": -83.0692767,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 3,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7344965757,
+      "lat": 42.3041559,
+      "lon": -83.0641513,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7344965774,
+      "lat": 42.3030875,
+      "lon": -83.0649246,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7349773909,
+      "lat": 42.3001882,
+      "lon": -83.0613183,
+      "timestamp": "2025-11-28T18:52:40Z",
+      "version": 4,
+      "changeset": 175250952,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7349773938,
+      "lat": 42.3002984,
+      "lon": -83.06109,
+      "timestamp": "2025-11-28T18:52:40Z",
+      "version": 3,
+      "changeset": 175250952,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7349773943,
+      "lat": 42.3019364,
+      "lon": -83.0616364,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9842307714,
+      "lat": 42.3039856,
+      "lon": -83.0662797,
+      "timestamp": "2026-01-09T20:25:35Z",
+      "version": 3,
+      "changeset": 177040481,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9842307920,
+      "lat": 42.3040072,
+      "lon": -83.0654953,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9957631686,
+      "lat": 42.3170762,
+      "lon": -83.0359454,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 2,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9988659148,
+      "lat": 42.3043439,
+      "lon": -83.0651285,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018678387,
+      "lat": 42.3165629,
+      "lon": -83.033022,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018873988,
+      "lat": 42.3165423,
+      "lon": -83.0354312,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 3,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018918762,
+      "lat": 42.3183485,
+      "lon": -83.0347475,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 2,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018918982,
+      "lat": 42.3192261,
+      "lon": -83.0225226,
+      "timestamp": "2025-06-11T17:42:04Z",
+      "version": 4,
+      "changeset": 167502413,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10028443578,
+      "lat": 42.3166472,
+      "lon": -83.0347814,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 3,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10101282976,
+      "lat": 42.3158696,
+      "lon": -83.034222,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 3,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166792,
+      "lat": 42.3155792,
+      "lon": -83.0341782,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 2,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166795,
+      "lat": 42.3156366,
+      "lon": -83.034074,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 3,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166805,
+      "lat": 42.3164065,
+      "lon": -83.0347106,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 2,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166817,
+      "lat": 42.3159891,
+      "lon": -83.0329625,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 2,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166818,
+      "lat": 42.3159553,
+      "lon": -83.0329415,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 2,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166825,
+      "lat": 42.3168228,
+      "lon": -83.0334266,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 2,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166826,
+      "lat": 42.3167914,
+      "lon": -83.0334088,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 2,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166837,
+      "lat": 42.3168371,
+      "lon": -83.0343089,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 2,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625167153,
+      "lat": 42.3154411,
+      "lon": -83.0339499,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 3,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11145698830,
+      "lat": 42.2574893,
+      "lon": -83.0384109,
+      "timestamp": "2025-10-14T19:55:32Z",
+      "version": 2,
+      "changeset": 173292079,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12201211107,
+      "lat": 42.3028902,
+      "lon": -83.0622475,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 2,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12858891076,
+      "lat": 42.3169312,
+      "lon": -82.9002569,
+      "timestamp": "2025-05-26T13:10:34Z",
+      "version": 2,
+      "changeset": 166778780,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871328373,
+      "lat": 42.3308595,
+      "lon": -82.9373127,
+      "timestamp": "2025-05-28T15:36:26Z",
+      "version": 1,
+      "changeset": 166881841,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871328374,
+      "lat": 42.3309441,
+      "lon": -82.9373592,
+      "timestamp": "2025-05-28T15:36:26Z",
+      "version": 1,
+      "changeset": 166881841,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871554869,
+      "lat": 42.339109,
+      "lon": -82.9437343,
+      "timestamp": "2025-05-28T17:40:14Z",
+      "version": 1,
+      "changeset": 166886858,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871555030,
+      "lat": 42.3378055,
+      "lon": -82.9466003,
+      "timestamp": "2025-05-28T17:40:14Z",
+      "version": 1,
+      "changeset": 166886858,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871732792,
+      "lat": 42.3389486,
+      "lon": -82.9285546,
+      "timestamp": "2025-05-28T19:15:20Z",
+      "version": 1,
+      "changeset": 166890258,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "button",
+        "highway": "crossing",
+        "tactile_paving": "no",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974106,
+      "lat": 42.3013703,
+      "lon": -83.0610974,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974107,
+      "lat": 42.3019886,
+      "lon": -83.0614945,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974127,
+      "lat": 42.3019145,
+      "lon": -83.0615189,
+      "timestamp": "2026-03-25T19:49:42Z",
+      "version": 4,
+      "changeset": 180425063,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974128,
+      "lat": 42.3020151,
+      "lon": -83.0615837,
+      "timestamp": "2026-03-25T19:49:42Z",
+      "version": 4,
+      "changeset": 180425063,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974129,
+      "lat": 42.3018705,
+      "lon": -83.062001,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974131,
+      "lat": 42.301014,
+      "lon": -83.0630431,
+      "timestamp": "2026-01-07T14:13:08Z",
+      "version": 3,
+      "changeset": 176946801,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12873974160,
+      "lat": 42.2993734,
+      "lon": -83.0635186,
+      "timestamp": "2025-12-01T18:14:20Z",
+      "version": 2,
+      "changeset": 175370803,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12906269077,
+      "lat": 42.3223873,
+      "lon": -83.0140292,
+      "timestamp": "2025-06-11T15:01:01Z",
+      "version": 1,
+      "changeset": 167496191,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "flashing_lights": "button",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12907905903,
+      "lat": 42.3181792,
+      "lon": -83.0254349,
+      "timestamp": "2025-12-16T21:18:58Z",
+      "version": 4,
+      "changeset": 176024107,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "uncontrolled",
+        "crossing:bicycle": "yes",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12974701555,
+      "lat": 42.3137841,
+      "lon": -82.9599846,
+      "timestamp": "2025-07-03T20:05:17Z",
+      "version": 1,
+      "changeset": 168459492,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12988278336,
+      "lat": 42.3142711,
+      "lon": -82.9423162,
+      "timestamp": "2025-07-08T19:08:19Z",
+      "version": 1,
+      "changeset": 168664368,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13037961333,
+      "lat": 42.2978707,
+      "lon": -82.9526643,
+      "timestamp": "2026-10-28T00:46:40Z",
+      "version": 2,
+      "changeset": 191126315,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "yes",
+        "cycleway": "crossing",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13037961334,
+      "lat": 42.2979486,
+      "lon": -82.9527648,
+      "timestamp": "2026-10-28T00:47:38Z",
+      "version": 2,
+      "changeset": 191126325,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "yes",
+        "cycleway": "crossing",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13040013139,
+      "lat": 42.2976122,
+      "lon": -82.961852,
+      "timestamp": "2025-07-31T19:43:47Z",
+      "version": 1,
+      "changeset": 169787862,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "yes",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13040013140,
+      "lat": 42.2974557,
+      "lon": -82.9619528,
+      "timestamp": "2025-08-05T20:13:59Z",
+      "version": 2,
+      "changeset": 170026695,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "yes",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13056610301,
+      "lat": 42.2953892,
+      "lon": -82.9654734,
+      "timestamp": "2025-08-07T17:28:22Z",
+      "version": 1,
+      "changeset": 170119027,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13056610302,
+      "lat": 42.2953467,
+      "lon": -82.9656948,
+      "timestamp": "2025-08-07T17:28:22Z",
+      "version": 1,
+      "changeset": 170119027,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13087424363,
+      "lat": 42.2831032,
+      "lon": -82.9639584,
+      "timestamp": "2025-08-21T18:36:12Z",
+      "version": 1,
+      "changeset": 170795193,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13134926092,
+      "lat": 42.2738071,
+      "lon": -83.0062129,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13134926093,
+      "lat": 42.2736878,
+      "lon": -83.0062591,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13134926229,
+      "lat": 42.2750316,
+      "lon": -83.0087935,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13134926230,
+      "lat": 42.2750279,
+      "lon": -83.0084644,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13134926241,
+      "lat": 42.2750484,
+      "lon": -83.0086651,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13147967133,
+      "lat": 42.2983308,
+      "lon": -83.0131005,
+      "timestamp": "2025-09-16T18:59:00Z",
+      "version": 2,
+      "changeset": 172030950,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13174612160,
+      "lat": 42.2688977,
+      "lon": -83.0251224,
+      "timestamp": "2025-10-15T19:49:38Z",
+      "version": 2,
+      "changeset": 173336274,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13355852577,
+      "lat": 42.3037638,
+      "lon": -83.0369904,
+      "timestamp": "2025-12-05T15:38:08Z",
+      "version": 1,
+      "changeset": 175553552,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13382060443,
+      "lat": 42.3165229,
+      "lon": -83.035385,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13382060460,
+      "lat": 42.3157365,
+      "lon": -83.0342797,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13388911090,
+      "lat": 42.3227122,
+      "lon": -83.0265832,
+      "timestamp": "2025-12-19T15:42:40Z",
+      "version": 1,
+      "changeset": 176146072,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13388960281,
+      "lat": 42.3230196,
+      "lon": -83.0268189,
+      "timestamp": "2025-12-19T15:42:40Z",
+      "version": 1,
+      "changeset": 176146072,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13388960285,
+      "lat": 42.32287,
+      "lon": -83.0267588,
+      "timestamp": "2025-12-19T15:42:40Z",
+      "version": 1,
+      "changeset": 176146072,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13437834142,
+      "lat": 42.3040601,
+      "lon": -83.064348,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 2,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13437834147,
+      "lat": 42.3034148,
+      "lon": -83.0639371,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 2,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13443764860,
+      "lat": 42.3163357,
+      "lon": -83.0345278,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13443768803,
+      "lat": 42.3180038,
+      "lon": -83.0341579,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 1,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13714225958,
+      "lat": 42.3046236,
+      "lon": -83.0670484,
+      "timestamp": "2026-04-07T16:50:05Z",
+      "version": 1,
+      "changeset": 181010463,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13714225966,
+      "lat": 42.3047135,
+      "lon": -83.0670714,
+      "timestamp": "2026-04-07T16:50:05Z",
+      "version": 1,
+      "changeset": 181010463,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13714711932,
+      "lat": 42.3044385,
+      "lon": -83.0687829,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13714711933,
+      "lat": 42.304622,
+      "lon": -83.0688997,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13716979586,
+      "lat": 42.3066454,
+      "lon": -83.0690539,
+      "timestamp": "2026-04-08T20:27:43Z",
+      "version": 2,
+      "changeset": 181068635,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13716979595,
+      "lat": 42.3065122,
+      "lon": -83.068969,
+      "timestamp": "2026-04-08T20:27:43Z",
+      "version": 2,
+      "changeset": 181068635,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324358577,
+      "lat": 42.3119819,
+      "lon": -82.9395513,
+      "timestamp": "2026-10-28T00:44:14Z",
+      "version": 1,
+      "changeset": 191126288,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324358578,
+      "lat": 42.3116906,
+      "lon": -82.9393504,
+      "timestamp": "2026-10-28T00:44:14Z",
+      "version": 1,
+      "changeset": 191126288,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324358579,
+      "lat": 42.3115383,
+      "lon": -82.9392335,
+      "timestamp": "2026-10-28T00:44:14Z",
+      "version": 1,
+      "changeset": 191126288,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324358580,
+      "lat": 42.3114382,
+      "lon": -82.9391605,
+      "timestamp": "2026-10-28T00:44:14Z",
+      "version": 1,
+      "changeset": 191126288,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324371454,
+      "lat": 42.2782433,
+      "lon": -83.0172553,
+      "timestamp": "2026-10-28T00:57:06Z",
+      "version": 1,
+      "changeset": 191126451,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324371455,
+      "lat": 42.2780519,
+      "lon": -83.0173279,
+      "timestamp": "2026-10-28T00:57:06Z",
+      "version": 1,
+      "changeset": 191126451,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14324425305,
+      "lat": 42.3110445,
+      "lon": -82.9389224,
+      "timestamp": "2026-10-28T00:44:52Z",
+      "version": 1,
+      "changeset": 191126296,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011652060,
+      "lat": 42.3180914,
+      "lon": -83.0308847,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011652091,
+      "lat": 42.3185447,
+      "lon": -83.0329955,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011652095,
+      "lat": 42.3162061,
+      "lon": -83.0311815,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011780636,
+      "lat": 42.31688,
+      "lon": -83.0368329,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011780637,
+      "lat": 42.3167408,
+      "lon": -83.0373626,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018678392,
+      "lat": 42.3177058,
+      "lon": -83.0306375,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018874008,
+      "lat": 42.3172411,
+      "lon": -83.0366936,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10018918736,
+      "lat": 42.3177374,
+      "lon": -83.038697,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10027890948,
+      "lat": 42.3174151,
+      "lon": -83.0304514,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 3,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10056094159,
+      "lat": 42.318398,
+      "lon": -83.0391619,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10056094163,
+      "lat": 42.3190632,
+      "lon": -83.0389733,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166773,
+      "lat": 42.3169876,
+      "lon": -83.0376177,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625166776,
+      "lat": 42.3168327,
+      "lon": -83.0375209,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625167056,
+      "lat": 42.3186112,
+      "lon": -83.0327914,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625167099,
+      "lat": 42.3176314,
+      "lon": -83.0369462,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625167114,
+      "lat": 42.3177109,
+      "lon": -83.0371243,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10625167155,
+      "lat": 42.3176335,
+      "lon": -83.0378292,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10626828695,
+      "lat": 42.3187582,
+      "lon": -83.0313118,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10626828696,
+      "lat": 42.3186504,
+      "lon": -83.0312427,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11560942537,
+      "lat": 42.319124,
+      "lon": -83.0394255,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11560942544,
+      "lat": 42.3197944,
+      "lon": -83.039069,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12829772733,
+      "lat": 42.319727,
+      "lon": -83.0393818,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 2,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13443764836,
+      "lat": 42.3154863,
+      "lon": -83.0332187,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450478155,
+      "lat": 42.3174412,
+      "lon": -83.0335615,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450478156,
+      "lat": 42.3158421,
+      "lon": -83.0322103,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450478197,
+      "lat": 42.317542,
+      "lon": -83.0332975,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "raised",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450478209,
+      "lat": 42.3174836,
+      "lon": -83.0334505,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "raised",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450478293,
+      "lat": 42.3186373,
+      "lon": -83.0314745,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707364,
+      "lat": 42.318597,
+      "lon": -83.0383611,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707367,
+      "lat": 42.3191581,
+      "lon": -83.0385968,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707370,
+      "lat": 42.3186267,
+      "lon": -83.0382453,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707381,
+      "lat": 42.3179048,
+      "lon": -83.038022,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707382,
+      "lat": 42.3182803,
+      "lon": -83.0390079,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707385,
+      "lat": 42.3179978,
+      "lon": -83.0376499,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707386,
+      "lat": 42.3192648,
+      "lon": -83.0388237,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707388,
+      "lat": 42.3176474,
+      "lon": -83.0385052,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707405,
+      "lat": 42.3174649,
+      "lon": -83.0368384,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707415,
+      "lat": 42.3168549,
+      "lon": -83.0369119,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13450707438,
+      "lat": 42.3177548,
+      "lon": -83.0380105,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13579675303,
+      "lat": 42.2698832,
+      "lon": -83.0023796,
+      "timestamp": "2026-03-16T18:59:44Z",
+      "version": 2,
+      "changeset": 179967131,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "dashes",
+        "flashing_lights": "button",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "yes",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13621886919,
+      "lat": 42.2696725,
+      "lon": -83.0024211,
+      "timestamp": "2026-03-16T18:59:44Z",
+      "version": 2,
+      "changeset": 179967131,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "dashes",
+        "flashing_lights": "button",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "yes",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784900929,
+      "timestamp": "2026-10-28T00:57:06Z",
+      "version": 4,
+      "changeset": 191126451,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "nodes": [
+        7333071796,
+        7333071799,
+        14324371454,
+        7333071800,
+        7333071797
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "button",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784900931,
+      "timestamp": "2026-10-28T00:57:06Z",
+      "version": 4,
+      "changeset": 191126451,
+      "user": "Tina Yan",
+      "uid": 24705130,
+      "nodes": [
+        7333071797,
+        7333071822,
+        14324371455,
+        7333071821,
+        7333071798
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "button",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785136005,
+      "timestamp": "2025-05-22T18:49:31Z",
+      "version": 3,
+      "changeset": 166626198,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        5245158098,
+        7335446467,
+        7335446466
+      ],
+      "tags": {
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "foot": "designated",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785136015,
+      "timestamp": "2025-10-20T13:05:03Z",
+      "version": 2,
+      "changeset": 173536039,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7335447225,
+        7335447254,
+        7335447226
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785425555,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7341214402,
+        7341214408,
+        7341214407
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785425557,
+      "timestamp": "2026-01-07T14:13:08Z",
+      "version": 2,
+      "changeset": 176946801,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7341214416,
+        7341214417,
+        7341214415
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 786103359,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 3,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7349773915,
+        7349773943,
+        7349773919
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093904654,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 2,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10011652101,
+        10018678387,
+        10011652096
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093915950,
+      "timestamp": "2025-06-11T17:42:04Z",
+      "version": 3,
+      "changeset": 167502413,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918980,
+        10018918982,
+        10018918981
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines:paired",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1095033747,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 2,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018873980,
+        10028443578,
+        10018873973
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1388838598,
+      "timestamp": "2025-10-14T19:55:32Z",
+      "version": 2,
+      "changeset": 173292079,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        11145698829,
+        11145698830,
+        12856119829
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "footway": "crossing",
+        "highway": "footway",
+        "surface": "asphalt",
+        "traffic_signals:sound": "walk",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1390482561,
+      "timestamp": "2025-05-28T15:36:26Z",
+      "version": 1,
+      "changeset": 166881841,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        12871328334,
+        12871328374,
+        12871328372,
+        12871328373,
+        12868268680
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1390511666,
+      "timestamp": "2026-04-27T18:00:57Z",
+      "version": 2,
+      "changeset": 181904593,
+      "user": "BlueBlurr1565",
+      "uid": 20499520,
+      "nodes": [
+        12871554874,
+        12871555030,
+        12871555029
+      ],
+      "tags": {
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder",
+        "cycleway": "crossing",
+        "flashing_lights": "no",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lit": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1390532191,
+      "timestamp": "2025-05-28T19:15:20Z",
+      "version": 1,
+      "changeset": 166890258,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        12871721489,
+        12871732792,
+        12871721490
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "button",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394200979,
+      "timestamp": "2025-06-11T15:50:23Z",
+      "version": 2,
+      "changeset": 167498137,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        12906269051,
+        12906269077,
+        11173120400
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "surface",
+        "flashing_lights": "button",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "concrete",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394376035,
+      "timestamp": "2025-06-12T17:13:34Z",
+      "version": 2,
+      "changeset": 167543011,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918972,
+        12907905903,
+        10018918971
+      ],
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "traffic_signals:arrow": "no",
+        "traffic_signals:countdown": "no",
+        "traffic_signals:minimap": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1411971191,
+      "timestamp": "2025-07-03T20:05:17Z",
+      "version": 1,
+      "changeset": 168459492,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        12971740322,
+        12974701555,
+        12974701554
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1413322859,
+      "timestamp": "2025-07-08T19:08:19Z",
+      "version": 1,
+      "changeset": 168664368,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        12988278327,
+        12988278336,
+        12988278328
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1418741596,
+      "timestamp": "2025-07-30T19:30:10Z",
+      "version": 1,
+      "changeset": 169738136,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13037961264,
+        13037961334,
+        13037961278,
+        13037961333,
+        13037824348
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1419001131,
+      "timestamp": "2025-07-31T19:43:47Z",
+      "version": 1,
+      "changeset": 169787862,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13040013123,
+        13040013139,
+        13040013137,
+        13040013140,
+        13040013138
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420466323,
+      "timestamp": "2025-09-05T14:24:35Z",
+      "version": 2,
+      "changeset": 171501992,
+      "user": "samuel_geovelo",
+      "uid": 14464629,
+      "nodes": [
+        13032266169,
+        4701630461,
+        13024966321
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "segregated": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420466324,
+      "timestamp": "2025-08-06T17:01:26Z",
+      "version": 1,
+      "changeset": 170069382,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13032266198,
+        4701630467,
+        13032266199
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "yes",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420788759,
+      "timestamp": "2025-08-07T17:28:22Z",
+      "version": 1,
+      "changeset": 170119027,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13056610244,
+        13056610301,
+        13056610245
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder:skewed",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420788761,
+      "timestamp": "2025-08-07T17:28:22Z",
+      "version": 1,
+      "changeset": 170119027,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13056610246,
+        13056610302,
+        13056610247
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder:skewed",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1423952235,
+      "timestamp": "2025-08-21T18:36:12Z",
+      "version": 1,
+      "changeset": 170795193,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13087424348,
+        13087424363,
+        13087424349
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing:markings": "ladder:skewed",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428842163,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13134926035,
+        13134926092,
+        13134926023
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428842164,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13134926035,
+        13134926093,
+        13134823705
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428842200,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13134926210,
+        13134926229,
+        13134926211
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428842202,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13134926212,
+        13134926241,
+        13134926213
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428842204,
+      "timestamp": "2025-09-10T19:46:51Z",
+      "version": 1,
+      "changeset": 171753437,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13134926214,
+        13134926230,
+        13134926215
+      ],
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "crossing:markings": "zebra",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1454474767,
+      "timestamp": "2025-11-28T18:52:40Z",
+      "version": 2,
+      "changeset": 175250952,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13338817016,
+        7349773909,
+        13338817015
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1454503917,
+      "timestamp": "2025-11-28T18:52:40Z",
+      "version": 1,
+      "changeset": 175250952,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13339056867,
+        7349773938,
+        13339056866
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1455271615,
+      "timestamp": "2025-12-01T18:14:20Z",
+      "version": 1,
+      "changeset": 175370803,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13346195739,
+        12873974160,
+        13346195740
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459131882,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018873985,
+        13382060443,
+        10018873988,
+        10011780644
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459131888,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13382060442,
+        10625166805,
+        13382060441
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459131895,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13382060462,
+        13382060460,
+        13382060461
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459131897,
+      "timestamp": "2025-12-16T20:16:42Z",
+      "version": 1,
+      "changeset": 176022227,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13382060464,
+        10625166792,
+        13382060463
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465111761,
+      "timestamp": "2026-01-07T14:13:08Z",
+      "version": 1,
+      "changeset": 176946801,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13437834126,
+        12873974131,
+        13437834182
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465111784,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 2,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13437834188,
+        7344965774,
+        13437834187
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465111786,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 2,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13437834195,
+        13437834147,
+        13437834194
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163185,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314513,
+        13437834142,
+        13438314514
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163190,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314521,
+        9842307920,
+        13438314520
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163192,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        9988659150,
+        9988659148,
+        13438314522
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163193,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7341214401,
+        7344965757,
+        7341214422
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163195,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7341214444,
+        7341214587,
+        7341214403
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163196,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7349773915,
+        12873974127,
+        12873974108,
+        12873974107,
+        7344965727,
+        12873974128,
+        7349773919
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163198,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314525,
+        12873974129,
+        13438314524
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163200,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314530,
+        7341214459,
+        13438314529
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163202,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314532,
+        12201211107,
+        13438314531
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465163204,
+      "timestamp": "2026-01-07T18:46:59Z",
+      "version": 1,
+      "changeset": 176956696,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13438314534,
+        12873974106,
+        13438314535
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465708346,
+      "timestamp": "2026-01-09T20:25:35Z",
+      "version": 1,
+      "changeset": 177040481,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443716874,
+        7341401759,
+        9842307714,
+        13443716875
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465715145,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 1,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        9957631683,
+        9957631686,
+        13443762387
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465715149,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 1,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443762395,
+        13443768803,
+        13443762394
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465715151,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 1,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918760,
+        10018918762,
+        13443762396
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465715153,
+      "timestamp": "2026-01-09T21:05:45Z",
+      "version": 1,
+      "changeset": 177041617,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443762398,
+        256991730,
+        13443762399
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717323,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764841,
+        10625167153,
+        13443764840
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717325,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764843,
+        10625166795,
+        13443764842
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717327,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764845,
+        10101282976,
+        13443764844
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717329,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764847,
+        13443764860,
+        13443764846
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717331,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764849,
+        10625166837,
+        13443764848
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717332,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764851,
+        10625166826,
+        10625166825,
+        13443764850
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717334,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764855,
+        10625166818,
+        10625166817,
+        13443764854
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465717336,
+      "timestamp": "2026-01-09T21:21:50Z",
+      "version": 1,
+      "changeset": 177042029,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13443764858,
+        13443764836,
+        13443764859
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493040,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10011652068,
+        10011652091,
+        13450478107
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493042,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478108,
+        10625167056,
+        13450478109
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493045,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478119,
+        10626828695,
+        13450478120
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493047,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478121,
+        10626828696,
+        13450478122
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493049,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018787317,
+        10011652060,
+        13450478123
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493051,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478124,
+        10018678392,
+        13450478125
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493052,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10011652057,
+        10027890948,
+        13450478126
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493055,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10011652046,
+        10011652095,
+        13450478127
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493065,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478141,
+        13450478156,
+        13450478142
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493076,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478130,
+        13450478155,
+        10011652080
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493091,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450478154,
+        13450478197,
+        13450478196
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493096,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018787343,
+        13450478209,
+        13450478208
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466493137,
+      "timestamp": "2026-01-12T14:53:50Z",
+      "version": 1,
+      "changeset": 177141687,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10626614396,
+        13450478293,
+        13450478292
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523232,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707407,
+        13450707415,
+        10011780636,
+        13450707408
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523234,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707409,
+        10625167114,
+        13450707410
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523241,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918719,
+        10011780637,
+        10018874007
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523243,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707424,
+        13450707388,
+        13450707423
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523244,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018874006,
+        13450707438,
+        10018918722
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523246,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707428,
+        10625166773,
+        13450707427
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523248,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707430,
+        10625166776,
+        13450707429
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523250,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707431,
+        10018874008,
+        13450707432
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523252,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918718,
+        13450707405,
+        13450707433
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523254,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707434,
+        10625167099,
+        13450707435
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523256,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707436,
+        10625167155,
+        13450707437
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523258,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        10018918737,
+        10018918736,
+        13450707440
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523260,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707442,
+        13450707381,
+        13450707441
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523262,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707444,
+        13450707385,
+        13450707443
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523263,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707446,
+        13450707382,
+        13450707445
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523265,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707448,
+        10056094159,
+        13450707447
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523267,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707450,
+        13450707370,
+        13450707364,
+        13450707449
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523269,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707452,
+        13450707367,
+        13450707451
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523270,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707454,
+        10056094163,
+        13450707453
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523272,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707456,
+        11560942537,
+        13450707455
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523274,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707458,
+        13450707386,
+        13450707457
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523276,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707460,
+        11560942544,
+        13450707459
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466523277,
+      "timestamp": "2026-01-12T16:16:50Z",
+      "version": 1,
+      "changeset": 177144986,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13450707462,
+        12829772733,
+        13450707461
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "lines",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1480556244,
+      "timestamp": "2026-03-16T18:59:44Z",
+      "version": 3,
+      "changeset": 179967131,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13579671998,
+        13579675303,
+        13579675304
+      ],
+      "tags": {
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lit": "yes",
+        "oneway": "no",
+        "segregated": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1485888905,
+      "timestamp": "2026-03-16T18:59:44Z",
+      "version": 2,
+      "changeset": 179967131,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13621886918,
+        13621886919,
+        13579671998
+      ],
+      "tags": {
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lit": "yes",
+        "oneway": "no",
+        "segregated": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497408898,
+      "timestamp": "2026-04-07T16:50:05Z",
+      "version": 1,
+      "changeset": 181010463,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714225953,
+        13714225958,
+        13714225954
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497408902,
+      "timestamp": "2026-04-07T16:50:05Z",
+      "version": 1,
+      "changeset": 181010463,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714225964,
+        13714225966,
+        13714225965
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497479940,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714711934,
+        13714711933,
+        13714711935
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497479942,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714711936,
+        13714711932,
+        13714711937
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497479944,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7337314647,
+        7337314638,
+        13714711938
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497479946,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714711939,
+        7337314641,
+        7344507656
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497479948,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        7337314639,
+        7337314642,
+        13714711940
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497480013,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714712262,
+        7344507621,
+        13714712263
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497480015,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714712264,
+        7344507620,
+        13714712251
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497480041,
+      "timestamp": "2026-04-07T20:13:00Z",
+      "version": 1,
+      "changeset": 181018804,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13714712346,
+        7337314836,
+        7337314837,
+        13714712345
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497752311,
+      "timestamp": "2026-04-08T18:31:55Z",
+      "version": 1,
+      "changeset": 181064631,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        3857105681,
+        7337314821,
+        7337314702
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497752320,
+      "timestamp": "2026-04-08T18:31:55Z",
+      "version": 1,
+      "changeset": 181064631,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13716979549,
+        13716979586,
+        13716979582
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497752323,
+      "timestamp": "2026-04-08T18:31:55Z",
+      "version": 1,
+      "changeset": 181064631,
+      "user": "Windsor Essex Strong Towns",
+      "uid": 22924721,
+      "nodes": [
+        13716979556,
+        13716979595,
+        13716979591
+      ],
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "no",
+        "crossing:markings": "no",
+        "flashing_lights": "no",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}

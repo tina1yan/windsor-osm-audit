@@ -1,0 +1,9 @@
+# Validation and limitations
+
+28 October 2026. Twenty-two automated checks passed for the export logic, including refusal of missing approval/evidence/permission, changed versions/coordinates/tags, missing objects, unsupported tag changes, unchanged proposals and unresolved tag contradictions. Tests confirm preservation of unrelated tags and coordinates, XML escaping, and modify-only output. Synthetic test exports are excluded from this package.
+
+All nine context files parsed as XML and contain only positive existing OSM IDs with zero pending actions. Synthetic .osm/.osc modification outputs also parsed as XML. The embedded page script passed a syntax check. The package has 40 unique review nodes and nine site snapshots.
+
+A native JOSM import/upload round trip and a rendered-browser end-to-end export were not performed. The computer-use browser policy blocked opening the local HTML file, so verification used local code/XML checks instead. No actual OSM edit was used as a test. A direct public API node request confirmed cross-origin access for a local-file origin; a subsequent bulk refresh received HTTP 429. The kit therefore explicitly retains the timestamped, previously verified API snapshots from the original audit. Export still requires a successful fresh API read and stops on request failure or data changes. It never falls back to an unchecked export.
+
+The five groups classify existing recorded attributes, not measured geometric or physical similarity. No claim of 99% accuracy or automatic propagation of a field observation is made. Evidence/source permission and community-process statements are supplied by the mapper and are not independently certified by the software. JOSM validation and manual review remain necessary, particularly for changes to connected crossing ways.

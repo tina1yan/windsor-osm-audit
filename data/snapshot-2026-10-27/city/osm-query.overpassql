@@ -1,0 +1,1 @@
+[out:json][timeout:90];(node[highway=crossing](42.232,-83.113,42.354,-82.888);way[highway](42.232,-83.113,42.354,-82.888);nw[amenity~"^(toilets|bicycle_parking|charging_station)$"](42.232,-83.113,42.354,-82.888););out meta geom;

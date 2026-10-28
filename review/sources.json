@@ -1,0 +1,21 @@
+{
+  "pxo": "https://www.citywindsor.ca/residents/traffic-and-parking/transportation-planning/pedestrian-crossovers",
+  "ev": "https://www.citywindsor.ca/residents/traffic-and-parking/on-off-street-parking/electric-vehicle-charging-stations",
+  "aquatic": "https://citywindsor.ca/residents/recreation/aquatics/windsor-international-aquatic-and-training-centre/Parking",
+  "parks": "https://www.citywindsor.ca/residents/parks-and-forestry/parks-development/current-projects",
+  "richmondPhoto": "https://www.citywindsor.ca/images/residents/traffic-and-parking/transportation-planning/Richmond%20%26%20Chilver%20photo%204.jpg",
+  "rhodesPhoto": "https://www.citywindsor.ca/images/residents/traffic-and-parking/traffic-management/IMG_6483.jpg",
+  "banwellPhoto": "https://www.citywindsor.ca/images/residents/traffic-and-parking/transportation-planning/Above%20location%20-%20Pedestrian%20Crossover%20at%20Banwell%20Road%20and%20Mulberry%20Drive%20Roundabout%20in%20Windsor,%20Ontario..jpg",
+  "licence": "https://opendata.citywindsor.ca/Documents/OpenDataTermsofUse.pdf",
+  "canada": "https://wiki.openstreetmap.org/wiki/Canada#Ontario",
+  "contributors": "https://wiki.openstreetmap.org/wiki/Contributors#Windsor",
+  "lwg": "https://osmfoundation.org/wiki/OGL_Canada_and_local_variants",
+  "imports": "https://wiki.openstreetmap.org/wiki/Import/Guidelines",
+  "automated": "https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct",
+  "signals": "https://wiki.openstreetmap.org/wiki/Key:crossing:signals",
+  "flashing": "https://wiki.openstreetmap.org/wiki/Key:flashing_lights",
+  "enwin": "https://enwin.com/enwin-utilities-ltd-unveils-completed-electric-vehicle-and-charging-stations",
+  "hackforge": "https://www.hackf.org/event/legacy-beacon-mapping/",
+  "trafficStudy": "https://citywindsor.ca/documents/residents/planning/land-development/development-applications/current-development-applications/1141%2C%201175%20Cabana%20Road%20West%20-%20Final%20Traffic%20Impact%20Brief.pdf",
+  "construction": "https://www.citywindsor.ca/documents/residents/construction/102-24%20-%20Wyandotte%20and%20Marentette%20-%20Resuming%20Construction.pdf"
+}

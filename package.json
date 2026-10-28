@@ -1,0 +1,15 @@
+{
+  "name": "windsor-osm-audit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-assisted Windsor OSM and municipal open-data review",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node tools/validate.mjs",
+    "replay": "node tools/replay-snapshot.mjs",
+    "refresh": "node review/refresh/refresh.mjs"
+  }
+}

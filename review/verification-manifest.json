@@ -1,0 +1,180 @@
+{
+  "osm_snapshot": "2026-10-28T03:27:02Z",
+  "live_sites": [
+    {
+      "name": "JEFFERSON BLVD / EDGAR ST",
+      "p": [
+        -82.96019921524393,
+        42.32363492221723
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.96159921524394,42.32253492221723,-82.95879921524393,42.32473492221723",
+      "file": "site-0.json",
+      "retrieved": "2026-10-28T03:31:39.394Z",
+      "count": 847,
+      "crossings": 21,
+      "charging": []
+    },
+    {
+      "name": "LITTLE RIVER BLVD / CORA GREENWOOD DR",
+      "p": [
+        -82.89837145758877,
+        42.32621340471612
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.89977145758877,42.32511340471612,-82.89697145758876,42.32731340471612",
+      "file": "site-1.json",
+      "retrieved": "2026-10-28T03:31:39.658Z",
+      "count": 974,
+      "crossings": 47,
+      "charging": []
+    },
+    {
+      "name": "PILLETTE RD / MILLOY ST",
+      "p": [
+        -82.97141564378018,
+        42.312654727721245
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.97281564378018,42.311554727721244,-82.97001564378017,42.313754727721246",
+      "file": "site-2.json",
+      "retrieved": "2026-10-28T03:31:39.886Z",
+      "count": 1039,
+      "crossings": 69,
+      "charging": []
+    },
+    {
+      "name": "WYANDOTTE ST E / MARENTETTE AVE",
+      "p": [
+        -83.02550218445181,
+        42.318140280876
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.02690218445181,42.317040280876,-83.0241021844518,42.319240280876",
+      "file": "site-3.json",
+      "retrieved": "2026-10-28T03:31:40.104Z",
+      "count": 1044,
+      "crossings": 71,
+      "charging": []
+    },
+    {
+      "name": "FREEDOM WAY / PARK ST E",
+      "p": [
+        -83.0373142582291,
+        42.316669273756084
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.0387142582291,42.31556927375608,-83.0359142582291,42.317769273756085",
+      "file": "site-4.json",
+      "retrieved": "2026-10-28T03:31:40.318Z",
+      "count": 958,
+      "crossings": 41,
+      "charging": []
+    },
+    {
+      "name": "LAUZON PKY / FOREST GLADE DR",
+      "p": [
+        -82.92803876071552,
+        42.297091101293184
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.92943876071553,42.29599110129318,-82.92663876071552,42.298191101293185",
+      "file": "site-5.json",
+      "retrieved": "2026-10-28T03:31:40.555Z",
+      "count": 783,
+      "crossings": 20,
+      "charging": []
+    },
+    {
+      "name": "MATCHETT RD / TITCOMBE RD",
+      "p": [
+        -83.07424491579134,
+        42.26384663236017
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.07564491579134,42.26274663236017,-83.07284491579134,42.26494663236017",
+      "file": "site-6.json",
+      "retrieved": "2026-10-28T03:31:40.720Z",
+      "count": 315,
+      "crossings": 0,
+      "charging": []
+    },
+    {
+      "name": "RHODES DR / ELECTRICITY DR",
+      "p": [
+        -82.96520941570662,
+        42.282634646934575
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.96660941570663,42.281534646934574,-82.96380941570662,42.283734646934576",
+      "file": "site-7.json",
+      "retrieved": "2026-10-28T03:31:40.932Z",
+      "count": 837,
+      "crossings": 6,
+      "charging": []
+    },
+    {
+      "name": "RICHMOND ST / CHILVER RD",
+      "p": [
+        -83.00985160456133,
+        42.31571868490633
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.01125160456134,42.31461868490633,-83.00845160456133,42.31681868490633",
+      "file": "site-8.json",
+      "retrieved": "2026-10-28T03:31:41.182Z",
+      "count": 1153,
+      "crossings": 36,
+      "charging": []
+    },
+    {
+      "name": "BANWELL RD / MULBERRY DR",
+      "p": [
+        -82.89931352956395,
+        42.306080491427686
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-82.90071352956396,42.304980491427685,-82.89791352956395,42.30718049142769",
+      "file": "site-9.json",
+      "retrieved": "2026-10-28T03:31:41.433Z",
+      "count": 850,
+      "crossings": 15,
+      "charging": []
+    },
+    {
+      "name": "Carpri Pizzeria Community Centre",
+      "p": [
+        -83.03467499982101,
+        42.2564850002267
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.03607499982101,42.255385000226696,-83.033274999821,42.2575850002267",
+      "file": "site-10.json",
+      "retrieved": "2026-10-28T03:31:41.583Z",
+      "count": 168,
+      "crossings": 0,
+      "charging": []
+    },
+    {
+      "name": "City of Windsor Garage 2",
+      "p": [
+        -83.0387024995658,
+        42.315732000344894
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.0401024995658,42.31463200034489,-83.0373024995658,42.316832000344895",
+      "file": "site-11.json",
+      "retrieved": "2026-10-28T03:31:41.795Z",
+      "count": 1102,
+      "crossings": 40,
+      "charging": []
+    },
+    {
+      "name": "City of Windsor Aquatic Centre",
+      "p": [
+        -83.04457050023503,
+        42.31724399961031
+      ],
+      "url": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-83.04597050023503,42.31614399961031,-83.04317050023502,42.31834399961031",
+      "file": "site-12.json",
+      "retrieved": "2026-10-28T03:31:42.070Z",
+      "count": 1171,
+      "crossings": 82,
+      "charging": []
+    }
+  ],
+  "qa_current_at": "2026-10-28T03:33:35.675Z",
+  "qa_objects": 255,
+  "qa_versions_changed": 0,
+  "osm_submissions": 0,
+  "package_language": "en",
+  "analysis_method": "AI-assisted spatial and attribute screening with source cross-checks; no independent ground survey."
+}
